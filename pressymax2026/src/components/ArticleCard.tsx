@@ -10,7 +10,7 @@ const ArticleCard: React.FC<ArticleCardProps> = ({ article }) => {
     <div className="article-card">
       <h2>{article.title}</h2>
       <p>{article.deck}</p>
-      <a href={`/article/${article.id}`}>Read more</a>
+      <a href={`#/article/${article.id}`}>Read more</a>
     </div>
   );
 };

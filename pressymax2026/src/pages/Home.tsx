@@ -1,12 +1,14 @@
 import React from 'react';
 import ArticleList from '../components/ArticleList';
 import Layout from '../components/Layout';
+import TopBar from '../components/topBar';
+
 
 const Home: React.FC = () => {
   return (
     <div style={{ backgroundImage: 'url("/background.png")', minHeight: '100vh', color: 'white' , padding: '20px'}}>
-        <header>
-        <h1>YMAX Press 2026</h1>
+        <header style={{paddingBottom:"5vw"}}>
+        <TopBar/>
       </header>
     <Layout>
         
