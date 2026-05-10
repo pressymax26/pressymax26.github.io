@@ -2,7 +2,7 @@
   "name": "pressymax2026",
   "homepage": "https://pressymax26.github.io/",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.1.0",
   "type": "module",
   "scripts": {
     "dev": "vite",

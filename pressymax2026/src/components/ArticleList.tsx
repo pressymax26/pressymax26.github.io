@@ -1,4 +1,5 @@
 import React from 'react';
+import "../index.css"
 import ArticleCard from './ArticleCard';
 import {articles} from '../content/deliverables';
 

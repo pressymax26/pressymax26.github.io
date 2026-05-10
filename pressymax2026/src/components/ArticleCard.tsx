@@ -9,8 +9,12 @@ const ArticleCard: React.FC<ArticleCardProps> = ({ article }) => {
   return (
     <div className="article-card">
       <h2>{article.title}</h2>
+      {article.articleThumbnail && (
+        <img src={article.articleThumbnail} alt={article.title} style={{width:'100%', height:'auto'}} />
+      )}
+      <p>{article.agency}</p>
       <p>{article.deck}</p>
-      <a href={`#/article/${article.id}`}>Read more</a>
+      <a className='article-card-button' href={`#/article/${article.id}`}>Read</a>
     </div>
   );
 };

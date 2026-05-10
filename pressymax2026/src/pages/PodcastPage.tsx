@@ -1,5 +1,5 @@
 import React from 'react';
-import ArticleList from '../components/ArticleList';
+import PodcastList from '../components/PodcastList';
 import Layout from '../components/Layout';
 import TopBar from '../components/topBar';
 
@@ -13,8 +13,8 @@ const Home: React.FC = () => {
     <Layout>
         
       <div>
-        <h1>Latest News</h1>
-        <ArticleList />
+        <h1>Podcasts</h1>
+        <PodcastList />
       </div>
     </Layout>
     <footer>
