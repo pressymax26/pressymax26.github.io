@@ -13,7 +13,7 @@ const Home: React.FC = () => {
     <Layout>
         
       <div>
-        <h1>Latest News</h1>
+        <h1 className="latest">Latest News</h1>
         <ArticleList />
       </div>
     </Layout>

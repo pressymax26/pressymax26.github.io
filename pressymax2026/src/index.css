@@ -12,8 +12,13 @@ body {
     color: #333;
 }
 
+.latest{
+        padding-top:1px;
+    }
+
 h1, h2, h3 {
     color: #ffffff;
+    font-family: 'League Spartan', sans-serif;
 }
 
 p{
@@ -45,6 +50,7 @@ p{
 
 .barLinks{
     color: white !important;
+    font-family: 'League Spartan', sans-serif;
     text-decoration: none;
     margin: 0 15px;
     transition: ease-in-out 0.8s;
@@ -124,6 +130,9 @@ a:visited{
 @media  screen and (max-width:480px) {
     h1{
         font-size: 5vw;
+    }
+    .latest{
+        padding-top:10vw;
     }
     .topBar{
     padding-bottom:20vw;
