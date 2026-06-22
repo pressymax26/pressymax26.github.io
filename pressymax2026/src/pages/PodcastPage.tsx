@@ -6,14 +6,14 @@ import TopBar from '../components/topBar';
 
 const Home: React.FC = () => {
   return (
-    <div style={{ backgroundImage: 'url("/background.png")', minHeight: '100vh', color: 'white' , padding: '20px'}}>
-        <header style={{paddingBottom:"7vw"}}>
+    <div style={{ backgroundImage: 'url("/background.png")', minHeight: '100vh', color: 'white'}} className="topBar">
+        <header>
         <TopBar/>
       </header>
     <Layout>
         
-      <div>
-        <h1>Podcasts</h1>
+      <div style={{marginTop:'10vh'}}>
+        <h1 className="latest">Podcasts</h1>
         <PodcastList />
       </div>
     </Layout>

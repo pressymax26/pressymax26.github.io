@@ -13,7 +13,7 @@ body {
 }
 
 .latest{
-        padding-top:1px;
+        margin-top:1px;
     }
 
 h1, h2, h3 {
@@ -35,7 +35,6 @@ p{
 .article-card{
     flex: 1 ;
     flex-basis: 33.33%;
-
 }
 
 .article-card-button{
@@ -116,7 +115,8 @@ p{
 }
 
 .topBar{
-    padding-bottom:8vw;
+    padding: 45px;
+    color: white;
 }
 
 a:visited{
@@ -131,9 +131,26 @@ a:visited{
     h1{
         font-size: 5vw;
     }
-    .latest{
-        padding-top:10vw;
+
+    .topBar{
+        padding: 30px;
     }
+    .latest{
+        font-size: 10vw;
+    }
+
+
+    .barLinks{
+        font-size: 3.1vw;
+        background-color: var(--ymaxlighterpurple);
+    color: white !important;
+    font-family: 'League Spartan', sans-serif;
+    text-decoration: none;
+    margin: 5px;
+    padding: 2px;
+    border-radius: 5px;
+    transition: ease-in-out 0.8s;
+}
     .topBar{
     padding-bottom:20vw;
 }

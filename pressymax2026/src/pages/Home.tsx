@@ -6,12 +6,12 @@ import TopBar from '../components/topBar';
 
 const Home: React.FC = () => {
   return (
-    <div style={{ backgroundImage: 'url("/background.png")', minHeight: '100vh', color: 'white' , padding: '40px'}}>
-        <header style={{paddingBottom:"7vw"}}>
+    <div style={{ backgroundImage: 'url("/background.png")', minHeight: '100vh', color: 'white' , padding: '45px'}}>
+        <header>
         <TopBar/>
       </header>
     <Layout>
-      <div>
+      <div style={{marginTop:'10vh'}}>
         <h1 className="latest" >Latest News</h1>
         <ArticleList />
       </div>
