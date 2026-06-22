@@ -310,4 +310,139 @@ Please change the parent <Route path="${e}"> to <Route path="${e===`/`?`*`:`${e}
    
 <h2> Appendix A </h2>
 <img src="/np-map.png" width="100%"></img>
-`}],Yn=[],Xn=[],Zn=()=>(0,j.jsx)(`div`,{className:`article-list`,children:Yn.map(e=>(0,j.jsx)(qn,{article:e},e.id))}),Qn=({children:e})=>(0,j.jsx)(`div`,{children:(0,j.jsx)(`main`,{children:e})}),$n=()=>(0,j.jsxs)(`div`,{style:{backgroundColor:`#333`,color:`white`,padding:`10px`,width:`100%`,top:0,position:`fixed`,left:0},children:[(0,j.jsx)(`h1`,{children:`YMAX Press 2026`}),(0,j.jsx)(`a`,{href:`/`,className:`barLinks`,children:`Latest News`}),(0,j.jsx)(`a`,{href:`#/article`,className:`barLinks`,children:`Articles`}),(0,j.jsx)(`a`,{href:`#/podcast`,className:`barLinks`,children:`Podcasts`}),(0,j.jsx)(`a`,{href:`#/suss`,className:`barLinks`,children:`SUSS Articles`}),(0,j.jsx)(`a`,{href:`https://tinyurl.com/ymax2026letterstojournalists`,className:`barLinks`,target:`_blank`,rel:`noopener noreferrer`,children:`Letters to Journalists`})]}),er=()=>(0,j.jsxs)(`div`,{style:{backgroundImage:`url("/background.png")`,minHeight:`100vh`,color:`white`,padding:`45px`},children:[(0,j.jsx)(`header`,{children:(0,j.jsx)($n,{})}),(0,j.jsx)(Qn,{children:(0,j.jsxs)(`div`,{style:{marginTop:`10vh`},children:[(0,j.jsx)(`h1`,{className:`latest`,children:`Latest News`}),(0,j.jsx)(Zn,{})]})}),(0,j.jsx)(`footer`,{children:(0,j.jsxs)(`p`,{children:[` YMAX Press & Co.`,new Date().getFullYear(),` `]})})]}),tr=()=>(0,j.jsxs)(`div`,{style:{backgroundImage:`url(/background.png)`,minHeight:`100vh`,color:`white`,padding:`20px`},children:[(0,j.jsx)(`header`,{className:`topBar`,children:(0,j.jsx)($n,{})}),(0,j.jsxs)(`div`,{style:{backgroundColor:`black`,padding:`20px`,borderRadius:`5px`,marginTop:`100px`},children:[(0,j.jsx)(`p`,{children:`Hello! We are the Editorial Team for YMAX 2026, consisting of Olivia, Lin Yi, Charlotte, Leslie and Tian Huai.`}),(0,j.jsx)(`p`,{children:`Led by our director Cheng Jie, we hope that YMAX Press this year will be able to engage every delegate's critical thinking skills, and ubnderstand the increasing relevance of the press corps in the world.`})]})]}),nr=`/background.png`,rr=()=>{let{id:e}=dt(),t=Yn.find(t=>t.id===e);return t?(0,j.jsxs)(`div`,{style:{backgroundImage:`url(${nr})`,minHeight:`100vh`,color:`white`,padding:`20px`},children:[(0,j.jsx)(`header`,{className:`topBar`,children:(0,j.jsx)($n,{})}),(0,j.jsxs)(`div`,{style:{backgroundColor:`black`,padding:`20px`,borderRadius:`5px`},children:[t.articleThumbnail&&(0,j.jsx)(`img`,{src:t.articleThumbnail,alt:t.title,style:{width:`100%`,height:`auto`}}),(0,j.jsx)(`h1`,{children:t.title}),(0,j.jsx)(`p`,{style:{textAlign:`justify`,lineHeight:`2`},dangerouslySetInnerHTML:{__html:t.content}})]})]}):(0,j.jsx)(`div`,{children:`Article not found`})},ir=()=>(0,j.jsxs)(`div`,{style:{backgroundImage:`url("/background.png")`,minHeight:`100vh`,color:`white`,padding:`45px`},children:[(0,j.jsx)(`header`,{children:(0,j.jsx)($n,{})}),(0,j.jsx)(Qn,{children:(0,j.jsxs)(`div`,{style:{marginTop:`10vh`},children:[(0,j.jsx)(`h1`,{className:`latest`,children:`Latest News`}),(0,j.jsx)(Zn,{})]})}),(0,j.jsx)(`footer`,{children:(0,j.jsxs)(`p`,{children:[` YMAX Press & Co.`,new Date().getFullYear(),` `]})})]}),ar=({podcast:e})=>(0,j.jsxs)(`div`,{className:`article-card`,children:[(0,j.jsx)(`h2`,{children:e.title}),(0,j.jsx)(`p`,{children:e.agency}),(0,j.jsx)(`audio`,{src:e.content,autoPlay:!1,controls:!0})]}),or=()=>(0,j.jsx)(`div`,{className:`article-list`,children:Xn.map(e=>(0,j.jsx)(ar,{podcast:e},e.id))}),sr=()=>(0,j.jsxs)(`div`,{style:{backgroundImage:`url("/background.png")`,minHeight:`100vh`,color:`white`},className:`topBar`,children:[(0,j.jsx)(`header`,{children:(0,j.jsx)($n,{})}),(0,j.jsx)(Qn,{children:(0,j.jsxs)(`div`,{style:{marginTop:`10vh`},children:[(0,j.jsx)(`h1`,{className:`latest`,children:`Podcasts`}),(0,j.jsx)(or,{})]})}),(0,j.jsx)(`footer`,{children:(0,j.jsxs)(`p`,{children:[` YMAX Press & Co.`,new Date().getFullYear(),` `]})})]}),cr=({article:e})=>(0,j.jsxs)(`div`,{className:`article-card`,children:[(0,j.jsx)(`h2`,{children:e.title}),(0,j.jsx)(`h3`,{children:e.deck}),e.articleThumbnail&&(0,j.jsx)(`img`,{src:e.articleThumbnail,alt:e.title,style:{width:`100%`,height:`auto`}}),(0,j.jsx)(`a`,{className:`article-card-button`,href:`#/suss/${e.id}`,children:`Read`})]}),lr=()=>(0,j.jsx)(`div`,{className:`article-list`,children:Jn.map(e=>(0,j.jsx)(cr,{article:e},e.id))}),ur=()=>(0,j.jsxs)(`div`,{style:{backgroundImage:`url("/background.png")`,minHeight:`100vh`,color:`white`,padding:`45px`},children:[(0,j.jsx)(`header`,{children:(0,j.jsx)($n,{})}),(0,j.jsx)(Qn,{children:(0,j.jsxs)(`div`,{style:{marginTop:`10vh`},children:[(0,j.jsx)(`h1`,{className:`latest`,children:`SUSS Articles!`}),(0,j.jsx)(lr,{})]})}),(0,j.jsx)(`footer`,{children:(0,j.jsxs)(`p`,{children:[` YMAX Press & Co.`,new Date().getFullYear(),` `]})})]}),dr=()=>{let{id:e}=dt(),t=Jn.find(t=>t.id===e);return t?(0,j.jsxs)(`div`,{style:{backgroundImage:`url(${nr})`,minHeight:`100vh`,color:`white`,padding:`20px`},children:[(0,j.jsx)(`header`,{className:`topBar`,children:(0,j.jsx)($n,{})}),(0,j.jsxs)(`div`,{style:{backgroundColor:`black`,padding:`20px`,borderRadius:`5px`},children:[t.articleThumbnail&&(0,j.jsx)(`img`,{src:t.articleThumbnail,alt:t.title,style:{width:`100%`,height:`auto`}}),(0,j.jsx)(`h1`,{children:t.title}),(0,j.jsx)(`p`,{style:{textAlign:`justify`,lineHeight:`2`},dangerouslySetInnerHTML:{__html:t.content}})]})]}):(0,j.jsx)(`div`,{children:`SUSS Article not found`})};function fr(){return(0,j.jsx)(Tn,{children:(0,j.jsx)(Qn,{children:(0,j.jsxs)(Lt,{children:[(0,j.jsx)(Ft,{path:`/`,Component:er}),(0,j.jsx)(Ft,{path:`/article`,Component:ir}),(0,j.jsx)(Ft,{path:`/podcast`,Component:sr}),(0,j.jsx)(Ft,{path:`/suss`,Component:ur}),(0,j.jsx)(Ft,{path:`/suss/:id`,Component:dr}),(0,j.jsx)(Ft,{path:`/article/:id`,Component:rr}),(0,j.jsx)(Ft,{path:`/about`,Component:tr})]})})})}(0,v.createRoot)(document.getElementById(`root`)).render((0,j.jsx)(_.StrictMode,{children:(0,j.jsx)(fr,{})}));
+`}],Yn=[{id:`associated-press-article1`,title:`U.S. Deportation and the Limits of DGICM`,agency:`Associated Press`,articleThumbnail:`/AP_OpEd1_1.png`,content:`<p>Countries in the ASEAN Directors-General of Immigration and Heads and Consular Affairs (DGICM) are currently tackling the challenge of irregular immigration. ASEAN holds a high demographic of irregular migrants, which poses a prevalent issue.</p>
+
+<p>DGICM, established in 1996 by ASEAN, acts as a platform for the chiefs of immigration agencies in ASEAN to discuss regional issues on immigration and consulate matters. It has played an instrumental role for ASEAN, by establishing policies, hence endorsing collaborations with members of ASEAN. The foundation of DGICM is built on regional cooperation within ASEAN and human migration rights.</p>
+
+<img src="AP_OpEd1_1.png"></img>
+<p><strong>Countries discussing during DGICM's unmoderated caucus</strong></p>
+
+<h2>Concerns regarding ICE</h2>
+
+<p>In light of recent investigations, U.S. Immigration and Customs Enforcement (ICE) have been revealed to be carrying out a rapidly expanding, multibillion-dollar mass deportation.</p>
+
+<p>Reports highlight significant concerns regarding detainee medical neglect, misconduct risks tied to rapid hiring sprees, and the withholding of arrest records. In 33 states, detainees reported dangerous delays or outright denials of medication for severe conditions like HIV, diabetes, and epilepsy in ICE facilities. Furthermore, emergency calls from ICE detention camps detail critical medical crises, malnutrition, and suicide attempts.</p>
+
+<p>In the past year alone, ICE had doubled its workforce to 22,000 in under a year. The rapid expansion—coupled with the hiring of some employees without completed background checks or with past force-abuse lawsuits—has prompted concerns among former law enforcement officials about potential corruption and misconduct.</p>
+
+<p>According to recent records, ICE leadership has instructed officers that judicial warrants are no longer needed to forcibly enter homes to arrest deportees, which critics argue undermines Fourth Amendment protections. States and local partners in states like Florida have had records and body camera footage arrested from public disclosure.</p>
+
+<p>Backed by over $170 billion in funding, ICE is purchasing warehouses to double detention capacity, targeting the removal of 1 million people per fiscal year.</p>
+
+<h2>U.S. take on irregular migration</h2>
+
+<img src="AP_OpEd1_2.png"></img>
+<p><strong>U.S. speaking about the issue of irregular migration</strong></p>
+
+<p>In a press conference with President Donald Trump, mass deportation is framed as a sovereign right and security necessity. However, the International Labour Organisation (ILO) calls for states to address vulnerabilities for irregular migrants, including removal.</p>
+
+<p>The U.S, in response to this concern, stated that ICE has the authority to deport undocumented migrants. With the current concern of the influx of irregular migrants into the country, the U.S. will hardline on the issue of irregular migration, which leads to deportation.</p>
+
+<h2>The Stakes for ASEAN</h2>
+
+<p>ASEAN member states send significant migrant worker populations to the US, some of which may be in irregular situations. ICE practices have direct implications for their nationals which is a concern for DGICM: the widening gap between the pace of U.S. enforcement and the current procedural safeguards. This is a threat of the human and labour rights frameworks that ASEAN seeks to uphold for its migrant workers abroad.</p>
+
+<p>Currently, organisations such as the ASEAN Parliamentarians for Human Rights (APHR) have already flagged escalations in ICE enforcement. This includes detaining Southeast Asia immigrants, particularly from Cambodia, Laos and Vietnam.</p>
+
+<p>Deportations need to be ensured as necessary and also responsibly carried out. DGICM is urged to address this in the implementation of their Irregular Migration policies with U.S. cooperation. Where immigrant rights are being emphasised in this committee, members will continue to discuss and come to a consensus.</p>`},{id:`khmer-times-article1`,title:`Solutions proposed during the ASEAN Ministerial Meeting on Transnational Crime against Light Arms Trafficking`,agency:`Khmer Times`,content:`
+        Arms trafficking has plagued many ASEAN countries for many years. Today, ministers
+convened and debated this issue during the ASEAN Ministerial Meeting on Transnational Crime.
+<br/>
+Historically, arms trafficking has affected many ASEAN and non-ASEAN states, and many are
+victims of such crimes, even out of the Golden Triangle, where such crimes are said to be the
+most rampant. ASEAN-wide, there has been a high exposure of criminal hubs located
+throughout the region and dense criminal networks allowing foreign trafficking to occur more
+frequently. Additionally with an increased advancement of technology fabrication, scrutinising
+database scams and cyber crimes become increasingly difficult for security agents to find
+criminal activity. Therefore needing a better framework and new innovative solutions to prevent
+such crimes across the nations.
+<br/>
+In light of this, ministers have convened at the ASEAN Ministerial Meeting on Transnational
+Crime, proposing and discussing frameworks they deem that can bring about councilwide
+benefit, and address the prevalent issue of arms trafficking, including the trafficking of Small
+Arms and Light Weapons (SALWs). Ministers have deliberated on how this issue should be
+tackled and managed, but one collective call for action can be seen very clearly — that
+collaborative action must be taken.
+<br/>
+In further elaboration, ministers from various states have raised many solutions, including the
+Standardised Information Gathering Monitoring Arrangement (SIGMA) framework, proposed by
+Ministers of Cambodia, Brunei, Malaysia, and Vietnam, and the Stockpile Audit and Security
+through Harmonised Inventory Management Initiative, (SASHIMI) by the Minister of Russia. In
+the following paragraphs, these aforementioned frameworks will be briefly elaborated on.
+<br/>
+The SIGMA framework is a voluntary information sharing platform for ASEAN states to share
+data regarding armed trafficking incidents, to allow for cooperation between ASEAN states to
+identify and capture related offenders as well as formulate a database with such data. The
+database collates data from arm trafficking incidents and analyses it allowing for future cases to
+be predicted based on trends, allowing swift action to be taken, resulting in greater long term
+regional stability. This solution is voluntary and optional so as to not infringe on the sovereignty
+of member states.
+<br/>
+The SASHIMI framework proposed by the Minister of Russia allows for states to request for
+training from provider states on how to secure stockpiles of armed weaponry adequately via the
+Senior Officials Meeting on Transnational Crime (SOMTC). This is on a completely voluntary
+basis which will be funded by the coaching or provider state, discussion on which will occur
+across a case by case basis. This solution allows for states to receive adequate training on how to
+appropriately safeguard and monitor the stockpile of armed weaponry, to reduce the likelihood of
+weaponry to be smuggled away.
+<br/>
+As the ASEAN and non- ASEAN states follow through the frameworks raised, Cambodia gets
+greatly benefited from the frameworks and may reduce the chances of drug, weapon or illicit
+trafficking. In addition, other nations did raise qualitative concerns regarding these various
+resolutions raised. Conclusively, the SIGMA and SASHIMI frameworks that may be further
+refined through future council sessions.
+        `},{id:`tass-article1`,title:`ASEAN members and how`,agency:`Russian News Agency TASS`,content:`For the majority of ASEAN’s sustainability status, ASEAN member states have been
+heavily reliant on fossil fuels and other non eco-friendly sources of energy to power services
+such as power for people’s homes, development in financial and technology and many more.
+However, this has left a massive carbon footprint on ASEAN and accelerates global warming by
+a lot. Much recently, a cleaner and more eco-friendly alternative to fossil fuels and other non
+eco-friendly sources of energy have been discovered and have been called green hydrogen and
+its counterparts called blue and grey hydrogen respectively. However, transitioning to such
+energy sources is not as simple as flicking a light switch, it involves the country’s technological
+advancement, the amount of land required to build hydrogen plants and electrolysis plants and
+being able to transition without sacrificing much for their people. Despite its challenges, some
+countries who have the luxury of resources have offered partnership to help others who are more
+disadvantaged so as to not leave anyone behind.
+
+<br/>
+
+In this modern day and age, Russia amongst other countries across the world is
+considered technologically advanced as it has laser-based technology that extracts clean
+hydrogen from water by destroying the oxide shell of aluminum nanoparticles. However, some
+of its allies such as India have cited issues such as lack of financial and lack of technological
+advancement. To aid such issues the minister of India has cited that “India is ready for
+cooperation on renewable energy sources with all countries, including Russia”. This ultimately
+suggests that Russia can potentially engage discussions with ministers from India around the
+topic of offering aid on how they can access green hydrogen and move away from fossil fuels
+faster.
+
+<br/>
+
+While Russia has the advantage of having the most land in the world, some of its allies do
+not have the luxury of land. For example, the delegate of Singapore has cited that land
+constraints among other issues is the most prominent as it prevents them from building hydrogen
+and electrolysis plants which in long-term can delay their transition to green hydrogen. Other
+factors like economic sanctions also contribute to this, a high-ranking Russian official cites that
+“the potential for economic cooperation between their two countries had not been fully realised
+due to the impact of sanctions” .
+
+<br/>
+
+Russia alongside its allies do face a common issue of transiting from fossil fuels to green
+hydrogen without affecting the daily lives of their respective citizens. To reinforce this point, the
+delegate of China cites that developing countries who are willing to reach their common goal of
+green hydrogen can use a pragmatic approach that involves acquiring blue hydrogen and being
+able to have partnerships with countries who struggle to meet the common goal. Similarly,
+Russia with its land advantage can offer partnerships by allowing other countries to use parts of
+its land to build their own hydrogen and electrolysis plants. As cited by the delegate of South
+Korea, they would want longtime access to land rich countries.
+
+<br/>
+Despite such issues, Russia does acknowledge that they could potentially have
+partnerships with countries like South Korea and Singapore, but they would be of a “lesser
+priority” as it prioritises countries like India who are struggling more than highly developed
+countries. With ASEAN moving towards green hydrogen there are also some who oppose this
+move. The delegate of Pakistan cites that green hydrogen is flawed and risks such as economic
+exploits and risks to its foundational assets. While they push for ASEAN to look into solutions,
+Russia still considers Pakistan an “important partner” in the region’s economic and energy
+development and called the two countries “natural allies”.`}],Xn=[],Zn=()=>(0,j.jsx)(`div`,{className:`article-list`,children:Yn.map(e=>(0,j.jsx)(qn,{article:e},e.id))}),Qn=({children:e})=>(0,j.jsx)(`div`,{children:(0,j.jsx)(`main`,{children:e})}),$n=()=>(0,j.jsxs)(`div`,{style:{backgroundColor:`#333`,color:`white`,padding:`10px`,width:`100%`,top:0,position:`fixed`,left:0},children:[(0,j.jsx)(`h1`,{children:`YMAX Press 2026`}),(0,j.jsx)(`a`,{href:`/`,className:`barLinks`,children:`Latest News`}),(0,j.jsx)(`a`,{href:`#/article`,className:`barLinks`,children:`Articles`}),(0,j.jsx)(`a`,{href:`#/podcast`,className:`barLinks`,children:`Podcasts`}),(0,j.jsx)(`a`,{href:`#/suss`,className:`barLinks`,children:`SUSS Articles`}),(0,j.jsx)(`a`,{href:`https://tinyurl.com/ymax2026letterstojournalists`,className:`barLinks`,target:`_blank`,rel:`noopener noreferrer`,children:`Letters to Journalists`})]}),er=()=>(0,j.jsxs)(`div`,{style:{backgroundImage:`url("/background.png")`,minHeight:`100vh`,color:`white`,padding:`45px`},children:[(0,j.jsx)(`header`,{children:(0,j.jsx)($n,{})}),(0,j.jsx)(Qn,{children:(0,j.jsxs)(`div`,{style:{marginTop:`10vh`},children:[(0,j.jsx)(`h1`,{className:`latest`,children:`Latest News`}),(0,j.jsx)(Zn,{})]})}),(0,j.jsx)(`footer`,{children:(0,j.jsxs)(`p`,{children:[` YMAX Press & Co.`,new Date().getFullYear(),` `]})})]}),tr=()=>(0,j.jsxs)(`div`,{style:{backgroundImage:`url(/background.png)`,minHeight:`100vh`,color:`white`,padding:`20px`},children:[(0,j.jsx)(`header`,{className:`topBar`,children:(0,j.jsx)($n,{})}),(0,j.jsxs)(`div`,{style:{backgroundColor:`black`,padding:`20px`,borderRadius:`5px`,marginTop:`100px`},children:[(0,j.jsx)(`p`,{children:`Hello! We are the Editorial Team for YMAX 2026, consisting of Olivia, Lin Yi, Charlotte, Leslie and Tian Huai.`}),(0,j.jsx)(`p`,{children:`Led by our director Cheng Jie, we hope that YMAX Press this year will be able to engage every delegate's critical thinking skills, and ubnderstand the increasing relevance of the press corps in the world.`})]})]}),nr=`/background.png`,rr=()=>{let{id:e}=dt(),t=Yn.find(t=>t.id===e);return t?(0,j.jsxs)(`div`,{style:{backgroundImage:`url(${nr})`,minHeight:`100vh`,color:`white`,padding:`20px`},children:[(0,j.jsx)(`header`,{className:`topBar`,children:(0,j.jsx)($n,{})}),(0,j.jsxs)(`div`,{style:{backgroundColor:`black`,padding:`20px`,borderRadius:`5px`},children:[t.articleThumbnail&&(0,j.jsx)(`img`,{src:t.articleThumbnail,alt:t.title,style:{width:`100%`,height:`auto`}}),(0,j.jsx)(`h1`,{children:t.title}),(0,j.jsx)(`p`,{style:{textAlign:`justify`,lineHeight:`2`},dangerouslySetInnerHTML:{__html:t.content}})]})]}):(0,j.jsx)(`div`,{children:`Article not found`})},ir=()=>(0,j.jsxs)(`div`,{style:{backgroundImage:`url("/background.png")`,minHeight:`100vh`,color:`white`,padding:`45px`},children:[(0,j.jsx)(`header`,{children:(0,j.jsx)($n,{})}),(0,j.jsx)(Qn,{children:(0,j.jsxs)(`div`,{style:{marginTop:`10vh`},children:[(0,j.jsx)(`h1`,{className:`latest`,children:`Latest News`}),(0,j.jsx)(Zn,{})]})}),(0,j.jsx)(`footer`,{children:(0,j.jsxs)(`p`,{children:[` YMAX Press & Co.`,new Date().getFullYear(),` `]})})]}),ar=({podcast:e})=>(0,j.jsxs)(`div`,{className:`article-card`,children:[(0,j.jsx)(`h2`,{children:e.title}),(0,j.jsx)(`p`,{children:e.agency}),(0,j.jsx)(`audio`,{src:e.content,autoPlay:!1,controls:!0})]}),or=()=>(0,j.jsx)(`div`,{className:`article-list`,children:Xn.map(e=>(0,j.jsx)(ar,{podcast:e},e.id))}),sr=()=>(0,j.jsxs)(`div`,{style:{backgroundImage:`url("/background.png")`,minHeight:`100vh`,color:`white`},className:`topBar`,children:[(0,j.jsx)(`header`,{children:(0,j.jsx)($n,{})}),(0,j.jsx)(Qn,{children:(0,j.jsxs)(`div`,{style:{marginTop:`10vh`},children:[(0,j.jsx)(`h1`,{className:`latest`,children:`Podcasts`}),(0,j.jsx)(or,{})]})}),(0,j.jsx)(`footer`,{children:(0,j.jsxs)(`p`,{children:[` YMAX Press & Co.`,new Date().getFullYear(),` `]})})]}),cr=({article:e})=>(0,j.jsxs)(`div`,{className:`article-card`,children:[(0,j.jsx)(`h2`,{children:e.title}),(0,j.jsx)(`h3`,{children:e.deck}),e.articleThumbnail&&(0,j.jsx)(`img`,{src:e.articleThumbnail,alt:e.title,style:{width:`100%`,height:`auto`}}),(0,j.jsx)(`a`,{className:`article-card-button`,href:`#/suss/${e.id}`,children:`Read`})]}),lr=()=>(0,j.jsx)(`div`,{className:`article-list`,children:Jn.map(e=>(0,j.jsx)(cr,{article:e},e.id))}),ur=()=>(0,j.jsxs)(`div`,{style:{backgroundImage:`url("/background.png")`,minHeight:`100vh`,color:`white`,padding:`45px`},children:[(0,j.jsx)(`header`,{children:(0,j.jsx)($n,{})}),(0,j.jsx)(Qn,{children:(0,j.jsxs)(`div`,{style:{marginTop:`10vh`},children:[(0,j.jsx)(`h1`,{className:`latest`,children:`SUSS Articles!`}),(0,j.jsx)(lr,{})]})}),(0,j.jsx)(`footer`,{children:(0,j.jsxs)(`p`,{children:[` YMAX Press & Co.`,new Date().getFullYear(),` `]})})]}),dr=()=>{let{id:e}=dt(),t=Jn.find(t=>t.id===e);return t?(0,j.jsxs)(`div`,{style:{backgroundImage:`url(${nr})`,minHeight:`100vh`,color:`white`,padding:`20px`},children:[(0,j.jsx)(`header`,{className:`topBar`,children:(0,j.jsx)($n,{})}),(0,j.jsxs)(`div`,{style:{backgroundColor:`black`,padding:`20px`,borderRadius:`5px`},children:[t.articleThumbnail&&(0,j.jsx)(`img`,{src:t.articleThumbnail,alt:t.title,style:{width:`100%`,height:`auto`}}),(0,j.jsx)(`h1`,{children:t.title}),(0,j.jsx)(`p`,{style:{textAlign:`justify`,lineHeight:`2`},dangerouslySetInnerHTML:{__html:t.content}})]})]}):(0,j.jsx)(`div`,{children:`SUSS Article not found`})};function fr(){return(0,j.jsx)(Tn,{children:(0,j.jsx)(Qn,{children:(0,j.jsxs)(Lt,{children:[(0,j.jsx)(Ft,{path:`/`,Component:er}),(0,j.jsx)(Ft,{path:`/article`,Component:ir}),(0,j.jsx)(Ft,{path:`/podcast`,Component:sr}),(0,j.jsx)(Ft,{path:`/suss`,Component:ur}),(0,j.jsx)(Ft,{path:`/suss/:id`,Component:dr}),(0,j.jsx)(Ft,{path:`/article/:id`,Component:rr}),(0,j.jsx)(Ft,{path:`/about`,Component:tr})]})})})}(0,v.createRoot)(document.getElementById(`root`)).render((0,j.jsx)(_.StrictMode,{children:(0,j.jsx)(fr,{})}));
