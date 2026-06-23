@@ -310,7 +310,126 @@ Please change the parent <Route path="${e}"> to <Route path="${e===`/`?`*`:`${e}
    
 <h2> Appendix A </h2>
 <img src="/np-map.png" width="100%"></img>
-`}],Yn=[{id:`xinhua-news-agency-article1`,title:`Different ASEAN Strategies in the Making to Combat Piracy and Armed Robberies in Southeast Asian Waters`,agency:`Xinhua News Agency`,agencyLogo:`/xinhua-news-agency.jpeg`,content:`<p>The Association of Southeast Asian Nations (ASEAN) is an intergovernmental forum of all
+`}],Yn=[{id:`hankyoreh-article1`,title:`South Korean Minister Seems to be Quiet in ALAWMM Talks`,agency:`The Hankyoreh`,deck:`The South Korean delegate to ALAWMM is noticeably quieter in debate compared to other delegates`,articleThumbnail:`/hankyoreh_OpEd1_1.png`,content:`
+    <p><strong>The South Korean delegate to ALAWMM is noticeably quieter in debate compared to
+other delegates</strong></p>
+    <img src="/hankyoreh_OpEd1_1.png"></img>
+    <p>
+    Yesterday marked the start of the ASEAN Law Minister’s Meeting (ALAWMM), discussing
+the question of mutual legal assistance and extradition processes. Much of the council has
+since been locked in debate regarding the proper way to approach the question. While many
+frameworks and proposals have already been floated around by the council, including
+Funding, Integration, Show and tell, and Help (FISH), the South Korean minister has taken
+the least viable path: Silence.
+</p><p>
+This is baffling when considering the immense stake South Korea holds within ASEAN,
+alongside longstanding geopolitical ambitions. In 2023, South Korea signed the
+Korea-ASEAN Solidarity Initiative (KASI), aimed at strengthening diplomatic, security, and
+economic ties with the region. Additionally, a former South Korean president once described ASEAN-Korea relations as a ‘lifeline’ for South Korea. Additionally, South Korea’s
+investments in Southeast Asia remain ever present, standing at over US$10 billion in 2025.
+With all this, it becomes harder to justify silence in such a vital discussion. Why invest on a
+region we aren’t willing to discuss with?
+    </p>
+    <p>Shockingly, there seems to be a sharp disconnect between ministers. In the ASEAN
+ministerial Meeeting on Transnational Crime (AMMTC), the South Korean minister has been
+far more active. Said minister has proposed tracking and elevating security for illegal
+weapons, primarily through tracking chips and biometric access. His proposals have helped to
+advance debate and provide sufficient progress for discussion. Day 2 has started and one side
+of the cabinet debates while the other is waiting.
+</p>
+<p>
+When pressed for solutions, the South Korean minister mentioned he had some lined up.
+However, after several hours of debate, these solutions remain to be seen. With the fast pace
+of debate, the South Korean Minister must present his solution to the council immediately,
+lest they fall behind in discussions and become sidelined. A hidden solution is just as bad as
+no solution. With other ministers presenting their ideas, it might already be too late for the
+minister from South Korea to present a solution and garner the necessary support and
+attention from the council.
+</p>
+<p>
+Additionally, the minister has seemingly lacked any presence within council. Considering the
+significant amount South Korea has invested into Southeast Asia, the South Korean minister
+should be more involved in discussion. The matter at hand, extradition, only further increases
+the importance that the minister takes action. A Mutual Legal Assistance Treaty (MLAT) and
+an Extradition Treaty (ET) between Singapore and South Korea recently came into effect on
+the 6th of June 2026. This is the latest extradition treaty between South Korea and an ASEAN member, joining the Philippines, Thailand, Vietnam, Indonesia and Malaysia. This
+leaves just under half of ASEAN without MLAT or ETs with South Korea. This is a major
+vulnerability which ALAWMM as a council serves to resolve. However, inaction might have
+led to the opportunity slipping away.
+</p><p>
+ASEAN is too important of a partner to lose to inaction. They are highly integrated into
+South Korea’s economy and security. We cannot afford to take the risk and lose out on
+furthering our relationship with ASEAN due to an inactive minister.</p>
+    `},{id:`lao-news-agency-article1`,title:`ASEAN collaborates in border management to curb the issue of irregular migrants`,agency:`Lao News Agency`,articleThumbnail:`/lao-news-agency_OpEd1_1.png`,content:`
+    <img src="/lao-news-agency_OpEd1_1.png"></img>
+    <p><strong>The ASEAN flag, leading the flags of its member countries.</strong></p>
+    <p>The ASEAN Directors-General of Immigration Departments and Heads of Consular Affairs
+Divisions of the Ministries of Foreign Affairs (DGICM) meeting convened on 22 June 2026,
+bringing together ASEAN Ministers and representatives of concerned global counterparts to
+discuss the issue of curbing irregular migration in the ASEAN region.
+</p>
+<p>
+The first sessions of the meeting began with Ministers focusing on the issue of border
+management as the region continues to face large numbers of undocumented migration and
+limited coordination between member states to put in place reliable border control measures,
+example being the current Border Liaison Offices (BLOs) system which has not been most
+efficient in keeping irregular migration under control.
+</p>
+<p>
+Irregular migration account for more than 80% of migrants in ASEAN, and is the cause of many
+societal issues. Migration routes have been known to be treacherous, with “thousands of
+unregistered deaths occurring every year”. The stateless status of these migrants also hides them
+from the eye of the administration, preventing them from receiving protection and basic social
+welfare.
+</p>
+<p>
+The situation is of utmost importance to Laos which values sovereignty and hopes for
+strengthening of ties and collaborative efforts between ASEAN member states, emphasises the
+Minister of Laos in DGICM. Laos being a landlocked country, shares extensive borders with
+neighbouring countries, and has remained a major transit point for migrant workers.
+</p>
+<p>
+While formal migration policies exist, they are administratively challenging and options are
+limited for low-skilled workers which makes up most of the migrant demographic in the region.
+The Minister of Laos expressed their concern critically on how current systems push migrant
+workers toward “black market” agents, giving rise to migrant smuggling and migrant threatening
+where workers are at risk of exploitation and involvement in criminal activities.
+</p>
+<p>
+This sentiment was echoed by almost all participating in the meeting where Ministers found
+consensus and agreed to merge ideas to form solutions that could address most aspects of the
+current situation and not infringe sovereignty of ASEAN member states.
+</p>
+<p>
+Several proposals focused on enhancing border security and intelligence-sharing mechanisms.
+Vietnam put forth the idea of a Border Intelligence Network, which would allow member states
+to move beyond current “fragmented” reporting systems towards more responsive and
+coordinated information-sharing arrangements.</p>
+<p>
+The proposal was generally welcomed by Ministers, who noted that improved communication
+between border authorities could strengthen the region's ability to identify smuggling routes and
+emerging migration trends.</p>
+<p>
+
+In this light, Timor-Leste highlighted the use of technology in modern border control, proposing
+the adoption of surveillance and monitoring systems. In response, Australia shared interest in
+providing technological assistance and training programmes that could strengthen the operational
+capabilities of border agencies across ASEAN while helping to deter irregular migration
+networks.</p>
+<p>
+The good news is that, overall, delegations were willing to identify common ground despite
+differing national priorities. Bangladesh and the Philippines advocated for an ASEAN-centred
+approach that places regional ownership at the forefront of any future declaration. Their
+interventions reinforced the long-standing ASEAN principle that regional challenges are best
+addressed through dialogue, consultation and consensus among member states.</p><p>
+
+Nevertheless, Ministers also recognised the importance of ensuring that external support
+complements, rather than directs, ASEAN-led efforts. While partnerships with dialogue partners
+and international stakeholders can provide valuable expertise and resources, member states
+reiterated that border management should still remain a fundamentally sovereign responsibility.
+Regional initiatives, therefore, should best continue to respect national circumstances while
+strengthening collective security.</p>
+`},{id:`xinhua-news-agency-article1`,title:`Different ASEAN Strategies in the Making to Combat Piracy and Armed Robberies in Southeast Asian Waters`,agency:`Xinhua News Agency`,agencyLogo:`/xinhua-news-agency.jpeg`,content:`<p>The Association of Southeast Asian Nations (ASEAN) is an intergovernmental forum of all
 eleven (11) states in Southeast Asia. In recent days, certain nations of ASEAN have sought
 help from The People’s Republic of China to combat this rising issue of piracy in the ASEAN
 waters. As countries continue to battle this rising issue, China wishes to contribute greatly
