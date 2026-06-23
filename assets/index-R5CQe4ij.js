@@ -310,7 +310,232 @@ Please change the parent <Route path="${e}"> to <Route path="${e===`/`?`*`:`${e}
    
 <h2> Appendix A </h2>
 <img src="/np-map.png" width="100%"></img>
-`}],Yn=[{id:`hankyoreh-article1`,title:`South Korean Minister Seems to be Quiet in ALAWMM Talks`,agency:`The Hankyoreh`,deck:`The South Korean delegate to ALAWMM is noticeably quieter in debate compared to other delegates`,articleThumbnail:`/hankyoreh_OpEd1_1.png`,content:`
+`}],Yn=[{id:`dvb-article1`,title:`Stuck in the Crossfire of the Rohingya Crisis:Frameworks introduced during ASEAN Committee of Disaster Management`,agency:`DVB News`,content:`
+    <p>As the civil war in Arakan(Rakhine) continues to intensify, the long-persecuted Rohingya
+population finds itself facing a wave of existential peril. Caught directly between a desperate
+military junta and advancing ethnic armed groups, the Rohingya are being systematically
+forced into a conflict they never asked to join.</p>
+
+<h2>Unnecessary Cruelty</h2>
+
+Following the implementation of the military’s National Conscription Law, the regime has
+resorted to unethical methods of exploitation. The very military that orchestrated the 2017
+genocidal campaigns and drove over 700,000 Rohingya into Bangladesh is now forcefully
+abducting Rohingya youths from villages and internally displaced persons camps to use them
+as front-line fighters.
+
+<h2>A Small Ray of Sunshine</h2>
+
+However, not all hope is lost. In the ASEAN Committee of Disaster Management, the
+delegates of Myanmar, Thailand and Malaysia have come up with a framework to mitigate
+the harms that have already been done.
+
+<h2>The SSA framework – standing for SHELDON,SONION and ADDISON</h2>
+
+Sheldon (Safe Humanitarian Evacuation Linkages for Displacement or Navigation) would
+provide a customs free transport corridor with biometric kiosks and health screens. a
+SHELDON identification card would serve as identification with a 1 year validity, renewing
+based on government discretion
+<br/>
+SONION ( Sovereignty-Oriented, Non-interference-Oriented and Neutral system) is a
+framework that provides a framework where receiving states can admit a disaster displaced person on their discretion. If the person is not admitted, they will be given a referral slip to
+record to a registry.
+<br/>
+Under SONION also falls APERA, which sorts the source countries into different “codes”
+based on the situation the migrant falls in. APERA is aimed at balancing the humanitarian
+responsibility and sovereignty capacity concerns of the country.
+<br/>
+Receiving countries can request assistance from an ASEAN helpdesk, with the referral slip
+providing a traceable record.
+<br/>
+Through all of the bureaucratic glamour, what does SSA really achieve?
+<br/>
+The SSA framework only works when situations in home countries will resolve quickly. They
+fail to address long held crises that cause irregular migration. For example, the Rohingya
+crisis.
+<br/>
+The Rohingya have been pushed out of Myanmar and alienated in Myanmar society in a
+grave humanitarian crisis. They have been forced to flee countries like Bangladesh, Indonesia
+and across Malaysia.
+<br/>
+Many have to suffer through perilous journeys and trafficking in order to reach their
+receiving countries. Even in their receiving countries they continue to face violence, abuse
+and sexual
+exploitation.
+<br/>
+One year might be enough for a country facing climate disasters to get back on their feet and
+then for their refugees overseas to repatriate.
+<br/>
+However the Rohingya people, have been facing an genocide for nearing a decade and
+Myanmar is ruled by a regime. Genocide and an regime cannot be stopped in one year.
+<br/>
+Rejected by their home country, if their SHELDON ID is not renewed they are left with
+nowhere to go.
+<br/>
+The voluntary basis of the SSA framework means that the future would remain shaky for
+Rohingya worldwide.
+
+<h2>Conclusion</h2>
+<p>
+As long as the military regime continues to rely on division and terror to sustain its illegal
+grip on power, the Rohingya will continue to bear the heaviest toll of Myanmar’s ongoing
+polycrisis. Through meaningful frameworks like SAS, the burden of being a displaced
+individual in South-East Asia will be lighter, and one that is easier to carry.</p>
+    `},{id:`asahi-shimbun-article1`,articleThumbnail:`/asahi_OpEd1_1.png`,title:`EDITORIAL: EVERYONE AGREES MIGRANTS DESERVE CARE, BUT FEW AGREE ON WHO SHOULD PAY`,agency:`The Asahi Shimbun`,deck:`In the recent Youth Model ASEAN Experience conference, many countries mentioned about how migrant healthcare is a shared responsibility. However, many countries are at an impasse regarding what “shared” actually means.`,content:`
+    <img src="asahi_OpEd1_1.png"></img>
+    <p>Migrant workers often encounter language, financial, and legal barriers when seeking
+medical treatment.</p>
+
+<h2>HEALTHCARE IS A RIGHT, NOT A PRIVILEGE</h2>
+
+The minister of South Korea called healthcare “a human right and a shared responsibility”.
+The minister of Myanmar also has a similar argument, saying that basic migrant healthcare
+should be accessible to everyone, highlighting the language barriers that frequently prevent
+accurate diagnosis and treatment due to the inability to understand each other.
+<br/>
+The minister of Vietnam dove deeper into the topic, insisting that healthcare access should
+“never be dependent on employment status”
+<br/>
+These concerns are not just hypothetical.
+<br/>
+Millions of migrant workers in Asia continue to encounter barriers to healthcare, such as cost,
+documentation requirements, language barriers, and fear of immigration enforcement, the
+International Labour Organization said.2 Migrants are also more likely to be employed in
+high-risk jobs but less likely to have health insurance than local workers.
+<br/>
+How can ASEAN still claim centrality in a people-centred community when access to
+healthcare is based on where you were born or the ongoing goodwill of an employer?<br/>
+<h2>DANGER OF OVERDEPENDENCY ON THE EMPLOYER</h2>
+Through the heated discussions between the countries, a major divide emerged over
+financing.
+<br/>
+The minister of the Philippines proposed “requiring the employers to bear the full cost of
+legal migrant healthcare.”
+<br/>
+Similarly, the Gulf Cooperation Council supported a framework where employers fund a
+minimum basic healthcare insurance that covers the most pressing and basic coverage,
+assuming broader responsibilities.
+<br/>
+However, this creates a dangerous overreliance. In an employer-based health system, you can
+only get treatment if you’re employed, not if you’re a human being. What would happen if a
+company refuses coverage? What happens when workers lose their jobs?
+<br/>
+<h2>Healthcare should not disappear the moment it becomes necessary.</h2>
+The minister of Timor-Leste correctly warned that “safeguarding healthcare rights should not
+come at the expense of national responsibility.” Migrant workers are important to ASEAN
+economies. Therefore, governments cannot leave welfare entirely to private actors.
+<br/>
+<h2>THE USE OF ARTIFICIAL INTELLIGENCE</h2>
+The minister of Brunei wanted to propose using artificial intelligence to identify healthcare
+“chokeholds,” reflecting ASEAN’s growing reliance on generative AI.
+<br/>
+However, this is not failproof, and some of these datasets are incomplete or biased, risking
+misidentifying vulnerable populations or entirely missing informal migrant communities,
+leaving unaddressed the very gaps they seek to fill.
+<br/>
+The Asahi Shimbun has raised concerns about this to the minister of Brunei, and they have
+clarified that “multiple alert systems must be present and consistently being revamped to
+ensure the sustained accuracy of this system.”
+<br/>
+<h2>ASEAN SHOULD BUILD CROSS-BORDER SOLUTIONS</h2>
+The minister of Laos has suggested a unified healthcare card allowing migrant records to
+follow workers across borders. Indonesia suggested an ASEAN Migrant Healthcare
+Coordination Network.
+<br/>
+These proposals have illustrated that migration is regional and health challenges are
+increasingly transnational.
+<br/>
+The United States proposed a digital health passport and early warning network, and Russia
+offered technical expertise through bilateral medical registry systems.
+<br/>
+Although these initiatives are helpful, ASEAN must be careful not to be over reliant on
+powers outside ASEAN for important healthcare systems.
+<br/>
+Such healthcare cooperation should strengthen ASEAN institutions through teamwork, not
+deepen competition between countries.
+<br/>
+The committee has agreed to start discussions on minimum standards of healthcare before
+addressing issues of access, financing, and monitoring.
+<br/>
+But minimum standards are not assured to be put into practice, risking being just another
+declaration. ASEAN's 2017 Consensus on the Protection and Promotion of the Rights of
+Migrant Workers recognised access to medical care, but there are still significant gaps across
+the region.
+<br/>
+Only promises can’t cure workers.
+<br/>
+ASEAN leaders should seize this opportunity to create portable healthcare protections,
+multilingual services, emergency coverage guarantees, and sustainable financing mechanisms
+that survive changes in employment status.
+<br/>
+A region that relies on migrant labour ought to be prepared to safeguard migrant lives.
+Otherwise, ASEAN's pledge to an inclusive community risks becoming just a slogan.
+
+`},{id:`newsroom-article1`,title:`Grey, blue, green...hydrogen?`,agency:`The Newsroom`,deck:`New Zealand’s commitment to ASEAN’s green transition is steadfast, through the leveraging of its natural advantages to strengthen strategic partnership with member states.`,articleThumbnail:`/newsroom_OpEd1_1.png`,content:`
+    <img src="/newsroom_OpEd1_1.png"></img>
+    <p><strong>The Minister of New Zealand strategises engagement with ASEAN member states, China and Vietnam during the
+ASCOPE conference. Photo: Newsroom</strong></p>
+
+Following the recent debates in the ASCOPE, the Ministers of New Zealand (NZ), China and
+Vietnam have agreed upon working towards establishing different tiers of development and their
+corresponding paces of transition to a green economy amongst ASEAN member states.
+<br/>
+The question of benefitting from the collaboration for each stakeholder quickly surfaced, to
+which the Minister of China replied, “We’re willing to supply funding and lend our support to
+ASEAN (for their transitional goals to a green economy). After all, it would strengthen our
+prominence in the trade industry for future engagements with other nations.”
+<br/>
+Despite the rapid development of discussions regarding the tiered system, the question of
+accountability still lingers — how are ASEAN states to be held responsible should the respective
+objectives of each member state fail to be met within the set deadline?
+<br/>
+The apparent absence of accountability mechanisms leaves potential gaps for countries to stray
+away from taking concrete action in, delaying practical development of the sustainability
+landscape’s transition to increased green hydrogen usage.
+<br/>
+As of now, NZ’s contribution towards the engagement with ASEAN’s shift to a green economy
+points to its expertise in the renewable energy sector.
+<br/>
+Over 80% of NZ’s electricity is generated from renewable sources, including hydroelectric
+power and geothermal energy, evidence of its massive capacity in green hydrogen production.
+<br/>
+With NZ’s extensive capability in leveraging green energy forms, our ministers could offer
+formal guidance to ASEAN member states to facilitate their decision-making processes in the
+energy sector — aiding them in deploying the most economically and environmentally viable
+strategies to meet their nations’ best interests.
+<br/>
+Newsroom supports this approach of collaboration with ASEAN, especially in view of the
+increasing global energy volatility. Strategic alignment with ASEAN has become ever more
+crucial for New Zealand, rendering potential to influence geopolitical stability in the region.
+<br/>
+The international demand in ASEAN for New Zealand’s distinctive competencies has the
+potential to reap economic benefits, as shown by commercial relations in the past.
+<br/>
+The ASEAN-Australia-New Zealand Free Trade Area (AANZFTA) eliminated tariffs on 99% of
+New Zealand’s exports to ASEAN. Since its implementation, trade between New Zealand and
+ASEAN has more than doubled.
+<br/>
+Taking into consideration the growing international demand, information sharing and technology
+sharing initiatives present opportunities for NZ’s economic growth with the input of private and
+foreign investment.
+<br/>
+Within the domestic policy dimension, New Zealand has scaled back parts of its climate
+ambition, such as the lowering of its methane target.
+<br/>
+Stronger engagement in ASEAN sustainability efforts could serve as a push in the right direction
+to continue investment in related infrastructure and technology for its climate targets.
+<br/>
+Newsroom awaits further deliberations across ministers in the ASCOPE — the Minister of Japan
+distinguishes his collaborative solutions from the United States (US) from NZ’s by tackling the
+transition to a green economy with a greater involvement in trade.
+<br/>
+It appears that both the Minister of NZ and the Minister of Japan are amenable to providing
+support for the increased usage of green hydrogen in ASEAN economies.
+<br/>
+Yet, a consensus regarding the other main interest — carbon emission deadlines based on tiered
+levels of development or an enhanced trade engagement within the region — has yet to be
+established.
+    `},{id:`hankyoreh-article1`,title:`South Korean Minister Seems to be Quiet in ALAWMM Talks`,agency:`The Hankyoreh`,deck:`The South Korean delegate to ALAWMM is noticeably quieter in debate compared to other delegates`,articleThumbnail:`/hankyoreh_OpEd1_1.png`,content:`
     <p><strong>The South Korean delegate to ALAWMM is noticeably quieter in debate compared to
 other delegates</strong></p>
     <img src="/hankyoreh_OpEd1_1.png"></img>
