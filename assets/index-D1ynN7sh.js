@@ -310,7 +310,143 @@ Please change the parent <Route path="${e}"> to <Route path="${e===`/`?`*`:`${e}
    
 <h2> Appendix A </h2>
 <img src="/np-map.png" width="100%"></img>
-`}],Yn=[{id:`al-jazeera-article1`,title:`ASEAN Must Choose Cooperation Over Consensus`,agency:`Al Jazeera`,articleThumbnail:`AlJaz_OpEd1_1.png`,deck:`As ASEAN ministers weaponize bureaucratic technicalities over the SHIELD framework, regional gridlock leaves thousands of desperate asylum seekers tragically stranded at sea.`,content:`
+`}],Yn=[{id:`xinhua-news-agency-article1`,title:`Different ASEAN Strategies in the Making to Combat Piracy and Armed Robberies in Southeast Asian Waters`,agency:`Xinhua News Agency`,agencyLogo:`/xinhua-news-agency.jpeg`,content:`<p>The Association of Southeast Asian Nations (ASEAN) is an intergovernmental forum of all
+eleven (11) states in Southeast Asia. In recent days, certain nations of ASEAN have sought
+help from The People’s Republic of China to combat this rising issue of piracy in the ASEAN
+waters. As countries continue to battle this rising issue, China wishes to contribute greatly
+and demonstrate global statesmanship despite differences. Moreover, since China has retained
+its position as ASEAN’s largest trading partner since 2009 while ASEAN has been China’s
+largest trading partner since 2019.</p>
+<p>
+The Lao People’s Democratic Republic said in a press conference that a big trigger in
+ASEAN piracy and armed robberies in ASEAN waters is due to the economic status of
+citizens. Poverty has caused desperate people to resort to piracy to support their families,
+despite the dangers.</p>
+<p>The ReCAAP framework, which is an acronym for Regional Cooperation Agreement on
+Combating Piracy and Armed Robbery against Ships in Asia, is for regional assistance. The
+delegate of Laos is pushing for China’s help in a more ASEAN centric approach through
+funding for coastal community development. Through China’s support for this framework,
+multiple countries, such as the Philippines, Cambodia, and Malaysia, will benefit in terms of
+receiving recognition and smoother trade as the South China Sea, situated between notable
+ASEAN countries, remains a vital artery of regional commerce with 40% of China’s total trade, including essential raw material imports and finished export goods pass through these
+waters. Both China and ASEAN remain as each other’s largest trading partners, it is
+important for bilateral cooperation to ensure that trade is smooth and sustainable.</p>
+
+<p>This solution is a short-term solution that requires minimal contribution but extremely
+beneficial to nations that require this assistance to kickstart programmes to help protect
+coastal communities. A shared fund from economically stable countries such as the People’s
+Republic of China will help smaller, coastal nations kickstart their coastal community
+development programmes in their own respective nations.</p>
+
+<p>The delegate of Singapore also stated that to distinguish between whether piracy is due to
+economic factors or security reasons, explaining that it is a case-by-case situation and heavily
+dependent on other factors that include but are not limited to poverty, unemployment, and
+economic standing.</p>
+
+<p>The delegate of Cambodia notably mentioned that economic status is a major concern for
+countries as piracy is a high effort however low reward industry and low-level pirates are
+barely able to afford their finances based off piracy alone. The delegate pushed for both
+security enforcement and economic development to be address adequately as significant
+issues leading to piracy.</p>
+
+<p>In conclusion, the ASEAN Maritime Forum (AMF) has produced multiple solutions that will
+help coastal communities develop further to better support themselves. Through the proposed
+framework, AMF will use funds from China to support coastal communities, providing them
+with better security from pirates and to aid pirates financially such that the tendency of piracy will be decreased overtime. The merging of solutions from multiple delegations will allow all
+to receive help from this fund and framework.</p>
+`},{id:`manila-bulletin-article1`,title:`ASED begins talks on navigating the future of language policy`,agency:`Manila Bulletin`,deck:`Ministers and representatives from various countries debate about the implementation of English in their education policy.`,content:`<h2>A WHIRLWIND START</h2>
+    <p>Following the start of the Asean Education Ministers’ Meeting (ASED) on the 22nd
+of June, 2026, ministers have already begun proposing diverse solutions to a question
+with ever-growing importance, that of enhancing language policy in education
+systems across ASEAN.
+</p>
+<p>
+The calling for this is much warranted as in a world increasingly divided along blurry
+lines of politics, culture and people, language offers a much needed medium for unity.
+It is through the word that many nations believe understanding and solidarity may be
+found, in both the national and international scene.
+</p>
+<p>
+During council debate, many ministers and representatives, most notably those of the
+European Union, Timor-Leste and the Philippines, have come to a consensus
+regarding the state of English in nations’ education systems.
+</p>
+<p>
+“Everyone agrees that English is important and should be made compulsory. We are
+going to help each other,” the representative of the EU declared during an
+unmoderated caucus.
+</p>
+<p>
+Regarding this, it should be noted that countries across ASEAN have different levels
+of English proficiency. As such, many nations have raised more flexible solutions
+regarding the implementation of English literacy in these countries’ education
+systems.
+</p>
+<p>
+One notable solution raised during council debate was raised by the Minister of
+Education from the Philippines, who proposed a tiered transition system with the
+intended aftereffect of students being proficient in both English and also their mother
+tongue.
+</p>
+<p>
+“This solution caters to different groups rather than singularly affecting one,” said the
+minister.
+</p>
+<p>
+This was soon echoed by the Minister of Education for Indonesia, saying “[i]t is not
+possible to use a one-size-fits-all solution”.</p>
+
+<h2>WHY IT MATTERS</h2>
+<p>The Philippines is by no means lagging behind its regional neighbours as about 7 out
+of 10 individuals aged 10 to 64 are currently functionally literate. Coupled with the
+country’s high level of English proficiency, this equips many Filipinos with the
+ability to communicate effectively in an increasingly interconnected world.</p>
+<img src="/manila-bulletin_OpEd1_2.png"></img>
+<p>
+What this means is that Filipinos who have a high understanding of English, a
+language spoken by over 1.5 billion people globally – are well-positioned to
+communicate effectively on the global stage.</p>
+<p>As English continues to serve as a common language in diplomacy, this proficiency
+would allow it to participate more strongly in global affairs.</p>
+
+<h2>HOW IT HELPS</h2>
+<p>By speaking a common language such as English, it fosters greater regional
+cooperation and inclusion within ASEAN and East Asia, by facilitating dialogue,
+debate and mutual understanding.</p>
+<p>
+Reduced language barriers make it easier for governments to coordinate initiatives,
+discuss agreements and share knowledge. This would align with the Philippines’
+long-standing commitment to openness, multilateralism and constructive engagement
+with its regional neighbours while promoting the peaceful resolution of disputes via
+communication.
+</p>
+<p>
+Additionally, speaking English fluently would be beneficial to give Filipinos a
+competitive advantage when sourcing for jobs in the job market, as a knowledge of
+English would allow Filipino workers to converse with people from other countries,
+which would broaden access to more opportunities worldwide.
+</p>
+<p>At this point, while council debate has been spearheaded by the Education Ministers
+of Indonesia, Philippines and Malaysia, the solutions still require further development
+before being implemented. ASED has yet to see how this highly English-centric goal
+will affect the treatment of minority groups and be properly balanced with linguistic
+and cultural preservation.
+</p>
+<p>
+That said, promising working papers and ideas such as for the Open Educational
+Resource and Accountability Framework (OERA), proposed by the Ministers of
+Education for the Philippines and Gulf Cooperation Council are seeking to address
+said issues.
+</p>
+<p>
+All together, the council is taking necessary steps to find solutions which address the
+linguistic necessities of the future generations. By strengthening communication
+through these bridges of common cause, we can build stronger ties between nations
+and create greater opportunities for progress. Through these efforts, we hope that
+everyone across Southeast Asia will feel unified not just as a nation of citizens, but as
+the people of a greater collective ASEAN.
+</p>
+    `,articleThumbnail:`/manila-bulletin_OpEd1_1.png`},{id:`al-jazeera-article1`,title:`ASEAN Must Choose Cooperation Over Consensus`,agency:`Al Jazeera`,articleThumbnail:`AlJaz_OpEd1_1.png`,deck:`As ASEAN ministers weaponize bureaucratic technicalities over the SHIELD framework, regional gridlock leaves thousands of desperate asylum seekers tragically stranded at sea.`,content:`
     <img src="/AlJaz_OpEd1_1.png"></img>
     <p><strong>Migrants aboard a boat tethered to a Thai navy vessel, in waters near Koh Lipe island, on Saturday. <br/>
 Photograph: Olivia Harris/Reuters</strong></p>
