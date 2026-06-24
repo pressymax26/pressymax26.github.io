@@ -310,7 +310,458 @@ Please change the parent <Route path="${e}"> to <Route path="${e===`/`?`*`:`${e}
    
 <h2> Appendix A </h2>
 <img src="/np-map.png" width="100%"></img>
-`}],Yn=[{id:`tatoli-article1`,title:`Declining Literacy Rates in ASEAN: The Imperative of Alleviating the Problem`,agency:`Tatoli`,articleThumbnail:`/Tatoli_EWOpEd_1.png`,content:`<img src="/Tatoli_EWOpEd_1.png"></img>
+`}],Yn=[{id:`the-star-article1`,title:`Dedollarisation and Digital Currencies: ASEAN’s Stance and Solutions`,agency:`The Star`,content:`What once dominated the Association of Southeast Asian Nations’ (ASEAN’s) global
+transactions is now being replaced by local currency, an intentional move by government actors
+reflecting a bloc-wide interest in de-dollarisation.
+<br/>
+De-dollarisation can be defined as the ‘shrinking of influence that the U.S dollar has on the
+economies of other countries' (Bromberg 2023),, involving the decrease of ‘national, institutional, and corporate demand’ for the currency.
+ASEAN has long pushed for de-dollarisation, notably through its Chiang Mai and Local
+Currency Settlement (LCS) initiatives, aiming to normalise and increase the use of local
+currencies while bolstering regional markets.<br/>
+More recently, de-dollarisation has become increasingly inevitable, taking into account the
+multiple notable financial happenings, including heightened tariffs imposed by the US, the rise
+of the Chinese Yuan, resulting in a decrease in the value and appeal of the US dollar (J.P. Morgan 2024), as well as existing sociocultural divisions that weaken governance. <br/>
+
+Digital alternatives, specifically Central Bank Digital Currencies and Project mBridge add a
+layer of convenience, transparency, and economic efficiency in transaction costs.<br/>
+
+Linking back to the topic of diplomatic discourse at the ASEAN Finance Ministers’ and Central
+Bank Governors’ Meeting (AFMGM) conference that took place from 22 to 23 June this week,
+de-dollarisation poses both challenges and opportunities for ASEAN countries in their quest to
+attract Foreign Direct Investors (FDI).<br/>
+This holistic perspective is also held by countries like Brunei, Thailand, and Indonesia in their
+working papers, the former two maintaining that a prevalence of the US dollar’s usage would
+lead to currency volatility and fluctuations.
+<br/>
+Indonesia indicated an interest in said digital currencies as well, citing bridging local currencies
+and FDIs as the reason for their stance. On the surface, ASEAN perspectives surrounding the
+issue appear to be sound as Asia and the world rely on the greenback less, evident in the decline
+of the US dollar in foreign exchange reserves in 2024.
+<br/>
+However, contextual analysis and consideration of investors’ priorities remain imperative, as
+illustrated in the following example.
+<br/>
+Given the decline of the US dollar, de-dollarisation was seen to attract potential, economically
+active countries like China, Singapore, and Malaysia, though this may not persist across other
+global powers who may place greater emphasis on it. Other countries who participate in
+China-led initiatives - where the currency is favourable - such as the Belt and Road initiative
+may stand to benefit from de-dollarisation, though only if they understand how to divert to local
+and more dominant currencies (FDI Insider 2023).<br/>
+How, then, would this play out in Malaysia?
+<br/>
+It is worth noting that our country has already begun to embrace de-dollarisation, as mentioned
+in Malaysian Prime Minister Anwar Ibrahim’s quote that it would be “more active and
+aggressive in the use of ringgit (in trading)”, a stance that will ultimately carry over to its global
+transactions and interactions with the wider economic community.
+<br/>
+Local news outlets have also reported the government’s hope of exploring initiatives through
+Bank Negara Malaysia, the country’s central bank by which local currencies could be used in
+transactions. Indonesia, Thailand, and China have accepted this as well.
+<br/>
+Malaysia, being one of the first to embrace China’s Belt and Road initiative, will also benefit
+economically from reliance on direct Ringgit-Renminbi quotes.
+<br/>
+The political cooperation with a globally recognised financial power, holding much leverage due
+to its valuable currency, would help Malaysia stay rooted in times of financial crisis (in its
+movement away from the greenback) while appealing to FDIs.
+<br/>
+In addition, Malaysia is set to enjoy the support of a macroeconomic cushion. The dependence
+on more stable local and global currencies, instead of the US dollar, shields the country from the
+shocks of US political and economic volatility and global liquidity crises. However, the country
+must remain vigilant and discerning in its switch to alternative and local currencies, keeping in
+mind investor interests in predictability and stability.
+<br/>
+In conclusion, ASEAN’s dedollarisation and preference of local and digital currencies places
+countries at the intersection of change with regards to FDI interests. Only time will tell if the
+movement will contribute to regional and market stability, or weaken at the lack of investor
+interest.
+`},{id:`antaraNews-article2`,articleThumbnail:`/antaraNews_OpEd1_1.png`,title:`Indonesia to partake in information-sharing network with various countries`,agency:`Antara News`,content:`
+    <img src="/antaraNews_OpEd1_1.png"></img>
+    <p><strong>Minister of Indonesia addressing concerns from the council</strong></p>
+    AHMM (ANTARA) —- The Minister of Indonesia expressed her readiness to collaborate with
+China, South Korea, United States, Bangladesh, the United States, and the European Union in
+the newest resolution targeted at increasing healthcare access for migrant workers around the
+globe.<br/>
+“China has the largest proportion of Indonesian migrant workers,” the Minister of Indonesia
+stated in an interview with ANTARA News today, “so we are working closely with China to
+ensure the safety and well-being of our citizens there.”
+<br/>
+She spoke about the digital database both countries are working on together, citing that such a
+digital database will provide relevant stakeholders with the necessary information for proper
+healthcare. Contributions will be made on a voluntary basis and are non-legally binding.
+<br/>
+Despite that, she emphasized that “though Indonesia respects the sovereignty of all nations, all
+member states are highly encouraged to contribute to this shared database to provide their
+migrant workers with accessible and equitable healthcare.”
+<br/>
+In this arrangement, the Minister of China told ANTARA News that “China will be the main lead
+in building the digital healthcare system as China has experience in developing large-scale digital
+healthcare systems.”
+<br/>
+In response to concerns raised about the security of the digital database, the Minister of
+Indonesia declared that all information will be kept in a secure network only shared with the
+stakeholders
+<br/>
+An issue Indonesia has faced in council so far is the opposition of Vietnam. During the council
+meeting, the Minister of Vietnam bluntly stated that non-ASEAN nations were merely observing
+parties and should not be explicitly involved in the creation of resolutions.
+<br/>
+To this, the Minister of Indonesia told ANTARA News that she disagrees with the Minister of
+Vietnam’s viewpoint.
+<br/>
+She explained that these “non-ASEAN nations take in migrant workers from ASEAN countries,
+so they are very relevant when crafting resolutions.” Since these countries are hosting migrant
+workers, they have the “responsibility of caring for them,” making non-ASEAN nations a big
+stakeholder as well.
+<br/>
+To put it simply, she said, “Helping the migrant workers is equivalent to helping us ASEAN
+countries.” When migrant workers feel valued and are supported, they will continue to stay in
+their host countries, contributing invaluable labour.
+<br/>
+Moreover, although observing states may not be directly connected to the issue, they too have
+migrant workers in their countries and could thus benefit from being exposed to new ideas and
+solutions.
+<br/>
+ASEAN has to ensure cooperation through mutual respect and trust. The best way to do this is
+through bilateral agreements and sharing of information.
+<br/>
+This would allow for a seamless process of coordinating migrant workers' healthcare history and
+information and, more importantly, provide them with the sense of security and belonging that
+they deserve.
+<br/>
+Migrant workers should have the right to security across borders. After all, they play the
+foundational role of building homes for others through the labour and services they provide to
+the host countries.
+<br/>
+They are the pillars of many ASEAN countries including Indonesia.
+<br/>
+As such, Indonesia seeks to change the status quo, bettering the lives of our migrant workers
+across the globe.`},{id:`guardian-article2`,title:`The United Kingdom in ASEAN: friend or foe?`,agency:`The Guardian`,articleThumbnail:`/guardian_Int1_1.png`,content:`<img src="/guardian_Int1_1.png"></img>
+    <p><strong>Source: Photograph of ACCP Ministers hard at work</strong></p>
+    Across Southeast Asia, the promise of financial inclusion is colliding with a quieter reality of
+increased household debt, powered by the rapid expansion of Buy Now Pay Later schemes and
+digital lending platforms.
+<br/>
+An economic boom since COVID-19 has coincided with a surge of private credit. More
+consumers have been leaning towards BNPL services and digital lending platforms, expanding
+access to credit for millions of consumers. However, while access to borrowing has widened,
+financial literacy and consumer protection have not kept pace. In many ASEAN economies,
+particularly Thailand, Malaysia, and Vietnam, household indebtedness is increasingly prominent,
+particularly among younger consumers and underbanked populations.
+<br/>
+In Thailand alone, household debt has skyrocketed to nearly 90% of GDP, ranking Thailand as
+the 7th most indebted nation globally, according to the International Monetary Fund (IMF).
+This exemplifies how in many households, borrowing is no longer merely a tool for flexible
+spending but a means of managing everyday expenses, amid rising living costs and economic
+pressure.
+<br/>
+Against this backdrop, the United Kingdom raised concerns about the drivers behind rising
+household debt. “The question we have to ask ourselves is why this increase is right,” said the
+Minister of the United Kingdom in an interview with the Guardian.
+The Minister pointed out the structural difference between traditional banks and newer digital
+lenders as the primary driver for the shift.
+<br/>
+“Traditional banks are required to conduct Know Your Customer procedures and evaluate
+detailed risk assessments,” he said.<br/>
+“However, many alternative lenders are not held to the same standards, which results in credit
+being extended to their consumers without sufficient consideration of repayment capabilities,”
+added the Minister of the United Kingdom when asked about the reasons that caused an increase
+in digital lending platforms.<br/>
+As of now, in the UK, private-market-wide stress tests conducted by the Bank of England are
+working alongside the Financial Conduct Authority, which has forced more private credit firms
+to disclose granular, loan-level data regularly.<br/>
+
+The FCA has moved to increase transparency across the sector by requiring all alternative fund
+managers, including private credit, private equity, and hedge funds, to “ report granular loan
+level data on an ongoing basis.”<br/>
+This pushes for greater transparency alongside more direct interventions in consumer credit
+markets. The FCA has also introduced a price cap on payday lending to put an end to the
+spiralling payday debts of consumers. Within the first five months following the FCA’s consumer
+credit regulation, both the number of loans and the amount borrowed dropped by 35%.<br/>
+
+When asked whether ASEAN should adopt a similar approach, the UK Minister cautioned
+against a one-size-fits-all solution and added that “Regulatory systems should be changed to reflect the economies of individual countries, such as differences in financial literacy, income
+levels, and debt exposure, rather than a uniform system.”<br/>
+In ASEAN, regulators have established their own mitigants to manage Debt risk, with central
+banks using quantitative credit controls, such as the Total Debt Servicing Ratio (TDSR), to
+prevent over-borrowing, particularly for mortgages and unsecured credit facilities.<br/>
+There are also Debt restructuring arrangements. For instance, in countries like Thailand, the
+central bank operates debt restructuring and "Debt Clinic" programs to help individuals
+consolidate non-performing loans with extended maturities and lower interest rates.<br/>
+There are also robust consumer protection laws. The ASEAN Capital Markets Forum (ACMF)
+and the ASEAN Committee on Consumer Protection (ACCP) have enacted high-level principles
+to ensure lenders adhere to fair practices and transparent disclosure, preventing predatory lending
+and aggressive collection
+<br/>
+Therefore, while the United Kingdom and ASEAN have adopted different approaches in
+addressing increased household debt, there remains significant scope for collaboration. Through
+the sharing of policy lessons and regulatory competency, the United Kingdom has positioned
+itself as a constructive partner in ASEAN's efforts to tackle rising household debts while
+preserving financial inclusivity.
+    `},{id:`xinhua-news-agency-article2`,agency:`Xinhua News Agency`,title:`The Lao People’s Democratic Republic’s View on ASEAN Strategies to Combat Piracy and Armed Robberies in Southeast Asian Waters`,content:`
+    During the press interview, the delegate of Laos emphasised that although they had multiple
+frameworks with innovative ideas in combating piracy, Laos has firmly declined in
+prioritising any single framework that would be the most effective and rather, stressed that all
+proposed measures serve complementary roles and had different objectives in combating
+piracy.
+<br/>
+In recent years, piracy has been a significant regional challengethat has affected regional
+commerce and investor confidence due to legal disparities and inconsistencies in enforcement
+frameworks. Thus, the ASEAN Maritime Forum (AMF) has gathered solutions contributed
+by members of the council in hopes of pushing for safer maritime relations.
+<br/>
+According to the delegate of Laos, “the council believes there are still certain elements
+lacking and therefore a need for continued attention towards the legal disparities as it has
+been causing growing criticism among the citizens.” This highlights the growing severity
+piracy have gotten and should be tackled through coordinated growing efforts as this has not
+only affected the countries and caused economic distress but also caused public
+dissatisfaction for worsening economic burdens which led to poorer living standards and
+higher cost of living.
+<br/>
+
+    Although the delegate of Laos had recently point out that there have not been sufficient
+solutions to tackle piracy and instead of simply sticking to different solutions that different
+countries has proposed, Laos has decided that the draft declaration one should aligned with
+similarities all countries share in common, poverty. Thus, funding was provided from China
+to support the growth of redevelopment and reconstruction.
+<br/>
+
+The delegate of Laos believes that “most of our (the council) solutions share similar ideas and
+mechanisms. Therefore, by compiling these into frameworks that tackle factors of piracy, it
+brings us (the council) a step closer towards ending this issue,” explaining that the thoughtful
+solutions from China had greatly contributed to the framework by the AMF.
+<br/>
+
+The delegate of Laos mentioned that while the countries debated on the bigger factor of
+piracy, they had pinpointed the root cause behind piracy, which was poverty. Although
+security serves as an issue, the primary factor still leads back to poverty. By tackling this
+issue, Laos mentioned that China had decided to fund for better cost of living and therefore,
+citizens would not turn to piracy for survival due to unemployment. Although piracy can not
+be fully eradicated, Laos and the other countries found that this would be the best solution by
+improving work conditions through the funding from the People’s Republic of China.
+<br/>
+
+Lastly, the delegate of Laos believes that the maritime issue is a deeply rooted issue that does
+not have a particular factor but rather, takes a more permanent role. By saying this, Laos
+believes that there is not a standardised solution in approaching piracy since there are
+complex factors that surrounds piracy as different problems causes different impact.
+However, Laos agrees that indeed all factors are important, but poverty has forced citizens
+into desperation leading to harmful actions like piracy and thus is seeking funding from the
+Chinese Government.
+<br/>
+
+In conclusion, the delegate of Laos noted that there is no specific reason as to why pirates
+resort to piracy, but it is due to a variety of reasons, namely poverty and security. The delegate recognised that poverty was the root cause and thus led the council in solutions for
+combating the issue of poverty amongst pirates in hopes of preventing maritime crime.
+However, the delegate also pointed out that security within the nation, especially in coastal
+communities that are near the sea thus making them easy targets to pirates, is also a crucial
+factor.
+    `},{id:`al-jazeera-article2`,agency:`Al Jazeera`,title:`Interview with Minister of the Republic of Korea on his Proposal`,articleThumbnail:`/AlJaz_Int1_1.png`,content:`
+    <img src="AlJaz_Int1_1.png"></img>
+    <p><strong>The Minister of the Republic of Korea from AMMTC</strong></p>
+    <p><strong>This interview was conducted by Al Jazeera, interviewing the Minister of the Republic of
+Korea on his recent proposal to prevent the trafficking of small arms and light weapons.</p></strong>
+    <h2>Usage of RFID Tracking Chip</h2>
+    The Minister of the Republic of Korea introduced the usage of Radio Frequency Identification
+(RFID) tracking chips to effectively assist in the tracking of existing armory within governments.
+He told Al Jazeera that “every single arm in the armory of a government will contain a RFID
+chip”.
+<br/>
+
+Furthermore, biometric details of authorised personnel would be recorded into a database, which
+would be matched to the RFID chip in their armory. Authorised personnel would be required to
+pass through security gates to confirm ownership of the armory.
+<br/>
+This ensures that only authorised personnel would have access to the armory which would
+reduce the chances of weapons ending up in the wrong hands.
+<br/>
+<h2>The intended effect</h2>
+
+The minister told Al Jazeera that his proposal “prevents impersonation” with “consequences”
+should an unauthorized person attempt to remove armory, preventing further escalation of
+trafficking.
+<br/>
+Besides, this scheme could also “solve the issue of corrupt officers selling firearms for money”,
+he said , as “it is easy to trace the armory to the seller”.
+<br/>
+A bonus to this scheme would be the identification of armory trafficking hotspots. Since
+trafficking organisations obtain a large amount of armory at a time, a large amount of armory
+detected at a particular location would raise suspicion. This would expose the location of
+trafficked armories along with traffickers, so arrests can be made.
+
+<h2>Enforcement</h2>
+
+This begs the question, how will this scheme be enforced?
+<br/>
+The minister explained that a trusted organisation such as ASEANAPOL, a strategic partnership
+between ASEAN and the International Criminal Police Organization (INTERPOL), would send
+down authorised personnel to do regular checks on the logs. Also personnel would be “stationed
+within the armories and government bodies themselves”.
+<br/>
+Yet Al Jazeera would appreciate more clarifications on the feasibility of this method of
+enforcement, recognising the tediousness and possible interference to the state's sovereignty.
+<br/>
+<h2>Collaborations with other Nations</h2>
+
+In addition, the Minister of the Republic of Korea collaborated with the Minister of the United
+Kingdom, combining their proposals to ensure that both arms and ammunition are accounted for.
+<br/>
+The Minister of the United Kingdom proposed spraying a chemical called AmTag on the
+ammunition.
+<br/>
+AmTag is an advanced chemical forensic technology developed for ammunition traceability,
+using a specialised mixture of rare earth elements and fluorescent it embeds a unique chemical
+‘code’ only visible under UV light.
+<br/>
+“Governments can use this code to trace each round from the manufacturer to the last legal
+custodian,” said the Minister of the Republic of Korea.
+<br/>
+The trade of all arms will be recorded in a log so manufacturers and governments can be held
+“accountable” if weapons are trafficked. It also allows for the swift interception of smuggled
+weapons by authorities.
+<br/>
+<h2>Effective without undermining state sovereignty?</h2>
+The Minister of the Republic of Korea claimed that “each government has a private log of
+tracking devices etc”, hence information did not need to be disclosed and strictly belongs to
+each country's government, thereby respecting sovereignty.
+<br/>
+While the scheme is optional, he believes that “most countries will apply it because it is
+“beneficial to their security”.
+<br/>
+However, while this may stand true for some cases, Al Jazeera would like to bring to attention
+that corrupted governments would be unlikely to acknowledge this scheme.
+<br/>
+<h2>Funding<h2/>
+
+The Minister of the Republic of Korea acknowledged that “certain countries in ASEAN were
+developing countries, and may not have access to such advanced technology” , hence
+emphasising that the scheme would be stably funded by the United Kingdom, Gulf Coast
+Corporation And South Korea.
+<br/>
+At the same time, it assured that the economy of funding countries would not be heavily
+compromised. He recognised that the wealthier countries’ economy is also compromised by
+cases of “pirates with access to armory in the existing maritime trade routes ”, hence curbing the
+problem would benefit all.
+<br/>
+The Minister of the Republic of Korea’s proposal could be refined, but it is a step towards greater
+good.
+
+`},{id:`the-star-article1`,title:`Going for Gold: Malaysia unveils stance and potential contributions at AGMFM Negotiations`,agency:`The Star`,content:`
+    The ASEAN Finance Ministers and Central Bank Governors Meeting (AFMGM) commenced its
+debate on 22 June 2026, focusing on attracting Foreign Direct Investment (FDI) by improving
+monetary regulations.
+<br/>
+
+In an increasingly politically and economically unstable world, much of the council’s discussions
+centre on balancing stability with upward growth while navigating challenges, including the
+unpredictability of global exchange rates and the regulation of financial supply.
+<br/>
+More specifically, countries directed efforts to upgrade existing policies, balancing wealth
+acquisition with safety and guardrails to ensure stable employment and interest rates,
+contributing to an upward, predictable market. This, in turn, attracts potential Foreign Direct
+Investors.
+<br/>
+In working toward regional prosperity, the ASEAN Finance Ministers and Central Bank
+Governors Meeting agreed that regulatory reforms would be crucial in weathering financial
+headwinds.
+<br/>
+Member states of the Association of Southeast Asian Nations (ASEAN) present in the
+conference, specifically Malaysia and Singapore, played a pivotal role in the discussion,
+leveraging their ability to vote on substantive motions, while observer states like China, the US,
+and the UK offered guidance, perspective, and financial support.
+<br/>
+In her opening speech, our Financial Minister emphasised the importance of regulation and
+stability for sustainable economic growth and investor confidence while enhancing regional
+cooperation to protect from internal shocks. She also stressed the importance of preventing
+systemic risks amidst the push for digital access and currency. These are core pillars of a
+concrete framework contributing to our state's economic growth and regional stability.
+<br/>
+Furthermore, in an exclusive interview with The Star, she highlighted Malaysia’s role as a
+collaborator, underscoring the importance of “building upon solutions proposed and achieving
+mutual interest for everybody’s benefit, in which policies benefit other member states as well as
+us”.
+<br/>
+When asked whether Malaysia intended to join any blocs, she was immediately affirmative and
+enthusiastic about mutual interest and benefit, while targeting key problems like regulatory
+arbitrage, capital flights, and policy loopholes. Malaysia is currently working with the Lao PDR
+to produce a Memorandum of Understanding (MOU), which, the ministers have stated, would
+require external support.
+<br/>
+“The region’s collective prosperity therefore requires coordinated action among all member
+states,” she said.
+<br/>
+This collaboration is undoubtedly beneficial to Malaysia, a country dependent on FDIs as a
+foundational pillar of economic development—it contributed RM 207.1 billion out of the 426.7
+billion derived from investments.1 Fulcrum reported that it is channeled toward “employment,
+exports, and technology transfer...enabling the country to join regional production networks”,
+while carrying considerable sociopolitical impact with the ability to boost morale in times of
+high growth.
+<br/>
+Malaysia’s MIDA also noted the channeling of FDIs to tax incentives, streamlined regulations,
+and targeted sector support, making it instrumental in the development of small and medium
+enterprises. This is supported by the Minister of Finance, who noted “the importance of FDIs in
+local industries and improving conditions for Malaysia’s small to medium businesses”.
+<br/>
+Regarding the debate on foreign investors’ interests in the United States Dollar (USD) and local
+investors who wish to protect their local currency, a pressing issue, she clarified that given the
+differing economic landscapes of countries, some vouched for de-dollarisation while others
+prioritised investor interest above all else.
+Nevertheless, the common thread running through was the hope of a potential reduction of
+currency mortality and increased currency stability, which Malaysia intends to work on.
+<br/>
+Malaysia’s Finance Minister remains optimistic about the immense possibilities of the ASEAN
+community. She expressed that “ASEAN is a close-knit community, so the country’s economic
+successes are contingent upon one another”, while bringing up a few potential initiatives of the
+council, including Central Bank Digital Currency (CBDC) projects, easing digital, transnational
+transactions, and imposing a fee for the changing of USD to local currencies.
+<br/>
+“ASEAN must work collectively to build a stable financial environment that balances regulatory
+safeguards with competitiveness in attracting foreign direct investment,” she said.
+`},{id:`tass-article2`,title:`Interview between TASS and Delegate of China`,agency:`TASS`,content:`
+    For many years, Russia has considered China its ally due to several factors such as
+similar beliefs in the past, their close proximity to each other and many other reasons. In the
+scope of the ASCOPE council, the delegate of china has cited that they are willing to consider
+partnerships with asean members and allies and similarly, russia has the resources to be able to
+offer partnerships to other ASEAN member states and especially its advantage of land space to
+build and develop the relevant plants to be able to develop green hydrogen. These are especially
+important as China who is able to start transitioning into green hydrogen can also be able to
+reach out and refer potential partners to benefit Russia in the form of alliances. The Russian
+press have noted down their observations and remarks from China during an interview with the
+delegate of China. They have discussed issues such as ASEAN member states struggling to
+transition to green hydrogen amidst lack of land and lack of technological advancement, and the
+current state of allies and potential aid solutions to help them.
+
+<br/>
+
+The delegate of china in response to the questions that have been posed by the Russian
+press and they reply to the question posed around the topic of ASEAN member states, they reply
+that some states like south korea, indonesia and Singapore have cited that their limited land has
+been hindering their transition into green hydrogen. Some potential solutions discussed by China
+is that they can allow them to purchase land to construct the relevant hydrogen and electrolysis
+plants required to produce green hydrogen. When asked about India, they replied that despite its
+lack of technological advancement, they have the land resources to build and develop green
+hydrogen plants and electrolysis plants. Possible partnerships and solutions could be discussed as
+the delegate of India has also cited that they want to work with ASEAN to make renewable
+energy.
+<br/>
+In the past after the industrial revolution, China began to industrialize rapidly and by the
+modern day, they have developed into a modern metropolis with the public nicknaming it “the
+city of the future”. China has also seen massive improvements in its economy and especially on
+the topic of transitioning from fossil fuels to green hydrogen, they have the resources to begin
+the transition from fossil fuels to green hydrogen. Furthermore, they have the land required to
+develop and build hydrogen plants and electrolysis plants. This puts China in an advantegous
+spot over other ASEAN member countries as they have the technology, resources and leand
+required to build the encessary components to start producing hydrogen. In comparison, other
+countries like Thailand and India have to take a detour by producing blue hydrogen first in order
+to prevent affecting the lives of their citizens.
+<br/>
+In conclusion, China has the resources and the territorial space required to develop green
+hydrogen plants and their diplomatic status allows them to easily form partnerships with other
+ASEAN member states and allies and Russia would benefit from this as its combined alliance
+with China makes them both form partnerships and allow ASEAN to reach their goal of
+producing and relying on green hydrogen instead of fossil fuels.
+    `},{id:`tatoli-article1`,title:`Declining Literacy Rates in ASEAN: The Imperative of Alleviating the Problem`,agency:`Tatoli`,articleThumbnail:`/Tatoli_EWOpEd_1.png`,content:`<img src="/Tatoli_EWOpEd_1.png"></img>
 <p><strong>Photo: UNICEF</strong></p>
 
 <p>Timor-Leste boasts 2 official languages (Portuguese and Tetun Dili), 2 working languages (English and Bahasa Indonesia), and over 30 other indigenous languages. Whilst the majority of the individuals living in or around the capital city, Dili, are largely proficient in the two official languages, those living in the rural areas of the country are unlikely to have anything beyond a rudimentary understanding of the languages.</p>
@@ -528,7 +979,7 @@ frivolous background chatter but the pertinent path to a more stable future.
 Patience is running low. Lives are lost and stolen.
 <br/>
 Ministers, what do you plan to do next?
-`},{id:`dvb-article1`,title:`Stuck in the Crossfire of the Rohingya Crisis:Frameworks introduced during ASEAN Committee of Disaster Management`,agency:`DVB News`,articleThumbnail:``,content:`
+`},{id:`dvb-article1`,title:`Stuck in the Crossfire of the Rohingya Crisis:Frameworks introduced during ASEAN Committee of Disaster Management`,agency:`DVB News`,content:`
     <p>As the civil war in Arakan(Rakhine) continues to intensify, the long-persecuted Rohingya
 population finds itself facing a wave of existential peril. Caught directly between a desperate
 military junta and advancing ethnic armed groups, the Rohingya are being systematically
