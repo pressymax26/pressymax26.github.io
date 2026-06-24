@@ -310,7 +310,180 @@ Please change the parent <Route path="${e}"> to <Route path="${e===`/`?`*`:`${e}
    
 <h2> Appendix A </h2>
 <img src="/np-map.png"></img></img>
-`}],Yn=[{id:`tatoli-article2`,articleThumbnail:`/Tatoli_OpEd1_1.png`,title:`Declining Literacy Rates in ASEAN: The Imperative of Alleviating the Problem`,agency:`Tatoli`,content:`<img src="/Tatoli_OpEd1_1.png"></img>
+`}],Yn=[{id:`nhan-dan-article2`,agency:`Nhân Dân`,title:`The ASEAN Committee on Consumer Protection Conference has come to a consensus.`,deck:`The Ministers of The ASEAN Committee on Consumer Protection (ACCP) have passed the Draft Declaration (DD) by the Philippines and Singapore.`,articleThumbnail:`/NhanDan_OpEd1_1.png`,content:`
+    <img src="/NhanDan_OpEd1_1.png"></img>
+    <p><strong>This photo illustrates the voting result of the Draft Declaration by Singapore and the Philippines.</strong></p>
+    On 23rd June of 2026, The ASEAN Committee on Consumer Protection has come a long way
+from opening up negotiations to Non-Member states to finalising the ACCP’s Draft Declaration.
+<br/>
+The Draft Declaration, with Philippines and Singapore as the Sponsors, states that it is cognisant
+of the rapid expansion of digital consumer credit markets across ASEAN Member States,
+including Buy Now Pay Later (BNPL) schemes and shadow banking entities, and the risks these pose to consumer welfare and regional financial stability. The Draft Declaration also recognises
+that the absence of regional baseline standards has created regulatory arbitrage opportunities that
+allow consumer credit risk to migrate into less supervised channels across borders.
+<br/>
+The Draft Declaration establishes “a set of non-binding ASEAN Baseline Principles for
+Consumer Credit, comprising minimally of lender responsibility obligations requiring creditors
+to assess borrower capacity to repay before extending credit, mandatory disclosure of the true
+total cost of credit, which includes all fees and charges in plain language accessible to
+consumers, and hardship variation rights entitling borrowers who are experiencing financial
+distress to request restructuring from their lender”<br/>
+The Draft Declaration has seven articles in total. The first article starts off the definitions in the
+Draft Declaration. The next article focuses on Regional Baseline Principles for Consumer Credit
+Regulations, where it establishes non-binding ASEAN Baseline Principles for Consumer Credit,
+comprising at minimum. The rest of the Articles also target at resolving pressing issues to the
+ASEAN Committee and other Non-Member States.<br/>
+Notably, the article that appeals to Viet Nam the most would be Article 2 operative clause 3
+which “encourages AMS to audit existing consumer credit legislation for definitional gaps that
+permit emerging credit products such as BNPL to operate outside established consumer
+protection frameworks, and to address such gaps through targeted legislative amendment”.<br/>
+Furthermore, Article 4, Governance of Emerging Credit Channels, operative clause 9 “urges
+AMS to extend licensing requirements to non-bank financial institutions and digital lending
+platforms operating within their jurisdiction, including BNPL providers, ensuring that entities
+operating in consumer credit markets are subject to minimum standards of Know Your Customer
+compliance, fee disclosure, and consumer hardship provisions”. Thereby, Viet Nam has given
+our vote for this Draft Declaration.<br/>
+Ever since 2007, the Minister of Viet Nam has always been seeking for further transparency for
+consumer protection. In Viet Nam, The Viet Nam Competition Commission (VCC) has been
+assigned the function of state management in the areas of consumer protection and within this
+mandate, the VCC has established and operated the Consumer Consulting and Support Hotline
+1800.6838 – a key instrument to enhance the effectiveness of consumer protection policy
+implementation
+<br/>
+A core tenet of Viet Nam’s foreign policy is the preservation of national sovereignty and the
+adherence to the principle of non-interference. Viet Nam has got this Draft Declaration to
+masterfully respect this stance through Article 2 and Article 4.<br/>
+By affording Emerging Markets a vital transition period of no less than three years, the
+framework enables Viet Nam to internalise these standards at a pace compatible with Viet Nam’s
+domestic institutional capacity. This assures Viet Nam’s advancements on regional consumer
+safety.<br/>
+Viet Nam congratulates the Philippines and Singapore on this successful Draft Declaration, and
+is proud to be a Signatory for it. This Draft Declaration has reflected how Viet Nam’s priorities
+in ACCP are deeply cared for and respected. Viet Nam looks forward to these future solutions.
+    `},{id:`sbs-news-article2`,agency:`SBS News`,title:`The Final Stretch – How the finalised ASEAN policies are reshaping irregular migration Sub-header: Countries finalise solutions regarding immigration policies and border management.`,articleThumbnail:`/SBSNews_OpEd_1.png`,deck:`Countries finalise solutions regarding immigration policies and border management.`,content:`In the last council session for today, the ASEAN Directors-General of Immigration Departments
+and Heads of Consular Affairs Divisions of the Ministries of Foreign Affairs Ministers (DGICM)
+have moved on from ASEAN’s border management and its fight against irregular migration.
+<br/>
+Going forward into immigration policies, there have been countless proposed solutions. The
+countries have come to a mutual agreement to push out their desired solutions in both aspects of
+immigration policies and border management.
+<br/>
+<h2>The Final Consensus - Border Management</h2>
+Firstly, to tackle the issues regarding border management, the council has established the
+FOCUS Movement (FOCUS-M) framework. This initiative aims to enhance maritime and
+airspace border security across ASEAN member states.
+<br/>
+When countries are willing to, they can establish regular joint maritime border surveillance
+patrols between themselves under the FOCUS-M. They would aim to identify, gather, and share
+information related to transnational crime.
+<img src="/SBSNews_OpEd_2.png"></img>
+<br/>
+Moreover, keen countries can further establish and develop border surveillance technology and
+voluntary information sharing amongst member states under the FOCUS-M framework.
+<br/>
+It has also been made clear that participation and border decisions in FOCUS-M remain strictly
+voluntary. Thus, all decisions made by countries about cross-border security operations,
+surveillance and intel-sharing were made at their own discretion.
+<br/>
+The FOCUS-M framework also strongly encourages the strengthening of existing measures,
+including the ASEAN Convention Against Trafficking in Persons (ACTIP) and the Bali Process.
+There will be review meetings on the implementation of measures and plans.
+<br/>
+It also encourages the establishment of a digital immigration platform for interested member
+states, guided by relevant professionals. They are aiming at gathering biometric data on legal
+migrants and allowing for greater border mobility.
+<br/>
+FOCUS-M also encourages concern within Member States and Dialogue Partners that migrant
+smuggling is both a complex transnational phenomenon and a transnational crime issue. This
+ensures that labour-sending states have a direct stake and interest in ensuring that migration
+remains safe.
+<br/>
+Lastly, the FOCUS-M recommends a yearly conference under the auspices of the DGICM with
+all Dialogue Partners and ASEAN states, where current solutions shall be reworked.
+
+<h2>The Final Choice- Immigration Policies</h2>
+Regarding immigration policies, the DGICM has adopted ARMN (ASEAN Regulated
+Movement Network) to provide clearer legal migration pathways for low-skill and middle-skill
+workers.
+<br/>
+The DGICM also endorses the provision of licensing to legal and ethical recruiters through the
+Certification of Recruitment and Illicit Network Exposé (CRINE) framework to recruit migrant
+workers under legal recruitment centres that have been licensed.
+<img src="/SBSNews_OpEd_3.png"></img>
+They would do so by establishing blacklists and a licensed repository maintained by the ASEAN
+Secretariat, where unethical recruiters offering fake job offers, scams, etc., would be added to an
+online repository.
+<br/>
+The repository mentioned above will be available to the public, allowing migrants to know
+which companies to avoid and for the respective countries to issue penalties where necessary.
+<br/>
+Lastly, they also encourage the adoption of the ASEAN Mobility and Migrant Outreach Initiative
+(AMMO). This includes the AMMO Crisis Response Mechanism, the Migrant ID-Database, and
+AMMO Migrant Information Centres in Migration Corridors.
+<br/>
+Lastly, the DGICM heavily emphasises the need to uphold the human rights of the migrants.
+<br/>
+A Unified Path towards a cohesive network
+This final declaration presents a comprehensive attempt to address irregular migration through
+the above 2 objectives.
+<br/>
+Both solutions, especially ARMN, greatly improve migrants' welfare and address humanitarian
+rights and migrants' dignity, improving on the first proposed solution, SHIELD. This is
+commendable as social diversity and migrant protection is greatly prioritised in Australia.
+<br/>
+With only one final draft resolution being introduced, every country writes its name under the
+signatories of the draft resolution, showing their proactiveness in helping each other. The
+discussions also prove that international communication is crucial for a solution.
+<br/>
+This helps maintain a good relationship among countries.
+<br/>
+However, its success will depend on whether ASEAN member states can efficiently implement
+the solutions and proactively participate in the long-term cross-border sharing and collaboration.
+<br/>
+Irregular immigration reduction is necessary, and countries should continue to work together,
+allowing society to be more inclusive and cohesive.
+`},{id:`the-wire-article1`,title:`Resolution to Private Debt Crises Awaits`,agency:`The Wire`,articleThumbnail:`/theWire_OpEd1_1.png`,content:`
+    The issue of consumer protection against private debt crises is increasingly pressing as there are more
+people steering towards the idea of looking for financial activity outside the traditional banking
+system. (1) Non-bank intermediaries market their services as “interest free” and split loans up into
+small amounts which forms an illusion of the loans being affordable. This causes consumers to be
+unaware that they are actually unable to afford these loans which ultimately causes them to fall into
+debt.It is thus essential that these services are regulated and monitored to ensure that these non-bank
+intermediaries are transparent in their schemes.<br/>
+Another issue is that ASEAN members face the issue of different financial levels of the various
+countries. The countries must collaborate and come to a consensus on the minimum contribution per
+country financially to solve the issue of private banking loans in developing and already developed
+countries. Furthermore, ministers of the delegations have not yet discussed the issue of their
+inefficient regulatory enforcement to crack down on illegal lending. Ministers have not discussed how they should work together to eliminate cross-border illegal lending in the relevant countries with
+limited funding in certain countries. <br/>
+The Minister of the United Kingdom suggested setting a baseline cost of 10% and below for
+delegations that do not have sufficient funding. This ensures that the countries are contributing to
+solving the issues of the private banking crisis regardless of the financial situation of the country. The
+Minister of Myanmar continues that “Singapore might be able to do more than Myanmar because they
+have higher GDP”. The Minister of Cambodia adds that they are “welcome to do more if the countries
+are able to do so financially.” This suggests that developing countries would tap on the resources of
+developed countries in hopes that developed countries will be able to contribute what developing
+countries are unable to.
+<br/>
+India recently introduced a unified goods and services tax which made claiming taxes more
+convenient. There is also a new banking system in the Reserve Bank of India which allows those who
+borrow to have a clear direction of paying back the loan while lenders still generate revenue.
+The private credit ecosystem in India is different in terms of fund management, which sets it apart from
+other states. This is because India implemented a framework after a shadow banking crisis to prevent
+financial loss. Furthermore, India uses a reliable method of hard collateral and shorter repayment
+periods to ensure money comes back.
+<br/>
+
+The current solutions include regulating lending standards following Reserve Bank of India’s digital
+lending guidelines, basic financial literacy for unprotected consumers so that they will be able to
+identify the illegal lending applications. For cross-border transactions and lending without problems
+and difficulties, Project Nexus will be upgraded and expanded. Aiming to collaborate with ASEAN
+under ASEAN-India Joint Statement on Advancing Digital Transformation for mutual consent of
+sharing knowledge and best practices available. Planning for a digital first responder mechanism to
+reject blanket interest waivers in favour of individual debt restructuring, and propose a calibrated
+intervention framework for ASEAN. These ideas can help to resolve the issues of private banking
+crisis, however, will all countries be able to coordinate together without any disagreements?
+    `},{id:`tatoli-article2`,articleThumbnail:`/Tatoli_OpEd1_1.png`,title:`Declining Literacy Rates in ASEAN: The Imperative of Alleviating the Problem`,agency:`Tatoli`,content:`<img src="/Tatoli_OpEd1_1.png"></img>
     <p><strong>Photo: UNICEF</strong></p>
     Timor-Leste boasts 2 official languages (Portuguese and Tetun Dili), 2 working languages
 (English and Bahasa Indonesia), and over 30 other indigenous languages. Whilst the
