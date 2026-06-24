@@ -310,7 +310,403 @@ Please change the parent <Route path="${e}"> to <Route path="${e===`/`?`*`:`${e}
    
 <h2> Appendix A </h2>
 <img src="/np-map.png"></img></img>
-`}],Yn=[{id:`nhan-dan-article2`,agency:`Nhân Dân`,title:`The ASEAN Committee on Consumer Protection Conference has come to a consensus.`,deck:`The Ministers of The ASEAN Committee on Consumer Protection (ACCP) have passed the Draft Declaration (DD) by the Philippines and Singapore.`,articleThumbnail:`/NhanDan_OpEd1_1.png`,content:`
+`}],Yn=[{id:`asahi-shimbun-article2`,agency:`The Asahi Shimbun`,title:`HUMANITY BEYOND BORDERS`,articleThumbnail:`/asahi_Int1_1.png`,content:`
+    A disaster strikes. The nation goes into a frenzy: families panic and brace themselves for what’s
+to come, citizens cross borders to flee, and non-afflicted, high-capacity countries rush in to help.
+
+<p>This is not an imagination, it is a reality.</p>
+<br/>
+Yemen, the country facing one of the world’s most severe humanitarian crises, has been struck
+again and again by economic deterioration and increasing climate shocks for years on end,
+causing the citizens to struggle to access basic, essential services.
+<br/>
+The Government of Japan has contributed US$5.3 million to support UNHCR’s response to the
+urgent needs of refugees, internally displaced people, and host communities in Yemen.
+<br/>
+It is commendable that Japan has stepped in to provide funding, but more should be done to protect
+the welfare of citizens and help directly with the cross-border displacement disaster.
+<br/>
+So it boils down to this question: How do we protect people who are forced to flee when
+everything is lost?
+<br/>
+Amid rising concerns over climate-induced displacement and regional instability, a distinctive
+approach termed “humanitarian realism” has been put forward. Due to the minister of Japan
+being absent for the entire conference, we’ve gotten the minister representing Timor-Leste at the
+ASEAN Committee on Disaster Management (ACDM) to elaborate on how the country balances
+compassion with practical governance in times of crisis.
+<br/>
+Responding to the growing urgency of cross-border displacement, the minister emphasized that
+the issue is both immediate and deeply human. As environments deteriorate and livelihoods are
+lost, we are increasingly confronted with individuals who have been forced to “flee without
+documentation, identity, or support systems,” the minister noted. “Humanitarian realism means
+ensuring that even in such circumstances, people retain their dignity. We aim to achieve this by
+working closely with other states to verify identities and restore continuity in people’s lives.”
+<br/>
+Beyond Timor-Leste’s own position, Japan must remain an important external partner in
+ASEAN’s humanitarian architecture, strengthening the region through sustained support for
+disaster-response and resilience- building efforts.
+<br/>
+Regarding the role of humanitarian aid, the minister underscored that welfare and humanitarian
+aid remain a central priority for Timor-Leste. “As a small-capacity state, we understand more
+acutely than most the importance of precision and accountability in aid delivery,” they explained.
+“This is why we have actively collaborated with larger member states such as the United
+Kingdom, Pakistan, Thailand, Malaysia, and Vietnam to establish the A.C.T. Task Force.”
+The minister defined the A.C.T task force as one that provides “swift”, “safe”, and “trustworthy”
+aid. “We are standing up in ASEAN to display that while we are small and young, we will make
+big ripples.”
+<br/>
+We must work hand in hand with the ASEAN nations to ensure that Japan can provide its fullest
+support toward afflicted countries, and will receive back the same in a disaster. Furthermore, to
+protect the collective well-being of our citizens, we must always ensure good diplomatic ties.
+
+<br/>
+Addressing the challenge of balancing state sovereignty with humanitarian responsibility, the
+minister pointed to ASEAN’s guiding principle of “One ASEAN, One Response.” Under this
+framework, neighboring states establish bilateral agreements that clarify protocols for
+cross-border movement during emergencies. These agreements ensure that sovereignty is
+respected, while also allowing for flexibility when human lives are at stake,” the minister said.
+<br/>
+Displaced individuals can move to the nearest safe country without unnecessary delays. The
+A.C.T. Task Force serves as a coordinating bridge, ensuring that such movements are safe,
+predictable, and properly documented.
+<br/>
+On the other hand, the Minister of Japan from the ASEAN Directors-General of Immigration
+Departments (DGICM) stated that she views ASEAN’s humanitarian needs as a “strategic
+priority vital for regional stability”, valuing ASEAN centrality and long-term capacity building.
+<br/>
+“Tokyo acts as a primary pillar of support for Southeast Asia's crisis resilience by heavily
+funding the AHA Centre for disaster management and ACPHEED for public health
+emergencies.” She concluded that during regional crises, Japan channels its humanitarian aid
+directly through ASEAN frameworks and international organizations, assisting displaced
+populations while maintaining diplomatic neutrality.
+<br/>
+Humanitarian assistance is not just presented as an alternative to governance, but as part of it.
+The challenge now is whether ASEAN can finally integrate both into being part of the same
+response toward humanitarian causes.
+    `},{id:`tatoli-article3`,agency:`Tatoli`,title:`ASEAN needs to work together to ensure quality multilingual education across the region – Ministers of Indonesia, Vietnam, and Timor-Leste Discuss the Successfully Passed Draft Declaration`,articleThumbnail:`/Tatoli_Int1_1.png`,content:`Over the past 2 days, the ASEAN Education Ministers’ Meeting (ASED) has engaged in
+passionate debates to tackle the problem of declining literacy and English proficiency rates.
+As of 23rd of June, debate in ASED has ceased, and countries have come to a consensus on
+addressing the question of enhancing language policy in education systems across ASEAN.
+<br/>
+Our interview is joined by the Ministers of Indonesia and Vietnam, sponsors of the draft
+declaration, and the Minister of Timor-Leste, as they tell us more about what is to come from
+their council resolution.
+<br/>
+<h2>On Multi-Language Education</h2>
+
+<p>The importance of English education was reiterated numerous times throughout the
+conference, on account of low English proficiency in most ASEAN countries. The urgency
+to improve English proficiency was emphasised by the Minister of Indonesia. “English
+proficiency is crucial for a country to remain economically competitive. Being the most
+widely spoken language, English proficiency bridges communication with the rest of the
+world. Thus, we prioritise compulsory English language education in tandem with one’s
+mother tongue in later stages of schooling,” he explained.
+</p>
+With the increase in English education, it is inevitable for concerns regarding the loss of
+indigenous and minority languages to be brought up. “Across ASEAN, we recognise that
+there are countless regional languages we need to promote and protect against extinction,
+particularly in the face of globalisation,” said the Minister of Indonesia, “hence, one’s mother
+tongue will be prioritised as the first language of instruction in school to ensure one remains
+proficient in their mother tongue.”<br/>
+Addressing the concerns within the council, the solution also includes numerous suggested
+actions for the preservation of indigenous languages. “Indigenous languages are vital for
+preserving unique cultural perspectives and identities of countries. Hence, through
+recommendations such as increased and accessible documentation in minority languages and
+adding optional electives in minority languages, we hope to promote the preservation and
+protection of indigenous languages,” said the Minister of Vietnam.
+<h2> Specifics of the Draft Declaration <h2/>
+When prompted to share more about their draft declaration and its implementation, the
+Minister of Vietnam highlighted one key factor contributing to the success of their
+solution–its flexibility: “We recognise that a one-size-fits-all solution would not fit every
+country due to differences in development and culture, thus the solution allows each member
+state to develop their own specific curriculum that fits the needs of their people.”
+“Our solution follows students from their early to later stages of education. In their first years
+of schooling, students will be taught in their mother tongues before transitioning to
+side-by-side language learning with English as the second language,” the Minister of Vietnam
+explained that this would encourage the development of one’s multilinguistic and
+comprehension abilities.<br/>
+Additionally, the solution also incorporates the usage of Artificial Intelligence (AI) tools,
+becoming one of the first ASEAN education solutions to actively integrate AI. “To keep up
+with current technological trends and software, AI will be a part of the shared resources
+amongst member states,” the Minister of Indonesia elaborated, “other measures such as
+international teacher training programmes and resource sharing websites will also be
+implemented. This ensures accessible and quality learning materials for all member states.”
+The Minister of Vietnam added that their current solution was in part inspired by the success
+of Timor-Leste’s EMBLI Pilot Programme. When inquired, the Minister of Timor-Leste
+expressed support for the final resolution which “benefits minority languages and countries.”
+“Timor-Leste is particularly excited about implementing the teacher exchange programme to
+train more of our teachers. We firmly believe that a good teacher provides a good education.
+Hence, I hope this programme, in addition to the integration of AI technology, will increase
+the quality of education in Timor-Leste and address the education-related problems we
+currently face,” the Minister of Timor-Leste said.
+<br/>
+Apart from addressing literacy and proficiency issues, the Minister of Timor-Leste hopes that
+the technological aspects of the solution will drive further advancement and development in
+the country. He expressed hopes for the solution’s AI integration to serve as common ground
+between developing countries and technologically-centred countries like India and China.
+“Once the younger generation, who will grow up using AI, enters the workforce, there will be
+increased collaboration with countries centered around AI and related technology.”
+`},{id:`lao-news-agency-article3`,agency:`Lao News Agency (KPL)`,title:`Laos Advocates for Centralised Funding and Regional Task Force at ASEAN Disaster Management Meeting`,content:`*Responses from Ministers have been edited for clarity and brevity*
+<br/>
+The delegation of Laos has attended the latest session of ASEAN Committee on Disaster
+Management (ACDM), to strengthen regional frameworks for disaster-displaced populations.
+<br/>
+The meeting, consisting of both regional and international stakeholders, was held to address
+growing environmental challenges. Discussions are focused on enhancing humanitarian
+coordination and integrating climate change and disaster policies across ASEAN.
+<br/>
+Currently, the impacts of Cross-border Disaster Displacement (CDD) in ASEAN are amplified
+by a lack of targeted approaches and regional collaboration.
+<br/>
+In response to these lapses in existing frameworks, a solution was proposed during the meeting,
+namely the ASEAN Cross-Border Disaster Displacement Taskforce (ACT).
+<br/>
+The solution was jointly proposed by the Ministers of Laos and those of several other member
+states and dialogue partners.
+<br/>
+“To address current shortcomings, the ACT will act as a pre-arranged system to foresee disaster
+movement across borders within the entire region and will fall under the larger ASEAN
+Agreement on Disaster Management and Emergency Response (AADMER) framework. This
+prevents fragmented, ad-hoc border responses during disasters and ensures the safety and
+appropriate distribution of displaced persons.”, says the Minister of Laos.
+<br/>
+Empathising with the unique challenges faced by lower-capacity countries, the Minister of Laos
+proposed the use of a referral-based mechanism in situations where hosting capacities of these
+countries may become overstretched.
+<br/>
+"As ASEAN member states possess different levels of capacity and resources, implementation
+should be progressive and adaptable to national circumstances," the Minister said.
+<br/>
+At the same time, Laos reaffirmed the importance of maintaining ASEAN's longstanding
+principles of protection of sovereignty and non-interference in the internal affairs of member
+states.
+<br/>
+Solutions to aid disaster management should strengthen regional cooperation but still while fully
+respecting national sovereignty and the principle of non-interference. Any regional mechanism
+must operate with the consent and participation of the member states involved.
+<br/>
+Concerns raised by the Minister of Cambodia regarding the protection of decision-making
+authority within internal borders amidst implementation of regional frameworks were largely
+aligned with these views.
+<br/>
+In the subject of capital acquisition, the Lao delegation led the proposal of a centralised funding
+system to support ACT, where a greater proportion of economic resources would be secured
+from more economically developed nations.
+<br/>
+They noted that China, Brunei Darussalam, and Australia have already agreed to provide the
+necessary funds to support these regional initiatives.
+<br/>
+The Minister added that these centralised resources will also assist member states in upgrading
+their digital infrastructure to counter the loss of physical documents during the event of natural
+disasters.
+<br/>
+Touching upon the specific operational dynamics of the new task force, the Minister clarified
+that the Lao People’s Democratic Republic will focus on a collective regional effort rather than
+pursuing individualised roles.
+<br/>
+They explained that this collaborative approach is highly intentional, as the resulting
+humanitarian solutions must remain broad and flexible to adapt to varying situations where they
+will be implemented.
+<br/>
+The Minister affirmed that Laos is always open to work continually with fellow ASEAN nations
+to solidify and curate more comprehensive strategies alongside the task force and its
+corresponding regional frameworks.
+<br/>
+Looking ahead, there is a positive outlook for Laos to continue to build upon these discussions to
+safely accommodate the ever-changing climate alongside the diverse economic and
+environmental settings within ASEAN.`},{id:`cna-article2`,agency:`Channel News Asia`,articleThumbnail:`/CNA_Int1_1.png`,title:`Up Close: Are there only two sides to the coin?`,deck:`ASEAN reexamines its stance of neutrality amid a new world order between China and the US.`,content:`<img src="/CNA_Int1_1.png"></img>
+    <p><strong>The Ministers of Laos and Singapore share on how ASEAN is partnering with China to solve South China Sea
+Disputes. (Photo: Alex Kovach, Reuters)</strong></p>
+<br/>
+SINGAPORE: At the recent 2026 IISS Shangri-La Defence Dialogue, Singapore’s Defence
+Minister Chan Chun Sing made a memorable quote: “We are not pro U.S. or anti U.S., we are
+not pro China or anti China, we are pro ASEAN.”
+<br/>
+Minister Chan was responding to questions at the dialogue in Singapore on May 31, during
+the question-and-answer session after his speech.
+<br/>
+But it seems like many ASEAN ministers might have missed the memo during the recent
+Special Defence Dialogue (SDD) session, where ASEAN signed a multilateral agreement
+<br/>
+solely with China, settling the South China Sea disputes, which reemerged recently in 2009
+with the expansion of China’s “nine-dash line” claims.
+<br/>
+When queried about the aforementioned agreement, Minister Chan was “grateful that
+ASEAN and China could come to an agreement to resolve disputes in the South China Sea”,
+and he believes that this “is a sustainable long-term solution to mediate existing tensions.”
+
+<h2>THE CHARTERED COURSE</h2>
+
+Historically, the ASEAN Defence Ministers Meeting Plus (ADMM+) has been effective in
+pushing for common visions and improving diplomatic ties, as seen in 2019, the ADMM+
+Maritime Security Field Training Exercise was completed in the South China Sea.2
+<br/>
+The Maritime Security Field Training Exercise, which included 18 participating countries,
+focused on improved cooperation between ADMM+ nations and real-time interoperability
+and standardising crisis communication. This previously displayed the effectiveness of
+ADMM+ in fostering diplomacy within ASEAN and its partners, and exhibited the
+willingness for cooperation between participating nations.
+<br/>
+However, the ADMM+ is really mostly limited to effective soft power in diplomacy, and
+when asked whether ADMM+ will be truly effective in settling maritime disputes in line with
+ASEAN'S non-interference policy as mentioned in the ASEAN multilateral agreement, the
+Minister of Laos believed that “ I, as do many of my colleagues, understand and consistently
+maintain the importance of adhering to key, unifying ASEAN principles, such as
+multilateralism, consensus-based decision making and non-interference. I can tell you this: I
+am confident that ADMM+ will indeed be effective in carrying out ASEAN's
+non-interference policy.
+<br/>
+This shows the confidence of neighbouring ASEAN states in the trust and effectiveness of the
+long-standing ASEAN partnership as well as China. However, the true effectiveness of
+ADMM+ in maritime security nevertheless remains to be seen.
+<br/>
+<h2>RESOLUTION ON THE HORIZON</h2>
+
+When questioned regarding the potential long-term success of the draft declaration, Minister
+Chan confidently believes that “there is always more to resolve, but we are proud to have
+come up with consistent and tangible agreements between countries to better approach this
+issue”
+<br/>
+The Minister of Laos also believes that “we have agreed in principle; that is good, that is
+consensus-based. Laos will continue to mediate and push for positive ASEAN-China
+relations.”
+<br/>
+The success of this draft declaration serves to improve economic stability and trade within
+ASEAN nations and Singapore, and also shows how neighbouring ASEAN countries like
+Laos desire positive ASEAN relations with China, aligning with Singapore’s views.
+<br/>
+<h2>US ON THE SIDELINES</h2>
+
+The US is noticeably absent from both ASEAN multilateral agreements as well as the draft
+declaration. This comes as a surprise, as for decades, ASEAN members have survived by
+balancing relations with the US and China, engaging China economically while relying on
+the US security partnerships. Mandating exclusive joint exercises with China via ADMM+
+frameworks could be perceived as a dangerous diplomatic shift to the eastern hemisphere.
+<br/>
+Minister Chan addressed the concerns of US-China relations, clarifying that Singapore wants
+to “Stand by our stance. In the end, we are pro-ASEAN, because ASEAN is not an
+organisation that takes ideological or confrontational sides. Therefore, we are open to
+working impartially with both the U.S. and China to reach compromises, as we are open to
+being a neutral negotiator in ASEAN."
+<br/>
+In line with previous statements, Singapore is more than willing to cooperate with both East
+and West and to balance relations with them in the future; but as always, it is ASEAN first.
+
+"
+    `},{id:`newsroom-article2`,agency:`Newsroom`,title:`An interview with the Minister of China`,deck:`We continue our pursuit of gathering the rationale behind ministers’ decision-making process in ASEAN’s petroleum and energy matters`,content:`ASEAN Council on Petroleum and Energy (ASCOPE)’s recent developments on the discussion
+of the topic of ASEAN’s transition to green hydrogen as a reliable source of fuel has put Vietnam
+and Cambodia in the spotlight. Ministers of Cambodia, Vietnam, New Zealand (NZ) and China
+are in the midst of working closely together on a declaration mandating carbon emission
+objectives for each ASEAN member state to meet in a set timeline.
+<br/>
+With the committee’s attempt to standardise the definition of ‘green hydrogen’, the ministers
+have collectively agreed upon the categorisation of ASEAN member states into their respective
+levels of development. Supposedly, the ministers can then proceed to a consensus on what is —
+as many would put it — the most fair and just approach to engaging with economically and
+environmentally viable energy solutions within ASEAN.
+<br/>
+Newsroom, while excited to see what is in store for ASEAN, is also brimming with questions
+about the stakeholders’ future courses of action to minimise the compromise on sustainability.
+<br/>
+Being highly involved in the ongoing discussions in ASCOPE and a notable collaborator with
+the Minister of NZ, the Minister of China has contributed her expertise to ministers’
+deliberations, especially on the topic of standardising definitions of green hydrogen. The
+Minister of China has also verbally acknowledged that the supply of funding for ASEAN’s green
+economy progression does not equate to immediate returns for China — instead, future strategic
+partnerships and engagement with member states of ASEAN can be looked forward to by the
+country’s leadership.
+<br/>
+Newsroom has had the graceful opportunity to interview with the Minister of China during the
+conference. We have garnered a deeper insight into China’s perspective, interests and future
+strategies in the matter of the sustainability of ASEAN’s adoption of green hydrogen fuel.
+<br/>
+What is your stance on the transition towards increased usage of green hydrogen in
+ASEAN economies?
+<br/>
+China strongly supports ASEAN’s transition towards green hydrogen, but believes that the
+transition must be conducted in a practical and inclusive manner. Different ASEAN member
+states possess varying levels of technological and financial capacity, so a rigid standard will not
+be the most sustainable.
+<br/>
+Right, and what does the current solution you support entail?
+<br/>
+Our solution focuses on technology transfer, research cooperation and infrastructure
+development to help member states develop their hydrogen industries. Through these efforts,
+China hopes to make green hydrogen more accessible while strengthening regional energy
+security and sustainable development.
+<br/>
+I see. Which countries’ ministers are looking upon the most significant contributions to
+ASEAN’s transition to a green economy?
+<br/>
+China has been working with multiple other countries such as New Zealand, Vietnam, Cambodia
+to come up with solutions to tackle the issue. Cambodia and Vietnam provide the perspective of
+ASEAN member states and ensure our solutions address the needs of the region. China
+contributes through technology sharing, infrastructure expertise and support for hydrogen supply
+chains to accelerate regional adoption. New Zealand contributes expertise in renewable energy
+research and development.
+<br/>
+In what ways do you foresee ASEAN member states of the differing tiers of development
+(i.e. high, medium and low) being impacted by the aforementioned declaration’s
+frameworks and solutions?
+<br/>
+China believes that the framework benefits both developed and developing member states. Most
+advanced economies gain clearer standards and greater investment certainty, while developing
+countries receive a realistic pathway towards participating in the hydrogen industry. The
+common hydrogen definitions help maintain transparency and reduce confusion in regional trade
+and investment. Most importantly this framework ensures that no ASEAN member state is left
+behind during the energy transition.
+<br/>
+What is the incentive for your country to be amenable to such a development in the
+ASEAN region?
+<br/>
+China believes that a successful hydrogen transition will strengthen regional energy security,
+economic resilience and sustainable growth. As a major producer of hydrogen technologies,
+China also sees opportunities for greater technological cooperation and stronger regional supply
+chains. Supporting ASEAN’s development contributes to a more stable and interconnected
+region. Ultimately, China's interests are closely linked to ASEAN long-term development.
+<br/>
+Do you foresee any implications of the proposed solution on your country? If yes, what are
+they?
+<br/>
+One challenge we foresee is that supporting regional hydrogen development requires significant
+investments of resources, expertise and technology. There may also be difficulties in
+coordinating projects across countries with different regulations and levels of development.
+However, China believes these challenges are manageable through cooperation and dialogue. In
+the long run, the benefits of a stronger regional hydrogen industry outweigh the costs.
+<br/>
+Moving forward, how does China plan on contributing to maintaining sustainability with
+the proposed solutions?
+<br/>
+China plans to continue engaging through technology-sharing programmes, joint research
+projects and infrastructure cooperation initiatives. We also support regular reviews to ensure that
+policies remain effective as technology evolves. China believes that ASEAN should remain at
+the centre of decision-making, with external partners such as China providing support where
+needed. Through long-term cooperation, we hope to build a hydrogen economy that is
+sustainable, inclusive and beneficial to all member states.
+<br/>
+*
+<br/>
+During the interview, the Minister of China displayed her certainty through her tone of
+conviction when she elaborated on the steps China would take going forward.
+<br/>
+Evidently, the Minister China foresees this investment in ASEAN member states to be
+favourable in the long run. With the confidence that cooperation and dialogue plays a paramount
+role in advancing sustainability and development projects for energy and fuel within the region,
+The Minister of China stresses that engagement within the region is feasible
+<br/>
+As Newsroom eagerly anticipates the passing of the ASEAN ministers’ most pragmatic solutions
+presented to the committee, the bone of contention between the two major declarations
+<br/>
+comprising sponsorship from Brunei & Indonesia and Vietnam & Cambodia respectively persists
+— disagreements on ASEAN member states’ priorities in strengthening intra-region cooperation
+separates both parties from coming to a consensus. The Minister of NZ, an avid supporter of
+Vietnam and Cambodia’s plans for strategic development in the region, has verbally attested to
+the Minister of China’s analysis of the conflict between both declarations, emphasising that he
+“will not condone a weakened definition of green hydrogen, and will seek to champion
+economically viable solutions”. Adamant in the pursuit of sustainability, Kiwis can look ahead to
+more opportunities for involvement with ASEAN for the NZ government, tapping on our current
+diplomatic ties with the ministers of the member states and drawing from NZ’s readiness to
+bestow financial support and expert guidance upon them.`},{id:`nhan-dan-article2`,agency:`Nhân Dân`,title:`The ASEAN Committee on Consumer Protection Conference has come to a consensus.`,deck:`The Ministers of The ASEAN Committee on Consumer Protection (ACCP) have passed the Draft Declaration (DD) by the Philippines and Singapore.`,articleThumbnail:`/NhanDan_OpEd1_1.png`,content:`
     <img src="/NhanDan_OpEd1_1.png"></img>
     <p><strong>This photo illustrates the voting result of the Draft Declaration by Singapore and the Philippines.</strong></p>
     On 23rd June of 2026, The ASEAN Committee on Consumer Protection has come a long way
@@ -1998,4 +2394,4 @@ countries. With ASEAN moving towards green hydrogen there are also some who oppo
 move. The delegate of Pakistan cites that green hydrogen is flawed and risks such as economic
 exploits and risks to its foundational assets. While they push for ASEAN to look into solutions,
 Russia still considers Pakistan an “important partner” in the region’s economic and energy
-development and called the two countries “natural allies”.`}],Xn=[{id:`DVB-News-podcast1`,title:`ASCC, ACSC-Migration, ACSC-Seas`,agency:`DVB News`,content:`/DVBNews-Podcast1.mp3`},{id:`cna-podcast1`,title:`Piracy in our backyard`,agency:`Channel News Asia`,content:`/CNA_Podcast_1.m4a`},{id:`borneo-bulletin-podcast1`,title:`The Role of Economy When Dealing with Migrant Healthcare`,agency:`Borneo Bulletin`,content:`/BB-Podcast.mp3`}],Zn=()=>(0,j.jsx)(`div`,{className:`article-list`,children:Yn.map(e=>(0,j.jsx)(qn,{article:e},e.id))}),Qn=({children:e})=>(0,j.jsx)(`div`,{children:(0,j.jsx)(`main`,{children:e})}),$n=()=>(0,j.jsxs)(`div`,{style:{backgroundColor:`#333`,color:`white`,padding:`10px`,width:`100%`,top:0,position:`fixed`,left:0},children:[(0,j.jsx)(`h1`,{children:`YMAX Press 2026`}),(0,j.jsx)(`a`,{href:`/`,className:`barLinks`,children:`Latest News`}),(0,j.jsx)(`a`,{href:`#/article`,className:`barLinks`,children:`Articles`}),(0,j.jsx)(`a`,{href:`#/podcast`,className:`barLinks`,children:`Podcasts`}),(0,j.jsx)(`a`,{href:`#/suss`,className:`barLinks`,children:`SUSS Articles`}),(0,j.jsx)(`a`,{href:`https://tinyurl.com/ymax2026letterstojournalists`,className:`barLinks`,target:`_blank`,rel:`noopener noreferrer`,children:`Letters to Journalists`})]}),er=()=>(0,j.jsxs)(`div`,{style:{backgroundImage:`url("/background.png")`,minHeight:`100vh`,color:`white`,padding:`45px`},children:[(0,j.jsx)(`header`,{children:(0,j.jsx)($n,{})}),(0,j.jsx)(Qn,{children:(0,j.jsxs)(`div`,{style:{marginTop:`10vh`},children:[(0,j.jsx)(`h1`,{className:`latest`,children:`Latest News`}),(0,j.jsx)(Zn,{})]})}),(0,j.jsx)(`footer`,{children:(0,j.jsxs)(`p`,{children:[` YMAX Press & Co.`,new Date().getFullYear(),` `]})})]}),tr=()=>(0,j.jsxs)(`div`,{style:{backgroundImage:`url(/background.png)`,minHeight:`100vh`,color:`white`,padding:`20px`},children:[(0,j.jsx)(`header`,{className:`topBar`,children:(0,j.jsx)($n,{})}),(0,j.jsxs)(`div`,{style:{backgroundColor:`black`,padding:`20px`,borderRadius:`5px`,marginTop:`100px`},children:[(0,j.jsx)(`p`,{children:`Hello! We are the Editorial Team for YMAX 2026, consisting of Olivia, Lin Yi, Charlotte, Leslie and Tian Huai.`}),(0,j.jsx)(`p`,{children:`Led by our director Cheng Jie, we hope that YMAX Press this year will be able to engage every delegate's critical thinking skills, and ubnderstand the increasing relevance of the press corps in the world.`})]})]}),nr=`/background.png`,rr=()=>{let{id:e}=dt(),t=Yn.find(t=>t.id===e);return t?(0,j.jsxs)(`div`,{style:{backgroundImage:`url(${nr})`,minHeight:`100vh`,color:`white`,padding:`20px`},children:[(0,j.jsx)(`header`,{className:`topBar`,children:(0,j.jsx)($n,{})}),(0,j.jsxs)(`div`,{style:{backgroundColor:`black`,padding:`20px`,borderRadius:`5px`},children:[(0,j.jsx)(`h1`,{children:t.title}),(0,j.jsx)(`p`,{style:{textAlign:`justify`,lineHeight:`2`},dangerouslySetInnerHTML:{__html:t.content}})]})]}):(0,j.jsx)(`div`,{children:`Article not found`})},ir=()=>(0,j.jsxs)(`div`,{style:{backgroundImage:`url("/background.png")`,minHeight:`100vh`,color:`white`,padding:`45px`},children:[(0,j.jsx)(`header`,{children:(0,j.jsx)($n,{})}),(0,j.jsx)(Qn,{children:(0,j.jsxs)(`div`,{style:{marginTop:`10vh`},children:[(0,j.jsx)(`h1`,{className:`latest`,children:`Latest News`}),(0,j.jsx)(Zn,{})]})}),(0,j.jsx)(`footer`,{children:(0,j.jsxs)(`p`,{children:[` YMAX Press & Co.`,new Date().getFullYear(),` `]})})]}),ar=({podcast:e})=>(0,j.jsxs)(`div`,{className:`article-card`,children:[(0,j.jsx)(`h2`,{children:e.title}),(0,j.jsx)(`p`,{children:e.agency}),(0,j.jsx)(`audio`,{src:e.content,autoPlay:!1,controls:!0})]}),or=()=>(0,j.jsx)(`div`,{className:`article-list`,children:Xn.map(e=>(0,j.jsx)(ar,{podcast:e},e.id))}),sr=()=>(0,j.jsxs)(`div`,{style:{backgroundImage:`url("/background.png")`,minHeight:`100vh`,color:`white`},className:`topBar`,children:[(0,j.jsx)(`header`,{children:(0,j.jsx)($n,{})}),(0,j.jsx)(Qn,{children:(0,j.jsxs)(`div`,{style:{marginTop:`10vh`},children:[(0,j.jsx)(`h1`,{className:`latest`,children:`Podcasts`}),(0,j.jsx)(or,{})]})}),(0,j.jsx)(`footer`,{children:(0,j.jsxs)(`p`,{children:[` YMAX Press & Co.`,new Date().getFullYear(),` `]})})]}),cr=({article:e})=>(0,j.jsxs)(`div`,{className:`article-card`,children:[(0,j.jsx)(`h2`,{children:e.title}),(0,j.jsx)(`h3`,{children:e.deck}),e.articleThumbnail&&(0,j.jsx)(`img`,{src:e.articleThumbnail,alt:e.title,style:{width:`100%`,height:`auto`,padding:`0`}}),(0,j.jsx)(`a`,{className:`article-card-button`,href:`#/suss/${e.id}`,children:`Read`})]}),lr=()=>(0,j.jsx)(`div`,{className:`article-list`,children:Jn.map(e=>(0,j.jsx)(cr,{article:e},e.id))}),ur=()=>(0,j.jsxs)(`div`,{style:{backgroundImage:`url("/background.png")`,minHeight:`100vh`,color:`white`,padding:`45px`},children:[(0,j.jsx)(`header`,{children:(0,j.jsx)($n,{})}),(0,j.jsx)(Qn,{children:(0,j.jsxs)(`div`,{style:{marginTop:`10vh`},children:[(0,j.jsx)(`h1`,{className:`latest`,children:`SUSS Articles!`}),(0,j.jsx)(lr,{})]})}),(0,j.jsx)(`footer`,{children:(0,j.jsxs)(`p`,{children:[` YMAX Press & Co.`,new Date().getFullYear(),` `]})})]}),dr=()=>{let{id:e}=dt(),t=Jn.find(t=>t.id===e);return t?(0,j.jsxs)(`div`,{style:{backgroundImage:`url(${nr})`,minHeight:`100vh`,color:`white`,padding:`0`},children:[(0,j.jsx)(`header`,{className:`topBar`,children:(0,j.jsx)($n,{})}),(0,j.jsxs)(`div`,{style:{backgroundColor:`black`,padding:`20px`,borderRadius:`5px`},children:[t.articleThumbnail&&(0,j.jsx)(`img`,{src:t.articleThumbnail,alt:t.title,style:{width:`100%`,height:`auto`}}),(0,j.jsx)(`h1`,{children:t.title}),(0,j.jsx)(`p`,{style:{textAlign:`justify`,lineHeight:`2`},dangerouslySetInnerHTML:{__html:t.content}})]})]}):(0,j.jsx)(`div`,{children:`SUSS Article not found`})};function fr(){return(0,j.jsx)(Tn,{children:(0,j.jsx)(Qn,{children:(0,j.jsxs)(Lt,{children:[(0,j.jsx)(Ft,{path:`/`,Component:er}),(0,j.jsx)(Ft,{path:`/article`,Component:ir}),(0,j.jsx)(Ft,{path:`/podcast`,Component:sr}),(0,j.jsx)(Ft,{path:`/suss`,Component:ur}),(0,j.jsx)(Ft,{path:`/suss/:id`,Component:dr}),(0,j.jsx)(Ft,{path:`/article/:id`,Component:rr}),(0,j.jsx)(Ft,{path:`/about`,Component:tr})]})})})}(0,v.createRoot)(document.getElementById(`root`)).render((0,j.jsx)(_.StrictMode,{children:(0,j.jsx)(fr,{})}));
+development and called the two countries “natural allies”.`}],Xn=[{id:`tass-podcast1`,title:`An interview with SDD delegates`,agency:`Russian News Agency TASS`,content:`/TASS_Podcast1.m4a`},{id:`manila-bulletin-podcast1`,title:`Inside the committee venue: what ASCC delegates have to say about mental health services for youth`,agency:`Manila Bulletin`,content:`/manilaBulletin_podcast1.m4a`},{id:`DVB-News-podcast1`,title:`ASCC, ACSC-Migration, ACSC-Seas`,agency:`DVB News`,content:`/DVBNews-podcast1.m4a`},{id:`cna-podcast1`,title:`Piracy in our backyard`,agency:`Channel News Asia`,content:`/CNA_Podcast_1.m4a`},{id:`borneo-bulletin-podcast1`,title:`The Role of Economy When Dealing with Migrant Healthcare`,agency:`Borneo Bulletin`,content:`/BB-Podcast.mp3`}],Zn=()=>(0,j.jsx)(`div`,{className:`article-list`,children:Yn.map(e=>(0,j.jsx)(qn,{article:e},e.id))}),Qn=({children:e})=>(0,j.jsx)(`div`,{children:(0,j.jsx)(`main`,{children:e})}),$n=()=>(0,j.jsxs)(`div`,{style:{backgroundColor:`#333`,color:`white`,padding:`10px`,width:`100%`,top:0,position:`fixed`,left:0},children:[(0,j.jsx)(`h1`,{children:`YMAX Press 2026`}),(0,j.jsx)(`a`,{href:`/`,className:`barLinks`,children:`Latest News`}),(0,j.jsx)(`a`,{href:`#/article`,className:`barLinks`,children:`Articles`}),(0,j.jsx)(`a`,{href:`#/podcast`,className:`barLinks`,children:`Podcasts`}),(0,j.jsx)(`a`,{href:`#/suss`,className:`barLinks`,children:`SUSS Articles`}),(0,j.jsx)(`a`,{href:`https://tinyurl.com/ymax2026letterstojournalists`,className:`barLinks`,target:`_blank`,rel:`noopener noreferrer`,children:`Letters to Journalists`})]}),er=()=>(0,j.jsxs)(`div`,{style:{backgroundImage:`url("/background.png")`,minHeight:`100vh`,color:`white`,padding:`45px`},children:[(0,j.jsx)(`header`,{children:(0,j.jsx)($n,{})}),(0,j.jsx)(Qn,{children:(0,j.jsxs)(`div`,{style:{marginTop:`10vh`},children:[(0,j.jsx)(`h1`,{className:`latest`,children:`Latest News`}),(0,j.jsx)(Zn,{})]})}),(0,j.jsx)(`footer`,{children:(0,j.jsxs)(`p`,{children:[` YMAX Press & Co.`,new Date().getFullYear(),` `]})})]}),tr=()=>(0,j.jsxs)(`div`,{style:{backgroundImage:`url(/background.png)`,minHeight:`100vh`,color:`white`,padding:`20px`},children:[(0,j.jsx)(`header`,{className:`topBar`,children:(0,j.jsx)($n,{})}),(0,j.jsxs)(`div`,{style:{backgroundColor:`black`,padding:`20px`,borderRadius:`5px`,marginTop:`100px`},children:[(0,j.jsx)(`p`,{children:`Hello! We are the Editorial Team for YMAX 2026, consisting of Olivia, Lin Yi, Charlotte, Leslie and Tian Huai.`}),(0,j.jsx)(`p`,{children:`Led by our director Cheng Jie, we hope that YMAX Press this year will be able to engage every delegate's critical thinking skills, and ubnderstand the increasing relevance of the press corps in the world.`})]})]}),nr=`/background.png`,rr=()=>{let{id:e}=dt(),t=Yn.find(t=>t.id===e);return t?(0,j.jsxs)(`div`,{style:{backgroundImage:`url(${nr})`,minHeight:`100vh`,color:`white`,padding:`20px`},children:[(0,j.jsx)(`header`,{className:`topBar`,children:(0,j.jsx)($n,{})}),(0,j.jsxs)(`div`,{style:{backgroundColor:`black`,padding:`20px`,borderRadius:`5px`},children:[(0,j.jsx)(`h1`,{children:t.title}),(0,j.jsx)(`p`,{style:{textAlign:`justify`,lineHeight:`2`},dangerouslySetInnerHTML:{__html:t.content}})]})]}):(0,j.jsx)(`div`,{children:`Article not found`})},ir=()=>(0,j.jsxs)(`div`,{style:{backgroundImage:`url("/background.png")`,minHeight:`100vh`,color:`white`,padding:`45px`},children:[(0,j.jsx)(`header`,{children:(0,j.jsx)($n,{})}),(0,j.jsx)(Qn,{children:(0,j.jsxs)(`div`,{style:{marginTop:`10vh`},children:[(0,j.jsx)(`h1`,{className:`latest`,children:`Latest News`}),(0,j.jsx)(Zn,{})]})}),(0,j.jsx)(`footer`,{children:(0,j.jsxs)(`p`,{children:[` YMAX Press & Co.`,new Date().getFullYear(),` `]})})]}),ar=({podcast:e})=>(0,j.jsxs)(`div`,{className:`article-card`,children:[(0,j.jsx)(`h2`,{children:e.title}),(0,j.jsx)(`p`,{children:e.agency}),(0,j.jsx)(`audio`,{src:e.content,autoPlay:!1,controls:!0})]}),or=()=>(0,j.jsx)(`div`,{className:`article-list`,children:Xn.map(e=>(0,j.jsx)(ar,{podcast:e},e.id))}),sr=()=>(0,j.jsxs)(`div`,{style:{backgroundImage:`url("/background.png")`,minHeight:`100vh`,color:`white`},className:`topBar`,children:[(0,j.jsx)(`header`,{children:(0,j.jsx)($n,{})}),(0,j.jsx)(Qn,{children:(0,j.jsxs)(`div`,{style:{marginTop:`10vh`},children:[(0,j.jsx)(`h1`,{className:`latest`,children:`Podcasts`}),(0,j.jsx)(or,{})]})}),(0,j.jsx)(`footer`,{children:(0,j.jsxs)(`p`,{children:[` YMAX Press & Co.`,new Date().getFullYear(),` `]})})]}),cr=({article:e})=>(0,j.jsxs)(`div`,{className:`article-card`,children:[(0,j.jsx)(`h2`,{children:e.title}),(0,j.jsx)(`h3`,{children:e.deck}),e.articleThumbnail&&(0,j.jsx)(`img`,{src:e.articleThumbnail,alt:e.title,style:{width:`100%`,height:`auto`,padding:`0`}}),(0,j.jsx)(`a`,{className:`article-card-button`,href:`#/suss/${e.id}`,children:`Read`})]}),lr=()=>(0,j.jsx)(`div`,{className:`article-list`,children:Jn.map(e=>(0,j.jsx)(cr,{article:e},e.id))}),ur=()=>(0,j.jsxs)(`div`,{style:{backgroundImage:`url("/background.png")`,minHeight:`100vh`,color:`white`,padding:`45px`},children:[(0,j.jsx)(`header`,{children:(0,j.jsx)($n,{})}),(0,j.jsx)(Qn,{children:(0,j.jsxs)(`div`,{style:{marginTop:`10vh`},children:[(0,j.jsx)(`h1`,{className:`latest`,children:`SUSS Articles!`}),(0,j.jsx)(lr,{})]})}),(0,j.jsx)(`footer`,{children:(0,j.jsxs)(`p`,{children:[` YMAX Press & Co.`,new Date().getFullYear(),` `]})})]}),dr=()=>{let{id:e}=dt(),t=Jn.find(t=>t.id===e);return t?(0,j.jsxs)(`div`,{style:{backgroundImage:`url(${nr})`,minHeight:`100vh`,color:`white`,padding:`0`},children:[(0,j.jsx)(`header`,{className:`topBar`,children:(0,j.jsx)($n,{})}),(0,j.jsxs)(`div`,{style:{backgroundColor:`black`,padding:`20px`,borderRadius:`5px`},children:[t.articleThumbnail&&(0,j.jsx)(`img`,{src:t.articleThumbnail,alt:t.title,style:{width:`100%`,height:`auto`}}),(0,j.jsx)(`h1`,{children:t.title}),(0,j.jsx)(`p`,{style:{textAlign:`justify`,lineHeight:`2`},dangerouslySetInnerHTML:{__html:t.content}})]})]}):(0,j.jsx)(`div`,{children:`SUSS Article not found`})};function fr(){return(0,j.jsx)(Tn,{children:(0,j.jsx)(Qn,{children:(0,j.jsxs)(Lt,{children:[(0,j.jsx)(Ft,{path:`/`,Component:er}),(0,j.jsx)(Ft,{path:`/article`,Component:ir}),(0,j.jsx)(Ft,{path:`/podcast`,Component:sr}),(0,j.jsx)(Ft,{path:`/suss`,Component:ur}),(0,j.jsx)(Ft,{path:`/suss/:id`,Component:dr}),(0,j.jsx)(Ft,{path:`/article/:id`,Component:rr}),(0,j.jsx)(Ft,{path:`/about`,Component:tr})]})})})}(0,v.createRoot)(document.getElementById(`root`)).render((0,j.jsx)(_.StrictMode,{children:(0,j.jsx)(fr,{})}));
