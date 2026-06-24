@@ -310,7 +310,225 @@ Please change the parent <Route path="${e}"> to <Route path="${e===`/`?`*`:`${e}
    
 <h2> Appendix A </h2>
 <img src="/np-map.png" width="100%"></img>
-`}],Yn=[{id:`dvb-article1`,title:`Stuck in the Crossfire of the Rohingya Crisis:Frameworks introduced during ASEAN Committee of Disaster Management`,agency:`DVB News`,content:`
+`}],Yn=[{id:`tatoli-article1`,title:`Declining Literacy Rates in ASEAN: The Imperative of Alleviating the Problem`,agency:`Tatoli`,articleThumbnail:`/Tatoli_EWOpEd_1.png`,content:`<img src="/Tatoli_EWOpEd_1.png"></img>
+<p><strong>Photo: UNICEF</strong></p>
+
+<p>Timor-Leste boasts 2 official languages (Portuguese and Tetun Dili), 2 working languages (English and Bahasa Indonesia), and over 30 other indigenous languages. Whilst the majority of the individuals living in or around the capital city, Dili, are largely proficient in the two official languages, those living in the rural areas of the country are unlikely to have anything beyond a rudimentary understanding of the languages.</p>
+
+<p>This becomes an extreme impediment when children from rural areas start attending school, where Portuguese and Tetun Dili are the two instructional languages. The question is: How impactful is an academic education when students enter school lacking proficiency in the language of instruction?</p>
+
+<p>As of 2022, the literacy rates of youths, categorised as people of age 15 to 24 years old, in Timor-Leste lie at 69%, 24% below the average literacy rate across the globe. The language barrier, coupled with other problems such as the underfunding of schools, reduced enrolment, and decreasing comprehension rates amongst children in their early developmental stages lead to an increase in student drop out rates, with students finding the school curriculum too difficult.</p>
+
+<p>The decline of literacy rates within the new generation elicits several disadvantages that will ultimately hinder them even as they step into adulthood. The importance of literacy can be seen through research that shows a 21.25% increase in wages and a 8.1% increase in the probability of being employed for individuals who are literate. Illiterate individuals often face unemployment or low wages when entering the workforce, thereby exacerbating the cycle of poverty in the nation.</p>
+
+<p>The Minister of Timor Leste emphasised the significance of addressing current literacy levels, stating that "Improving literacy rates amongst the younger generation is vital because they are the future of our country. Education is the driving force in maintaining the economic state of smaller nations like Timor-Leste."</p>
+
+<h2>Proposed Solutions and Frameworks</h2>
+
+<p>As such, the Minister of Timor-Leste has proposed the National Additive Multilanguage Education, or NAME for short. This programme is aimed at enhancing language policy in its entirety through 2 distinct phases.</p>
+
+<p><strong>Phase 1:</strong> Phase 1 will begin early stages of basic education by substituting various indigenous mother tongues as the instructional language. For instance, the children living in the Liquiçá Municipality of Timor-Leste, who primarily speak the dialect of Tukudede, would start their elementary education learning in Tukudede.</p>
+
+<p>This allows children to comprehend foundational concepts and understandings by building off on what they already know, narrowing the learning gap between spoken and written language. This then prevents cognitive shock that may lead to future burnout.</p>
+
+<p><strong>Phase 2:</strong> In the implementation of phase 2, schools will gradually transition into using Portuguese and Tetun Dilli as the main instructional languages. Extra contrastive analysis lessons will teach students how to translate their respective dialects into the official languages. This promises a smooth integration into the new instructional languages, avoiding mass confusion due to the sudden language switch.</p>
+
+<p>The NAME programme ensures that in addition to fluency in English and Bahasa Indonesia, which are taught as classes in school, students have a comprehensive grasp on the two official languages of Timor-Leste. Equipping students with this multilingual framework will ultimately provide them with substantial advantages in the future.</p>
+
+<p>Students partaking in NAME will benefit from the perquisites of multilingualism far beyond their schooling years. The linguistic diversity of these participants opens doors to employment opportunities, such as overseas positions, that would not be typically accessible to monolingual candidates. This would ultimately result in a significant improvement in the standards of living, giving disadvantaged children a second chance at a more fulfilling life.</p>
+
+<p>However, the NAME programme does not merely benefit the people of Timor-Leste. Countries all across the ASEAN region face the same problem, but lack sufficient resources to take measurable action. Studies carried out by UNICEF showed that 1 in 2 children in Southeast Asia do not meet the expected literacy standard at Grade 5. This highlights the urgency for stronger investment in basic literacy to ensure the disadvantaged children of ASEAN are not left behind.</p>
+
+<p>In essence, NAME is not simply a framework of empty promises; it is a crucial step that should be taken in order to combat the failing literacy levels in the region. Thus, the Minister of Timor-Leste urges the ministers of the ASEAN Education Ministers Meeting (ASED) to coordinate their resources and supplies to achieve the most promising outcomes possible.</p>
+
+<h2>The Mother Tongue-Based Multilingual Education (EMBLI) Pilot Program</h2>
+
+<p>The Minister of Timor-Leste is confident that NAME will be effective in addressing and alleviating the decreasing literacy levels following a similar programme that had garnered success. He noted that if incorporated on a larger scale with the support of fellow ASEAN members, NAME can flourish as well as its predecessor.</p>
+
+<p>Prior to NAME, Timor-Leste launched the Mother Tongue-Based Multilingual Education Pilot Programme, or EMBLI for short, aimed at improving the current education system to increase literacy rates. The pilot project set out to test the feasibility of incorporating indigenous mother tongues as instructional languages in the early years of child development in order to develop early literacy. Further on in their schooling journey, students are then taught new second and third languages, where they will apply their knowledge of letter, vocabulary, and cognitive concepts from their first language to their further language learning.</p>
+
+<p>The efficacy of EMBLI was measured by a test that assessed factors that include, but are not limited to, reading comprehension, mathematics, and word recognition. It is noteworthy that preschools involved in the EMBLI programme showed significant improvement and gain of up to 300 times.</p>
+
+<p>Seeing as EMBLI facilitated the further development of oral and literate competency in the co-official languages of Timor-Leste, the government of Timor-Leste strongly believes that NAME will produce the same, if not better, results.</p>
+
+<p>To improve the standards of living of children all across the ASEAN region, it is imperative to agree on a solution that will be mutually beneficial to all member states, such as NAME. By taking action to improve early education and literacy rates, it is undeniable that the ASED will be able to rectify the imbalance befittingly.</p>`},{id:`nhan-dan-article1`,title:`ASEAN Committee on Consumer Protection Is Progressing Forward with Solutions at a Steady Pace`,agency:`Nhân Dân`,articleThumbnail:`/NhanDan_int1_1.png`,content:`<p>In the ASEAN Committee on Consumer Protection (ACCP) Conference, the council has been split into two blocs. While one bloc supports the Minister of Myanmar's unspecified document and the other supports the Minister of Thailand's unspecified document. The question still remains on how will the council come to a consensus.</p>
+
+<img src="/NhanDan_int1_1.png"></img>
+<p><strong>Nhân Dân reporter, Wang Sijia engaging with the Minister of Myanmar and the Minister of Cambodia in a four minute interview</strong></p>
+
+<p>With the limited information on the unspecified document, Nhân Dân has formally requested for the two Ministers of Myanmar and Cambodia for an interview and they have kindly agreed on sharing about the unspecified document that she is contributing to.</p>
+
+<p>The Minister of Myanmar has commented that: "Our unspecified document is about minimum standards because ASEAN is a country where many different countries have a myriad of economic domains and regulation. Therefore, taking these into consideration, we have steered our content in this direction."</p>
+
+<p>Nhân Dân was very impressed by the depth of the content in the unspecified document, commenting afterwards that the Minister of the Socialist Republic of Vietnam would give the unspecified document her vote for. The rest was officially classified and will not be released until further updates from the ACCP Council.</p>
+
+<p>Since none of the unspecified documents have been approved by the General-Directors of the ASEAN Committee on Consumer Protection, the latest information of the two blocs Nhân Dân had access to were the Memorandum of Understandings (MoUs) with multiple countries writing these.</p>
+
+<p>The Kingdom of Cambodia, along with The United Kingdom of Great Britain and Northern Ireland as sponsors, and Kingdom of Myanmar as a signatory, have produced a MoU that sets out the terms and understanding between the Kingdom of Cambodia and the United Kingdom in the implementation of efforts to ensure adequate consumer protections, to prevent financial distress among all citizens.</p>
+
+<p>These Ministers have introduced a Financial Literacy Programme that is dedicated to educating consumers and assists in the implementation of accessible financial literacy programmes across ASEAN states which includes, but is not limited to standardised Buy Now, Pay Later (BNPL) warning systems and educational toolkits.</p>
+
+<p>The Financial Literacy Programme also encourages the implementation of assessments and courses where participation is highly recommended for borrowers, especially for those under 35 years of age. Participants would be able to assess their awareness on responsible lending practices too.</p>
+
+<p>This MoU aligns greatly with Viet Nam's national consumer protection laws. Trinh Anh Tuan, Chairman of the National Competition Commission shared focuses on strengthening enforcement capacity for consumer protection agencies, enchanting cooperation on product safety, improving the effectiveness of the Online Dispute Resolution (ODR) network, and promoting the participation of social organisations in consumer protection efforts.</p>
+
+<p>The Socialist Republic of Viet Nam applauds these Ministers for working with Viet Nam's beliefs in mind. Having these Ministers assisting Viet Nam in reaching goals, Viet Nam will stand by this MoU deeply.</p>
+
+<p>Even though the Minister of Vietnam has not been voicing solutions, we can see that the Minister is listening attentively to current proposals in these unspecified documents on the floor and noting down loopholes of certain frameworks from what we saw was the numerous notes on her table.</p>
+
+<p>The Minister of Vietnam will continue to make her quiet contributions towards the ACCP Committee and steer the council in the right direction to resolve Vietnam's public issues with current policies regarding consumer rights and protection.</p>
+
+<p>The ASEAN Committee of Consumer Protection has made great progress. Now, Ministers are striving towards combining solutions together and making sure stances are aligned with each clause in the unspecified document. However, the question still remains on will the Committee come to a consensus. The Minister of Vietnam will continuously make her contributions to the council and push for Vietnam's national interest and build on further into the Comprehensive Agreements Vietnam had made with the ASEAN members.</p>`},{id:`bangkok-post-article1`,title:`Tracking illegal trafficking of small arms and light weapons in SEA`,agency:`Bangkok Post`,articleThumbnail:`/BangkokPost_OpEd1_1.png`,content:`<img src="/BangkokPost_OpEd1_1.png"></img>
+<p><strong>Delegate of the Republic of Korea explaining his suggested Framework</strong></p>
+
+<p>The illegal trafficking of weapons across borders has long been a concern due to factors such as the existence of the Golden Triangle. The illegal trafficking of arms and weapons results in the death of 700 people per day, showing the severity of this issue. Finally drawing attention from the ASEAN Ministerial Meeting of Transnational Crime, on the 22 June of 2026, the conference opened its first session for discussion.</p>
+
+<p>For context, The Golden Triangle includes the following countries: China, Myanmar, Thailand, Laos and Vietnam. This mountainous region is a hotspot for illegal activities and is the second largest drug-producing region after Latin America, a testament to the importance of preventing further escalation of crime within the region.</p>
+
+<p>With such a pressing concern at hand, it was great to see such unanimous agreement amongst delegates. Delegates were quick to reach a consensus on the factors of weapons trafficking; stockpiling and corruption.</p>
+
+<p>Despite this realisation however, the conference has proceeded to progress at an underwhelming pace. The definition of small arms and light weapons (SALW) has only been briefly touched on. It is crucial that the definitions are fully clarified as some countries do not have a fixed definition on SALW and failure to specify definitions could lead to committees having great difficulty implementing measures due to the great vagueness of what constitutes as SALW.</p>
+
+<p>As for proposing solutions regarding how to combat the issues that arise from stockpiling and corruption, delegates of AMMTC have proposed implementing tracing systems by marking firearms to identify the origins and movements of weapons across borders. This will allow diversion of legal stockpiles and allow authorities to crack down on illegal trade routes.</p>
+
+<p>One notable proposal is from the delegate of The Republic of Korea. The idea would be to integrate Radio-Frequency Identification (RFID) Trackers into newly produced weapons. These trackers would also be unique to countries in ASEAN. However, the conference is yet to decide on a specific way to mark and track arms as there have been various methods proposed.</p>
+
+<p>Presently, the specifics are still being decided. However further collaboration on this idea appears promising. Currently, on 22 June 2026, the initiative, dubbed the "Accountability Framework", is being funded by the members of ASEAN, the Gulf Cooperation Council and the Republic of Korea.</p>
+
+<p>Of course, with some specifics still undecided, there were some reasonable concerns raised. How does this stop weapons already in illegal circulation? The Republic of Korea responded, "As for weapons already in circulation, since this system would reveal where weapons are trafficked to/thus leading us to the hotspots of the weapons."</p>
+
+<p>Thailand is also involved in the "Accountability Framework". The initiative itself is a non-aggressive and collaborative effort, which aligns with Thailand's and ASEAN's principals of neutrality and non violence. This safe, and recommended, move by Thailand has now shown its collaborative spirit and willingness to resolve the issue.</p>
+
+<p>Notwithstanding the inconsistencies, the conference is still at its infantile stage and is showing promising results. Moving forward, delegates should quickly settle on a unanimous definition of SALWs as well as settle on a means of tracking weapons in order to contribute to a fruitful discussion pertaining to this pertinent issue.</p>`},{id:`cna-article1`,title:`Piracy: A Sinking Business?`,agency:`Channel News Asia`,articleThumbnail:`/CNA_OpEd1_1.png`,content:`<img src="/CNA_OpEd1_1.png"></img>
+<p><strong>A US Navy ship intercepts a suspected pirate fast craft in the Sulu-Celebes Sea, Philippines on Jul 14, 2023</strong></p>
+
+<p>The Association of Southeast Asian Nations (ASEAN) must work together to strengthen mutual intelligence sharing, and put an end to maritime crime, said the Minister of Philippines. "In this area, we must cooperate to stop the violence, (because) pirate crime endangers seafarer lives," he said.</p>
+
+<p>The Minister was in Manila to attend several meetings with ASEAN ministers as the ASEAN Maritime Forum (AMF) held its annual meeting in Philippines' capital Manila. The Philippines is the current rotating chair of ASEAN.</p>
+
+<p>This statement could not have come at a better time. As piracy in the region experiences a surge, heads are turning towards this problem that has long plagued the ASEAN region.</p>
+
+<h2>In the "Same Asia-Pacific Boat", Says Singapore</h2>
+
+<p>Calling for cooperation in the region, the Minister of Singapore added: "We all share the same Asia-Pacific boat. While each country has its own national conditions, our security and prosperity are intertwined. In the 21st century, a civilised era, we should resolve the issue of piracy with immediacy, through dialogue and consultation."</p>
+
+<p>In the first half of 2025, reported incidents in Asia surged by 83%, with the Straits of Malacca and Singapore serving as the primary hotspot due to their status as vital global shipping lanes carrying about 60% of global trade.</p>
+
+<p>Singapore has since pushed for the Key Initiative of Regional Cooperation (KIRC) framework, which aims to address multiple issues as well as enhance security cooperation while respecting countries' sovereignty.</p>
+
+<p>To address current issues like fragmented information and trust deficits among ASEAN, the KIRC framework aims to standardise reporting protocols, develop non-binding operational guidelines, implement a tiered intelligence-sharing network, and establish a consensus-based consultation forum. These initiatives align with ASEAN's non-interference policy, which is beneficial in maintaining ASEAN's status quo and allowing for the freedom of member states.</p>
+
+<h2>Piracy No Longer Pays</h2>
+
+<p>Earlier on Tuesday, the ministers voted on and achieved unanimous consensus on the implementation of the AMF Declaration 1, which they are adopting to address this crisis of the high seas.</p>
+
+<p>The declaration, sponsored by Lao People's Democratic Republic and the Kingdom of Cambodia, aims to establish the ASEAN Central Coastal Development Fund (ACCDF) and push for capacity-building, a two-pronged approach.</p>
+
+<p>The ACCDF is a five-year tapering fund which aims to expedite the development of coastal communities in nine ASEAN nations prone to piracy, with countries providing funding awarded official recognition for smoother business development in beneficiary countries.</p>
+
+<p>Funds will be distributed based on UNdata socio-economic and piracy metrics with the funds being split among coastal infrastructure, income development, and vocational training. Usage will be strictly monitored through mandatory quarterly transparency dossiers.</p>
+
+<p>The declaration also encourages countries with advanced maritime security technology to provide technical assistance to help less developed coastal ASEAN nations for capacity building. Participation is optional as per ASEAN's non-interference policy, but countries are incentivised with faster custom clearances should they choose to provide support.</p>
+
+<h2>Looking Forward</h2>
+
+<p>As domestic policies begin to reshape around the fledgling declaration, signatories must consider the true implications of the task at hand. While all is well and good to curate specialised frameworks to tackle piracy, we must remember the real cost of maritime crime.</p>
+
+<p>The real tragedy is the everyday reality that millions of seafarers and innocent bystanders remain in a state of crisis – a tough struggle to preserve their livelihoods, their dignity, and retain a say in their future. And as piracy across Southeast Asia nonetheless continues to rage on, regardless of the declaration signed, the poignant question remains – have we done enough to sink piracy once and for all?</p>`},{id:`antara-news-article1`,title:`Indonesia collaborates with non-ASEAN countries to improve healthcare coverage for migrant workers`,agency:`ANTARA News`,articleThumbnail:`/antaraNews_OpEd1_1.png`,content:`<img src="/antaraNews_OpEd1_1.png"></img>
+<p><strong>The Minister of Indonesia addressing questions from the council</strong></p>
+
+<p>Migrant workers are fundamental to the development of many ASEAN countries and Indonesia is no exception. Indonesia benefits greatly from the invaluable labour and expertise and in return, seeks to support migrant workers through a multilateral approach.</p>
+
+<p>During the ASEAN Health Ministers Meeting, Indonesia championed for a pragmatic approach to ASEAN migrant workers' healthcare. By prioritizing bilateral agreements and information-sharing, Indonesia aims to ensure accessible and equitable healthcare for all residents of Indonesia, including migrant workers who have crossed borders to earn a livelihood here.</p>
+
+<p>The Minister of Indonesia has secured a bilateral transfer of information with the Minister of China. Both countries are working together to form a digital database containing the medical information and insurance statuses of migrant workers to ensure a seamless healthcare experience for all.</p>
+
+<p>Moreover, migrants will present different healthcare challenges. The aforementioned internet-sharing network will support timely medical assistance that will adhere to all medical requirements of migrant workers.</p>
+
+<p>However, this is not an issue that can be solved simply with funding.</p>
+
+<p>Jakarta consistently emphasizes that social justice should be upheld at the forefront of all issues. While insurance frameworks and equitable access to healthcare is part of the solution, the fundamental question of 'Why do migrant workers face health issues so frequently?' lies unanswered.</p>
+
+<p>Migrant workers often stay in unsanitary and uninhabitable conditions, creating a breeding ground for an onset of diseases. This problem is exacerbated by the lack of clean water and nutritious food. With their limited understanding of the language and culture, they face barriers of xenophobia and discrimination in the healthcare sector as well.</p>
+
+<p>To improve the health of migrant workers, the first thing to address is their living conditions. Providing clean water and proper sanitation is vital to prevent the spread of diseases. When workers live in overcrowded and dirty spaces, healthcare access alone is insufficient when the root cause is not solved.</p>
+
+<p>Nutritious food is another essential need that is often lacking. Due to low wages and insufficient cooking facilities, many migrant workers rely on cheap meals that fail to provide adequate nutrition. This lack of nutritious food weakens their immune systems, making them more susceptible to illness and injuries at work.</p>
+
+<p>Another significant challenge is the lack of time. Migrant workers often endure long hours with very few days off. They typically do not have time during the day to actually visit any healthcare facilities. As most migrant workers get paid by the hour, they would rather continue working for the sake of their livelihoods than risk losing a day's pay for treatment.</p>
+
+<p>To address this, low wages must first be increased to reduce the number of hours migrant workers work just to get by.</p>
+
+<p>This is an issue the society faces as a whole. The current system in place must be supplemented with additional infrastructure for healthcare coverage to be effective in the first place.</p>
+
+<p>Ultimately, resolving this crisis first requires addressing such everyday challenges. True social justice means ensuring that those who contribute to our economy have safe housing, adequate food, and the time to take care of their health.</p>
+
+<p>Migrant workers are not merely labourers, they are sons and daughters, parents and grandparents, and friends to all of us.</p>`},{id:`the-guardian-article1`,articleThumbnail:`/guardian_OpEd1_1.png`,title:`People are suffering. People are dying. All while Ministers contemplate between two choices in the ASEAN Maritime Forum (AMF).`,agency:`The Guardian`,content:`
+    <img src="/guardian_OpEd1_1.png"></img>
+    <p>We have unfortunately come to a reality where real people have become mere headlines.</p>
+<p>Piracy and Armed Robberies are not tall tales of fiction but the lived realities of many coastal
+communities that suffer from unprecedented attacks along the Straits of Malacca and Singapore.
+These attacks affect the coastal communities to varying degrees in tandem with the economic
+prowess of the nation as a whole.</p>
+
+<p>From January to June 2025, 95 incidents of piracy and armed robbery against ships in Asia were
+reported, which is an astonishing 83 percent increase from the same period the year prior.</p>
+
+<img src="/guardian_OpEd1_2.png"></img>
+Source: ReCAAP ISC Half-Yearly Report 2025.
+However, real stories and struggles of the everyday fishermen who get brutally attacked in broad
+daylight cannot be reduced to statistics and half yearly reports.
+</br>
+In the late 1990s and early 2000s, Southeast Asia witnessed a surge in piracy and sea robbery
+incidents. These unexpected attacks have endangered lucrative trade routes that pose threats of
+economic downturn to not just coastal communities (all ASEAN Member states except Laos) but
+also regional and international trade partners such as China, India, Australia, New Zealand,
+Japan, and Korea. Even landlocked Laos faces the toll of maritime attacks, as Lao exports and
+imports along ASEAN waters are susceptible to danger as well.
+<br/>
+While these economic disparities are pertinent to be addressed, the voices of struggling coastal
+communities have to be heard. Based on the debates of Ministers done so far in the ASEAN
+Maritime Forum (AMF), these voices seem to be lost in a storm of ministerial priorities.
+<br/>
+In a feeble attempt to counteract these centuries-long issues, the Ministers have been tirelessly
+running the wheel of ‘circular debate’ in air-conditioned rooms while vulnerable communities
+are exposed to atrocious life-altering maritime conditions.
+<br/>
+As of now, the AMF seems widely divided into two blocs that are tirelessly advocating for their
+own solutions. Notably, the two-pronged approach with the ASEAN Central Coastal
+Development Fund (ACCDF) and capacity building, and the framework introduced by Indonesia
+(the name of which is currently being amended and will not be spoken of due to its provocative
+nature).<br/>
+The Minister of New Zealand boldly claimed that “If a house is burning down, you put out the
+fire...”, referring to the collapsing coastal communities as a “burning house”. While this
+sentiment invigorated ministers to pay attention to the “burning house”, inhabitants of said
+“house” are yet to be rescued.<br/>
+For several hours, the ministers were divided on these two solutions that promoted dreams of a
+transparent future and effective fund distribution, all while anger and frustration built up among
+coastal communities. These solutions were not productively evaluated together, as Ministers
+were stuck milking the same arguments to further their own frameworks.
+Naturally, the youth did not remain silent.<br/>
+If you open X or Instagram right now, you can find hashtags such as #factions_without_actions
+and #actionactionaction going viral.<br/>
+They are rigorously shared by the enraged youths of Indonesia, Philippines, and Brunei as they
+took their fights to the streets in protest against the lethargy of regional leadership in taking swift
+action.
+<br/>
+<img src="/guardian_OpEd1_3.png"></img>
+In another part of the world, the youth are equally angered. Youths from China, Pakistan, and
+Singapore rushed to fill the petition for ‘Factions with no Actions’ that has hit a record high of 6
+million signatures.
+<br/>
+The rage of the youth cannot be underestimated.
+<br/>
+Youth comprise approximately a third of the combined population of ASEAN, constituting the
+largest ever cohort of ASEAN youth.4As such, the voices of the youth should not be calculated as
+frivolous background chatter but the pertinent path to a more stable future.
+<br/>
+Patience is running low. Lives are lost and stolen.
+<br/>
+Ministers, what do you plan to do next?
+`},{id:`dvb-article1`,title:`Stuck in the Crossfire of the Rohingya Crisis:Frameworks introduced during ASEAN Committee of Disaster Management`,agency:`DVB News`,articleThumbnail:``,content:`
     <p>As the civil war in Arakan(Rakhine) continues to intensify, the long-persecuted Rohingya
 population finds itself facing a wave of existential peril. Caught directly between a desperate
 military junta and advancing ethnic armed groups, the Rohingya are being systematically
