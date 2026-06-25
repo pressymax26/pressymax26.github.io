@@ -756,7 +756,7 @@ safety.<br/>
 Viet Nam congratulates the Philippines and Singapore on this successful Draft Declaration, and
 is proud to be a Signatory for it. This Draft Declaration has reflected how Viet Nam’s priorities
 in ACCP are deeply cared for and respected. Viet Nam looks forward to these future solutions.
-    `},{id:`sbs-news-article2`,agency:`SBS News`,title:`The Final Stretch – How the finalised ASEAN policies are reshaping irregular migration Sub-header: Countries finalise solutions regarding immigration policies and border management.`,articleThumbnail:`/SBSNews_OpEd_1.png`,deck:`Countries finalise solutions regarding immigration policies and border management.`,content:`In the last council session for today, the ASEAN Directors-General of Immigration Departments
+    `},{id:`sbs-news-article2`,agency:`SBS News`,title:`The Final Stretch – How the finalised ASEAN policies are reshaping irregular migration`,articleThumbnail:`/SBSNews_OpEd_1.png`,deck:`Countries finalise solutions regarding immigration policies and border management.`,content:`In the last council session for today, the ASEAN Directors-General of Immigration Departments
 and Heads of Consular Affairs Divisions of the Ministries of Foreign Affairs Ministers (DGICM)
 have moved on from ASEAN’s border management and its fight against irregular migration.
 <br/>
