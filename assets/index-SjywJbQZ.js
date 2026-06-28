@@ -820,7 +820,7 @@ the country. He expressed hopes for the solution’s AI integration to serve as 
 between developing countries and technologically-centred countries like India and China.
 “Once the younger generation, who will grow up using AI, enters the workforce, there will be
 increased collaboration with countries centered around AI and related technology.”</p>
-`},{id:`tatoli-article2`,articleThumbnail:`/Tatoli_OpEd1_1.png`,title:`Safeguarding Healthcare Rights for Migrant Communities: Why This Must Become a Priority in Timor-Leste and ASEAN.`,agency:`Tatoli`,content:`<img src="/Tatoli_OpEd1_1.png"></img>
+`},{id:`tatoli-article2`,articleThumbnail:`/tatoli_OpEd1_1.png`,title:`Safeguarding Healthcare Rights for Migrant Communities: Why This Must Become a Priority in Timor-Leste and ASEAN.`,agency:`Tatoli`,content:`<img src="/tatoli_OpEd1_1.png"></img>
     <p><strong>Photo: Reuters</strong></p>
     <h2>Migrant Communities in Timor-Leste and ASEAN</h2>
     <p>
