@@ -310,88 +310,451 @@ Please change the parent <Route path="${e}"> to <Route path="${e===`/`?`*`:`${e}
    
 <h2> Appendix A </h2>
 <img src="/np-map.png"></img></img>
-`}],Yn=[{id:`asahi-shimbun-article2`,agency:`The Asahi Shimbun`,title:`HUMANITY BEYOND BORDERS`,articleThumbnail:`/asahi_Int1_1.png`,content:`
+`}],Yn=[{id:`the-asahi-shimbun-podcast1`,title:`securing ASEAN's future; where maritime and energy security meet`,agency:`The Asahi Shimbun`,content:`TheAsahiShimbun_Podcast_1.mp3`},{id:`tatoli-podcast1`,title:`On youth mental health problems in ASEAN, its solutions, and navigating cross-border relations: with the Ministers of Timor-Leste`,agency:`Tatoli`,content:`/Tatoli_Podcast_1.MP3`},{id:`guardian-podcast1`,title:`The Voice Of Freedom: Stepping into the lives of Rohingya Refugees`,agency:`The Guardian`,content:`/guardian_podcast1.mp3`},{id:`tass-podcast1`,title:`An interview with SDD delegates`,agency:`Russian News Agency TASS`,content:`/TASS_Podcast1.m4a`},{id:`manila-bulletin-podcast1`,title:`Inside the committee venue: what ASCC delegates have to say about mental health services for youth`,agency:`Manila Bulletin`,content:`/manilaBulletin_podcast1.m4a`},{id:`DVB-News-podcast1`,title:`ASCC, ACSC-Migration, ACSC-Seas`,agency:`DVB News`,content:`/DVBNews-podcast1.m4a`},{id:`cna-podcast1`,title:`Piracy in our backyard`,agency:`Channel News Asia`,content:`/CNA_Podcast_1.m4a`},{id:`borneo-bulletin-podcast1`,title:`The Role of Economy When Dealing with Migrant Healthcare`,agency:`Borneo Bulletin`,content:`/BB-Podcast.mp3`}],Xn=[{id:`asahi-shimbun-article4`,agency:`The Asahi Shimbun`,title:`HUMANITY BEYOND BORDERS`,articleThumbnail:`/asahi_Int1_1.png`,content:`
     A disaster strikes. The nation goes into a frenzy: families panic and brace themselves for what’s
 to come, citizens cross borders to flee, and non-afflicted, high-capacity countries rush in to help.
 
 <p>This is not an imagination, it is a reality.</p>
-<br/>
+<p>
 Yemen, the country facing one of the world’s most severe humanitarian crises, has been struck
 again and again by economic deterioration and increasing climate shocks for years on end,
 causing the citizens to struggle to access basic, essential services.
-<br/>
+</p><p>
 The Government of Japan has contributed US$5.3 million to support UNHCR’s response to the
 urgent needs of refugees, internally displaced people, and host communities in Yemen.
-<br/>
+</p><p>
 It is commendable that Japan has stepped in to provide funding, but more should be done to protect
 the welfare of citizens and help directly with the cross-border displacement disaster.
-<br/>
+<p/>
+<p>
 So it boils down to this question: How do we protect people who are forced to flee when
-everything is lost?
-<br/>
+everything is lost?</p>
+<p>
 Amid rising concerns over climate-induced displacement and regional instability, a distinctive
 approach termed “humanitarian realism” has been put forward. Due to the minister of Japan
 being absent for the entire conference, we’ve gotten the minister representing Timor-Leste at the
 ASEAN Committee on Disaster Management (ACDM) to elaborate on how the country balances
-compassion with practical governance in times of crisis.
-<br/>
+compassion with practical governance in times of crisis.</p>
+<p>
 Responding to the growing urgency of cross-border displacement, the minister emphasized that
 the issue is both immediate and deeply human. As environments deteriorate and livelihoods are
 lost, we are increasingly confronted with individuals who have been forced to “flee without
 documentation, identity, or support systems,” the minister noted. “Humanitarian realism means
 ensuring that even in such circumstances, people retain their dignity. We aim to achieve this by
 working closely with other states to verify identities and restore continuity in people’s lives.”
-<br/>
+</p><p>
 Beyond Timor-Leste’s own position, Japan must remain an important external partner in
 ASEAN’s humanitarian architecture, strengthening the region through sustained support for
 disaster-response and resilience- building efforts.
-<br/>
+</p><p>
 Regarding the role of humanitarian aid, the minister underscored that welfare and humanitarian
 aid remain a central priority for Timor-Leste. “As a small-capacity state, we understand more
 acutely than most the importance of precision and accountability in aid delivery,” they explained.
 “This is why we have actively collaborated with larger member states such as the United
 Kingdom, Pakistan, Thailand, Malaysia, and Vietnam to establish the A.C.T. Task Force.”
+</p><p>
 The minister defined the A.C.T task force as one that provides “swift”, “safe”, and “trustworthy”
 aid. “We are standing up in ASEAN to display that while we are small and young, we will make
-big ripples.”
-<br/>
+big ripples.”</p>
+<p>
 We must work hand in hand with the ASEAN nations to ensure that Japan can provide its fullest
 support toward afflicted countries, and will receive back the same in a disaster. Furthermore, to
 protect the collective well-being of our citizens, we must always ensure good diplomatic ties.
-
-<br/>
+</p>
+<p>
 Addressing the challenge of balancing state sovereignty with humanitarian responsibility, the
 minister pointed to ASEAN’s guiding principle of “One ASEAN, One Response.” Under this
 framework, neighboring states establish bilateral agreements that clarify protocols for
 cross-border movement during emergencies. These agreements ensure that sovereignty is
 respected, while also allowing for flexibility when human lives are at stake,” the minister said.
-<br/>
+</p><p>
 Displaced individuals can move to the nearest safe country without unnecessary delays. The
 A.C.T. Task Force serves as a coordinating bridge, ensuring that such movements are safe,
 predictable, and properly documented.
-<br/>
+</p>
+<p>
 On the other hand, the Minister of Japan from the ASEAN Directors-General of Immigration
 Departments (DGICM) stated that she views ASEAN’s humanitarian needs as a “strategic
 priority vital for regional stability”, valuing ASEAN centrality and long-term capacity building.
-<br/>
+</p><p>
 “Tokyo acts as a primary pillar of support for Southeast Asia's crisis resilience by heavily
 funding the AHA Centre for disaster management and ACPHEED for public health
 emergencies.” She concluded that during regional crises, Japan channels its humanitarian aid
 directly through ASEAN frameworks and international organizations, assisting displaced
 populations while maintaining diplomatic neutrality.
-<br/>
+</p><p>
 Humanitarian assistance is not just presented as an alternative to governance, but as part of it.
 The challenge now is whether ASEAN can finally integrate both into being part of the same
-response toward humanitarian causes.
-    `},{id:`tatoli-article3`,agency:`Tatoli`,title:`ASEAN needs to work together to ensure quality multilingual education across the region – Ministers of Indonesia, Vietnam, and Timor-Leste Discuss the Successfully Passed Draft Declaration`,articleThumbnail:`/Tatoli_Int1_1.png`,content:`Over the past 2 days, the ASEAN Education Ministers’ Meeting (ASED) has engaged in
+response toward humanitarian causes.</p>
+    `},{id:`asahi-shimbun-article3`,agency:`The Asahi Shimbun`,title:`GREEN HYDROGEN MUST NOT BECOME ASEAN’S NEXT EMPTY PROMISE`,deck:`As ASEAN delegates debate a future with green hydrogen, all delegates agree on the destination. What lies ahead for them is ensuring that no country is left behind.`,articleThumbnail:`/asahi_EWOpEd_1.png`,content:`
+    <img src="/asahi_EWOpEd_1.png"></img>
+    <strong>A green hydrogen hub stationed in the middle of the sea in Vietnam, February 23rd (no
+specific author)</strong>
+    <p>
+    
+The ASEAN Council on Petroleum and Energy (ASCOPE) has spent the past 2 days
+discussing what could become one of Southeast Asia’s most significant energy transitions:
+the shift from grey to green hydrogen.</p><p>
+The discussion revealed 2 competing instincts: one that prioritises speed and one that
+prioritises inclusivity.</p>
+<h2>DEFINING GREEN HYDROGEN</h2>
+<p>
+During the council debate, one of the most common issues raised was the lack of a common
+definition of green hydrogen in ASEAN.</p>
+<p>
+Without a common definition of green hydrogen, countries may adopt ‘green hydrogen’
+definitions that rely on fossil-fuel-powered grids, effectively weakening the concept and
+creating opportunities for greenwashing.
+</p><p>
+The Minister of New Zealand repeatedly stressed the need for standardisation within the
+council, saying that while the council was moving towards a shared ASEAN definition, the
+definition of green hydrogen must not be weakened, and that the council requires a shared
+framework before meaningful regional cooperation can occur.</p>
+<p>
+The Minister of the Philippines also similarly argued that ASEAN states, after negotiating,
+will set strict common criteria and regulations to prevent companies from any ASEAN
+country from falsely marketing high-emissions thresholds.</p>
+<p>
+The Minister of China, meanwhile, warned against setting hard numerical emissions limits
+for green hydrogen, saying that could disadvantage less developed countries whose grids rely
+on fossil fuels. Instead, China proposed a definition based on production methods using
+renewable energy.</p><p>
+It is a fair concern, but it should not be a backdoor to lowering standards altogether. The
+council must ask: flexible for whom and at whose cost?</p><p>
+If the standards are too weak, green hydrogen will not be credible. If they are too strict,
+developing member states risk exclusion even before the transition begins. ASCOPE should
+therefore adopt a tiered framework, one common regional definition, but with differentiated
+timelines for implementation, depending on the level of development of each country.</p><h2>
+RESEARCH BEFORE AMBITION</h2>
+<p>
+While much of the council’s proceedings were discussions on definitions, another question
+kept popping up: how can ASEAN realistically produce green hydrogen when many of its
+members still face technological and financial constraints?</p>
+<p>
+On this point, the Minister of Japan was the most prominent voice of the council.</p><p>
+During the debate, Japan continuously argued that the biggest problem for ASEAN is not
+political will but a lack of research, funding, and technology capacity. The minister
+mentioned the continuing challenges, such as low research on hydrogen production, low
+efficiency of electrolysis, absence of public-private cooperation, uneven development of
+infrastructure, and ineffectiveness of existing technologies for carbon capture, utilisation and
+storage (CCUS).
+    </p>
+    <p>
+    According to the International Energy Agency, low emissions hydrogen is more costly than
+hydrogen from unabated fossil fuels,2 which is due to high renewable electricity and
+electrolyser costs.
+</p><p>
+Japan advocated a step-by-step approach starting with feasibility studies rather than a rush to
+large-scale deployment.“The first thing we need to do is to identify what each country needs
+in terms of research and development, infrastructure, and financing,” said the Japanese
+minister.</p>
+<p>
+These are the questions to ask. But observers state that supporting research-first approaches
+must be transparent about their own positions. Japan remains heavily invested in fossil fuel
+infrastructure and has traditionally preferred blue hydrogen pathways that sustain rather than
+displace it. Research must not be used as a delaying tactic to delay dependence on fossil fuels
+in the name of caution.
+</p><p>
+This proposal is based on a reality often forgotten.
+</p><p>
+The region is not starting from the same starting point.</p><p>
+Countries such as Vietnam currently possess a higher capacity to expand renewable energy
+and green hydrogen production. However, other underdeveloped countries might have to
+remain reliant on grey and blue hydrogen as part of their energy mix.</p><p>
+Policies that are able to be adhered to in one country might not work for other countries. A
+thorough assessment of national capabilities should happen before any regional commitments
+are made.</p>
+<h2>FUNDING MUST BE MATCHED WITH EXPERTISE</h2>
+<p>
+Japan also dispatched research delegations and technical experts to all ASEAN countries and
+suggested pooling financial resources from observer states.</p><p>
+At the ASCOPE press conference, Asahi Shimbun asked how Japan was going to make sure
+research results would be put into practice, not just remain in academia.</p><p>
+The Minister of Japan replied that experts could be dispatched among countries to exchange
+information and technical knowledge. Such programmes, in addition to funding, would also
+give the ASEAN states hands-on expertise needed for implementation.</p><p>
+This focus on knowledge-sharing is one of the key differences between Japan’s proposal and
+many traditional development initiatives.
+    </p>
+    <p>
+    Money alone cannot build a hydrogen economy; experts like researchers, engineers,
+technicians, and policymakers must also possess the skills necessary to operate these
+technologies into the future.
+</p><p>
+Japan also suggested that research should focus on improving the efficiency of electrolysis,
+making CCUS technologies more effective, and developing cheaper alternatives to current
+production methods.</p><p>
+Specifically on CCUS, the council should proceed with caution. CCUS has been repeatedly
+used to justify continued fossil fuel investment by presenting carbon-intensive hydrogen as
+cleaner than it really is. The minister’s admission that current CCUS systems are still not
+efficient should be a reason to put funding firmly behind green hydrogen, not a reason to
+keep both options open forever. Transitional technologies should remain transitional.</p>
+
+<h2>THE DEVELOPMENT GAP CANNOT BE IGNORED</h2><p>
+The Minister of Brunei remarked, “A direct jump to green hydrogen is highly unfeasible even
+in a highly developed state, as it is very expensive and requires a very extensive period of
+time, and it will be very unrealistic for many countries. Hence, the Minister of Brunei
+proposed a transition from grey to blue to green hydrogen to not exclude any countries from
+the transition.</p><p>
+Brunei is a big oil and gas exporter with a strong economic incentive to keep blue hydrogen
+viable. Should the council ask itself if this proposal really benefits developing states in
+ASEAN or Brunei's own petroleum industry?</p><p>
+Rather than prioritising hydrogen shipping, the Minister of Japan encouraged investment in
+production facilities and supporting infrastructure across ASEAN. The Minister of Singapore
+also highlighted land constraints and proposed partnerships where technologically advanced
+countries provide expertise while land-rich states host production facilities.</p><h2>
+REGIONAL COOPERATION IS ASEAN’S GREATEST ADVANTAGE</h2>
+<p>
+Timor-Leste minister pushes for a unified ASEAN hydrogen network; Japan offers tech
+transfers, financial aid, and research partnerships.</p><p>
+ASEAN should not allow the hydrogen transition to become a playground for great-power
+competition. There is a real danger of strategic dependence on Japan, China, or any other
+state.</p>
+<p>
+The council must use ASEAN’s most powerful tool, its collective leverage as a bloc, to set
+terms that serve its own energy sovereignty, not the interests of outsiders. Green hydrogen
+can transform Southeast Asia, but only if definitions are robust, timelines are honest, and no
+country gets left behind.
+    </p>
+    `},{id:`asahi-shimbun-article2`,agency:`The Asahi Shimbun`,title:`DIVING DEEPER: Addressing the Roots of Maritime Piracy`,articleThumbnail:`/asahi_OpEd2_1.png`,content:`
+    <img src="/asahi_OpEd2_1.png"></img>
+    <p>Poverty is, by most ASEAN countries' agreed consensus, the root of the increasingly pertinent
+issue at hand — Maritime piracy and Armed robbery.</p><p>
+With 80 reported incidents in the Straits of Malacca and Singapore in just the first half of the
+year, up from 21 a year prior, the scale of the increase is too stark to ignore. Yet, despite this
+escalation, regional responses remain disproportionately focused on enforcement. Patrols have
+intensified, surveillance has improved, and coordination has increased—but piracy persists. This
+is because ASEAN states continue to treat the symptoms of the problem while neglecting its
+cause. </p><p>
+The cause is poverty.</p>
+
+<h2>OBLIGATIONS ARISING FROM POVERTY</h2>
+<p>From the first dynamic update, the interviewee, an ex-pirate, mentioned that “It’s not that us
+teens don’t know that joining gangs is dangerous, the sea is dangerous. We’re scared. But we’re better off being scared than dying of hunger and letting our family starve and die because we
+didn’t do something we could have done.”</p>
+
+<p>In Somalia, the average annual income per capita hovers around $310, while a successful piracy
+mission can yield each participant tens of thousands of dollars. This massive disparity
+undoubtedly lures people towards committing such indespicable acts of piracy and robberies.3
+</p><p>
+Across coastal communities, piracy is not driven primarily by opportunism, but by necessity.
+First-hand accounts from former perpetrators reveal a troubling reality: many youths are fully
+aware of the risks, yet they piracy as an obligation, something that they need to partake in out of
+desperation for the wellbeing of their families, risking their lives for their family to survive.</p>
+
+<h2>RISING YOUTH SENTIMENT</h2>
+<p>In a more recent dynamic update, it can be seen that authorities in the 3 different asean states are
+facing continuous backlash for their lack of support for coastal youth communities, angering
+many and being a driver for youth sentiment.
+</p><p>
+This is alarming. Youths are resorting to piracy just to save their families and to combat poverty,
+yet little action have been taken to save them and take them out of this dark spiraling well. We
+must not stall any longer, and we need to take actions to further support these youths for the
+well-being of all, and to protect the peace and harmony in all countries.</p>
+<h2>ASEAN MARITIME FORUM INVOLVEMENT</h2>
+<p>Just yesterday, the ASEAN Maritime Forum engaged in long discussions to mitigate this
+pressing issue, successfully addressing the socio-economic drivers of piracy and armed robberies
+at both national and individual levels, as well as the reduction of the social vulnerability of
+nations so that developing nations can be sufficiently supported in the context of combatting this
+social vulnerability.</p><p>
+During the debate, Japan suggested providing money to aid countries in implementing smart port
+technologies and improving coastal infrastructure, as well as funding development of ports by
+giving money to the company of the port to employ people. Laos has emphasised providing
+welfare support by improving infrastructure and the quality of life to address poverty.
+</p>
+<p>We must think about the welfare aspect and ensure that people living in coastal regions are well
+supported, and are provided with the necessary aid.
+</p><p>
+The ministers proposed some solutions, a key one named ACCDF, an ASEAN Central Coastal
+Development Fund. It is a central fund dedicated to the development of coastal communities in
+ASEAN nations prone to piracy, namely, Cambodia, Indonesia, Laos, Malaysia, Myanmar,
+Philippines, Thailand, Timor-Leste, and Vietnam, with the countries and organisations providing
+funding being Brunei, China, the United States, the European Union, India, Japan, New Zealand,
+the Republic of Korea, and Singapore.</p>
+<p>
+ACCDF consists of the Funding of Coastal Infrastructure, the Funding for the development of
+Income, the funding of small scale sustainable hatcheries or fisheries in coastal communities,
+as well as the Funding of Vocational and Technical Training to reduce reliance on fishing
+industries and instead towards marine eco-tourism and cultural heritage tourism.
+</p><p>
+The AMF has also turned their attention to capacity building, implementing initiatives which
+leverage on improved maritime digital and physical infrastructure to enhance public security.</p>
+<p>
+It is essential that Japan aids in providing aid to those living in coastal region, and helping to
+upskill those around them, at the same time creating job opportunities to counter poverty.</p>
+    `},{id:`asahi-shimbun-article1`,articleThumbnail:`/asahi_OpEd1_1.png`,title:`EDITORIAL: EVERYONE AGREES MIGRANTS DESERVE CARE, BUT FEW AGREE ON WHO SHOULD PAY`,agency:`The Asahi Shimbun`,deck:`In the recent Youth Model ASEAN Experience conference, many countries mentioned about how migrant healthcare is a shared responsibility. However, many countries are at an impasse regarding what “shared” actually means.`,content:`
+    <img src="/asahi_OpEd1_1.png"></img>
+    <p>Migrant workers often encounter language, financial, and legal barriers when seeking
+medical treatment.</p>
+
+<h2>HEALTHCARE IS A RIGHT, NOT A PRIVILEGE</h2>
+<p>
+The minister of South Korea called healthcare “a human right and a shared responsibility”.
+The minister of Myanmar also has a similar argument, saying that basic migrant healthcare
+should be accessible to everyone, highlighting the language barriers that frequently prevent
+accurate diagnosis and treatment due to the inability to understand each other.
+</p><p>
+The minister of Vietnam dove deeper into the topic, insisting that healthcare access should
+“never be dependent on employment status”
+</p>
+<p>
+These concerns are not just hypothetical.</p><p>
+Millions of migrant workers in Asia continue to encounter barriers to healthcare, such as cost,
+documentation requirements, language barriers, and fear of immigration enforcement, the
+International Labour Organization said. Migrants are also more likely to be employed in
+high-risk jobs but less likely to have health insurance than local workers.
+</p>
+<p>
+How can ASEAN still claim centrality in a people-centred community when access to
+healthcare is based on where you were born or the ongoing goodwill of an employer?</p>
+<h2>DANGER OF OVERDEPENDENCY ON THE EMPLOYER</h2>
+<p>
+Through the heated discussions between the countries, a major divide emerged over
+financing.
+</p><p>
+The minister of the Philippines proposed “requiring the employers to bear the full cost of
+legal migrant healthcare.”
+</p><p>
+Similarly, the Gulf Cooperation Council supported a framework where employers fund a
+minimum basic healthcare insurance that covers the most pressing and basic coverage,
+assuming broader responsibilities.
+</p><p>
+However, this creates a dangerous overreliance. In an employer-based health system, you can
+only get treatment if you’re employed, not if you’re a human being. What would happen if a
+company refuses coverage? What happens when workers lose their jobs?
+</p>
+<h2>Healthcare should not disappear the moment it becomes necessary.</h2>
+<p>
+The minister of Timor-Leste correctly warned that “safeguarding healthcare rights should not
+come at the expense of national responsibility.” Migrant workers are important to ASEAN
+economies. Therefore, governments cannot leave welfare entirely to private actors.
+</p>
+<h2>THE USE OF ARTIFICIAL INTELLIGENCE</h2>
+<p>
+The minister of Brunei wanted to propose using artificial intelligence to identify healthcare
+“chokeholds,” reflecting ASEAN’s growing reliance on generative AI.
+</p>
+<p>
+However, this is not failproof, and some of these datasets are incomplete or biased, risking
+misidentifying vulnerable populations or entirely missing informal migrant communities,
+leaving unaddressed the very gaps they seek to fill.
+</p><p>
+The Asahi Shimbun has raised concerns about this to the minister of Brunei, and they have
+clarified that “multiple alert systems must be present and consistently being revamped to
+ensure the sustained accuracy of this system.”
+</p>
+<h2>ASEAN SHOULD BUILD CROSS-BORDER SOLUTIONS</h2>
+<p>
+The minister of Laos has suggested a unified healthcare card allowing migrant records to
+follow workers across borders. Indonesia suggested an ASEAN Migrant Healthcare
+Coordination Network.
+</p>
+<p>
+These proposals have illustrated that migration is regional and health challenges are
+increasingly transnational.
+</p>
+<p>
+The United States proposed a digital health passport and early warning network, and Russia
+offered technical expertise through bilateral medical registry systems.
+</p><p>
+Although these initiatives are helpful, ASEAN must be careful not to be over reliant on
+powers outside ASEAN for important healthcare systems.
+</p><p>
+Such healthcare cooperation should strengthen ASEAN institutions through teamwork, not
+deepen competition between countries.
+</p>
+<p>
+The committee has agreed to start discussions on minimum standards of healthcare before
+addressing issues of access, financing, and monitoring.
+</p>
+<p>
+But minimum standards are not assured to be put into practice, risking being just another
+declaration. ASEAN's 2017 Consensus on the Protection and Promotion of the Rights of
+Migrant Workers recognised access to medical care, but there are still significant gaps across
+the region.
+</p>
+<p>
+Only promises can’t cure workers.
+</p>
+<p>
+ASEAN leaders should seize this opportunity to create portable healthcare protections,
+multilingual services, emergency coverage guarantees, and sustainable financing mechanisms
+that survive changes in employment status.
+</p><p>
+A region that relies on migrant labour ought to be prepared to safeguard migrant lives.
+Otherwise, ASEAN's pledge to an inclusive community risks becoming just a slogan.
+</p>
+`},{id:`tatoli-article4`,agency:`Tatoli`,title:`Mental Health Amongst Youths: A Striking Problem in ASEAN Today`,articleThumbnail:`/Tatoli_OpEd2_1.png`,content:`<img src="/Tatoli_OpEd2_1.png"></img>
+    <p><strong>Photo: ME</strong></p>
+    <h2>Youth Mental Health in ASEAN</h2>
+    <p>Youth mental health has become a prominent issue in the ASEAN region following the
+COVID-19 crisis. In 2021, more than 28 million youths in the region were battling with
+mental disorders, accounting for over one-third of all prevalent mental disorder cases across
+age groups.</p>
+<p>Many are under the impression that youth mental health is a phase to be outgrown. However,
+these statistics alone are a call to action: with such a significant increase in the number of
+mental disorders, a solution needs to be implemented in order to support the emotional
+well-being of our youth.</p>
+<p>
+In places like Timor-Leste, this topic is exceptionally pressing. With around 70% of the
+population under 35, youths make up a sizable portion of our society, and many of them had
+been raised in post-conflict conditions. Yet, mental health discourse is heavily censored due
+to a lack of awareness, surrounding stigma, and cultural beliefs, which make finding the
+necessary help particularly trying.</p>
+<p>
+In addition, a scarce quantity of mental health services and trained professionals are available
+in Timor-Leste. With the limited number of services based in Dili, those living in rural areas
+have little to no access to mental healthcare. As such, the mental health problems within
+Timorese youths are not addressed to the necessary degree.</p>
+<p>
+The need for change is immediate, and fortunately, the ASEAN Socio-Cultural Community
+thinks so too. The Minister of Timor-Leste affirms this, stating that ‘equipping our countries
+with the necessary resources to resolve the growing number of mental disorders is crucial, as
+the formative years of these youth are the foundation of long-term well-being.’
+</p>
+<h2>The SONION Framework</h2>
+<p>
+I am pleased to note that the Minister of Timor-Leste, in collaboration with the Ministers of
+Thailand, Philippines, and the USA, have formulated the SONION framework. This
+framework reiterates the urgency of addressing youth mental health in 2 techniques that will
+work in tandem to enhance mental health management, particularly in schools.</p>
+<p>
+The first mechanism SONION is to introduce is the School Wellbeing Guidance Toolkit.
+Upon the implementation of SONION, a regional toolkit will be given to all schools across 
+the member states of ASEAN. This toolkit aims to educate students on how to identify
+healthy coping mechanisms for academic stress with the help of a holistic booklet.
+</p><p>
+The booklet consists of healthy sleep routines, recognising burnout, age appropriate
+wellbeing practices, and referral pathways. This mechanism alone is a key step forward in
+ASEAN’s progress in navigating the growing number of mental disorders, and will build
+knowledge surrounding the topic of mental health, as well as equip the youth with the proper
+resources to seek help if needed.</p><p>
+
+However, it is not the only mechanism that SONION sets out to implement. A Progress
+Exchange mechanism will take place in each member state, where findings from booklet
+responses will be compiled and submitted to their various education ministries. This ensures
+that the relevant authorities are aware of the mental state of the youth in their respective
+countries, and gain a better understanding of how to help them.</p><p>
+
+This framework will be instrumental for countries to strengthen and identify limitations of
+current mental health policies, and will facilitate knowledge sharing across the region to
+guarantee long-term effectiveness.</p>
+<p>
+In Timor-Leste, where this issue is both widespread and complex, change and progress is not
+only necessary but extremely urgent.</p>
+    `},{id:`tatoli-article3`,agency:`Tatoli`,title:`ASEAN needs to work together to ensure quality multilingual education across the region – Ministers of Indonesia, Vietnam, and Timor-Leste Discuss the Successfully Passed Draft Declaration`,articleThumbnail:`/Tatoli_Int1_1.png`,content:`
+    <img src="/Tatoli_Int1_1.png"></img>
+    <p><strong>Photo: ME</strong></p>
+    </p>Over the past 2 days, the ASEAN Education Ministers’ Meeting (ASED) has engaged in
 passionate debates to tackle the problem of declining literacy and English proficiency rates.
 As of 23rd of June, debate in ASED has ceased, and countries have come to a consensus on
 addressing the question of enhancing language policy in education systems across ASEAN.
-<br/>
+</p>
+<p>
 Our interview is joined by the Ministers of Indonesia and Vietnam, sponsors of the draft
 declaration, and the Minister of Timor-Leste, as they tell us more about what is to come from
 their council resolution.
-<br/>
+</p>
 <h2>On Multi-Language Education</h2>
 
 <p>The importance of English education was reiterated numerous times throughout the
@@ -402,50 +765,529 @@ widely spoken language, English proficiency bridges communication with the rest 
 world. Thus, we prioritise compulsory English language education in tandem with one’s
 mother tongue in later stages of schooling,” he explained.
 </p>
+<p>
 With the increase in English education, it is inevitable for concerns regarding the loss of
 indigenous and minority languages to be brought up. “Across ASEAN, we recognise that
 there are countless regional languages we need to promote and protect against extinction,
 particularly in the face of globalisation,” said the Minister of Indonesia, “hence, one’s mother
 tongue will be prioritised as the first language of instruction in school to ensure one remains
-proficient in their mother tongue.”<br/>
+proficient in their mother tongue.”</p>
+<p>
 Addressing the concerns within the council, the solution also includes numerous suggested
 actions for the preservation of indigenous languages. “Indigenous languages are vital for
 preserving unique cultural perspectives and identities of countries. Hence, through
 recommendations such as increased and accessible documentation in minority languages and
 adding optional electives in minority languages, we hope to promote the preservation and
 protection of indigenous languages,” said the Minister of Vietnam.
-<h2> Specifics of the Draft Declaration <h2/>
+</p>
+<h2>Specifics of the Draft Declaration </h2>
+<p>
 When prompted to share more about their draft declaration and its implementation, the
 Minister of Vietnam highlighted one key factor contributing to the success of their
 solution–its flexibility: “We recognise that a one-size-fits-all solution would not fit every
 country due to differences in development and culture, thus the solution allows each member
 state to develop their own specific curriculum that fits the needs of their people.”
+</p>
+<p>
 “Our solution follows students from their early to later stages of education. In their first years
 of schooling, students will be taught in their mother tongues before transitioning to
 side-by-side language learning with English as the second language,” the Minister of Vietnam
 explained that this would encourage the development of one’s multilinguistic and
-comprehension abilities.<br/>
+comprehension abilities.</p>
+<p>
 Additionally, the solution also incorporates the usage of Artificial Intelligence (AI) tools,
 becoming one of the first ASEAN education solutions to actively integrate AI. “To keep up
 with current technological trends and software, AI will be a part of the shared resources
 amongst member states,” the Minister of Indonesia elaborated, “other measures such as
 international teacher training programmes and resource sharing websites will also be
 implemented. This ensures accessible and quality learning materials for all member states.”
+</p>
+<p>
 The Minister of Vietnam added that their current solution was in part inspired by the success
 of Timor-Leste’s EMBLI Pilot Programme. When inquired, the Minister of Timor-Leste
 expressed support for the final resolution which “benefits minority languages and countries.”
+</p>
+<p>
 “Timor-Leste is particularly excited about implementing the teacher exchange programme to
 train more of our teachers. We firmly believe that a good teacher provides a good education.
 Hence, I hope this programme, in addition to the integration of AI technology, will increase
 the quality of education in Timor-Leste and address the education-related problems we
-currently face,” the Minister of Timor-Leste said.
-<br/>
+currently face,” the Minister of Timor-Leste said.</p>
+<p>
 Apart from addressing literacy and proficiency issues, the Minister of Timor-Leste hopes that
 the technological aspects of the solution will drive further advancement and development in
 the country. He expressed hopes for the solution’s AI integration to serve as common ground
 between developing countries and technologically-centred countries like India and China.
 “Once the younger generation, who will grow up using AI, enters the workforce, there will be
-increased collaboration with countries centered around AI and related technology.”
+increased collaboration with countries centered around AI and related technology.”</p>
+`},{id:`tatoli-article2`,articleThumbnail:`/Tatoli_OpEd1_1.png`,title:`Safeguarding Healthcare Rights for Migrant Communities: Why This Must Become a Priority in Timor-Leste and ASEAN.`,agency:`Tatoli`,content:`<img src="/Tatoli_OpEd1_1.png"></img>
+    <p><strong>Photo: Reuters</strong></p>
+    <h2>Migrant Communities in Timor-Leste and ASEAN</h2>
+    <p>
+    Migrant communities serve as an integral part of ASEAN member states’ labour force. For
+major host countries such as Singapore and Malaysia, foreign labour and talent is used to
+complement the local workforce, allowing the country to remain economically competitive.
+On the other hand, for origin countries such as the Philippines and Vietnam, migration opens
+new job opportunities overseas and fills skill gaps in sectors such as technology.
+</p><p>
+Despite their contribution to host countries, migrants all across ASEAN face a mutual
+problem: the lack of access to proper healthcare. In most ASEAN member states, there does
+not exist a definitive system for asylum seekers and migrants.
+</p><p>
+This in turn leads to an increased risk of suboptimal health conditions, which make migrants,
+who often leave their place of origin in search for a better standard of living, more susceptible
+to illnesses and maladies that will ultimately have adverse effects on their life.
+</p><p>
+Considering the vital role and contributions of migrants, as well as safeguarding healthcare
+rights for these communities must become a priority, from both a humanitarian and economic
+standpoint.
+</p>
+<h2>What Safeguarding Healthcare Rights Entail</h2>
+<p>
+As elaborated on in the ASEAN Consensus on the Protection and Promotion of the Rights of
+Migrant Workers, host countries are to provide fair health protection to migrant workers
+through access to adequate medical and health care on a country basis.3 This can look like
+providing free or subsidised vaccines, workplace injury and medical insurance, and regular
+health screenings.</p>
+<p>
+In the discussions held on Day 1 of the conference, the ASEAN Migrant Worker Card
+solution drafted by the Ministers of Timor-Leste, Cambodia, Malaysia, Myanmar, and Laos
+proposed a series of frameworks to tackle the problems ASEAN faces on the issue at hand.
+The countries noted that current policies were inadequate in providing equal healthcare due to
+the neglect of undocumented migrants.
+</p>
+<p>
+The Migrant Working Card framework seems simple, but brings forth a proper healthcare
+record system that documents the basic personal information of migrant workers, such as
+identity details and employment status. At healthcare facilities, migrants can present this card
+and receive guaranteed healthcare at their destination countries. An ASEAN-wide task force
+will be set up to ensure regular uploading and updating of migrant information.</p>
+<p>
+The card is not a form of immigration enforcement, but rather a systematic way to collect
+information that only healthcare authorities will have access to. Layers of security measures
+will be implemented to ensure immigration authorities do not access and misuse the personal
+information, effectively addressing deportation concerns of undocumented migrants.</p>
+<p>
+At the centre of this framework lies Timor-Leste, and the Localised Advisory and Regional
+Protection advisory body, or LARP for short. LARP adopts a three-pillar structure that guides
+states in expanding healthcare access sustainably: Advise, Review, and Recognise.
+</p><p>
+Under Advise, LARP will develop non-binding recommendations, policies and
+implementation roadmaps for AHMM, such as healthcare inclusion guidelines and
+implementation roadmaps.
+</p><p>
+Under Review, member states will share country-specific indicators such as emergency
+healthcare accessibility and healthcare utilisation trends for analysis. LARP will then publish
+regional trend reports, identify implementation challenges, and recommend technical support.
+</p><p>
+Lastly, under Recognise, LARP will establish the Regional Partnership and Innovation Unit,
+to create incentives for participation. Participating members will receive ASEAN health
+inclusion recognition access to pilot programme opportunities, thus encouraging
+participation.
+</p><p>
+As a whole, these three distinct pillars will work in tandem to move towards more accessible
+healthcare for migrants, ensuring that medical care is treated as a fundamental human right
+rather than a privilege.
+</p><p>
+For the millions of migrants all around ASEAN, access to healthcare is a basic right often not
+afforded to them. For member states, providing this access means respecting and upholding
+the principles of ASEAN. Thus, it is imperative for the council to reach a consensus through
+solutions such as the ASEAN Migrant Workers Card.
+</p>
+<p><strong>*This is an opinion article prepared for educational purposes only, and strictly reflects
+the author’s personal opinion and does not bind any institution with which the author
+may be affiliated.</strong></p>
+    `},{id:`tatoli-article1`,title:`Declining Literacy Rates in ASEAN: The Imperative of Alleviating the Problem`,agency:`Tatoli`,articleThumbnail:`/Tatoli_EWOpEd_1.png`,content:`<img src=""></img></img>
+<p><strong>Photo: UNICEF</strong></p>
+
+<p>Timor-Leste boasts 2 official languages (Portuguese and Tetun Dili), 2 working languages (English and Bahasa Indonesia), and over 30 other indigenous languages. Whilst the majority of the individuals living in or around the capital city, Dili, are largely proficient in the two official languages, those living in the rural areas of the country are unlikely to have anything beyond a rudimentary understanding of the languages.</p>
+
+<p>This becomes an extreme impediment when children from rural areas start attending school, where Portuguese and Tetun Dili are the two instructional languages. The question is: How impactful is an academic education when students enter school lacking proficiency in the language of instruction?</p>
+
+<p>As of 2022, the literacy rates of youths, categorised as people of age 15 to 24 years old, in Timor-Leste lie at 69%, 24% below the average literacy rate across the globe. The language barrier, coupled with other problems such as the underfunding of schools, reduced enrolment, and decreasing comprehension rates amongst children in their early developmental stages lead to an increase in student drop out rates, with students finding the school curriculum too difficult.</p>
+
+<p>The decline of literacy rates within the new generation elicits several disadvantages that will ultimately hinder them even as they step into adulthood. The importance of literacy can be seen through research that shows a 21.25% increase in wages and a 8.1% increase in the probability of being employed for individuals who are literate. Illiterate individuals often face unemployment or low wages when entering the workforce, thereby exacerbating the cycle of poverty in the nation.</p>
+
+<p>The Minister of Timor Leste emphasised the significance of addressing current literacy levels, stating that "Improving literacy rates amongst the younger generation is vital because they are the future of our country. Education is the driving force in maintaining the economic state of smaller nations like Timor-Leste."</p>
+
+<h2>Proposed Solutions and Frameworks</h2>
+
+<p>As such, the Minister of Timor-Leste has proposed the National Additive Multilanguage Education, or NAME for short. This programme is aimed at enhancing language policy in its entirety through 2 distinct phases.</p>
+
+<p><strong>Phase 1:</strong> Phase 1 will begin early stages of basic education by substituting various indigenous mother tongues as the instructional language. For instance, the children living in the Liquiçá Municipality of Timor-Leste, who primarily speak the dialect of Tukudede, would start their elementary education learning in Tukudede.</p>
+
+<p>This allows children to comprehend foundational concepts and understandings by building off on what they already know, narrowing the learning gap between spoken and written language. This then prevents cognitive shock that may lead to future burnout.</p>
+
+<p><strong>Phase 2:</strong> In the implementation of phase 2, schools will gradually transition into using Portuguese and Tetun Dilli as the main instructional languages. Extra contrastive analysis lessons will teach students how to translate their respective dialects into the official languages. This promises a smooth integration into the new instructional languages, avoiding mass confusion due to the sudden language switch.</p>
+
+<p>The NAME programme ensures that in addition to fluency in English and Bahasa Indonesia, which are taught as classes in school, students have a comprehensive grasp on the two official languages of Timor-Leste. Equipping students with this multilingual framework will ultimately provide them with substantial advantages in the future.</p>
+
+<p>Students partaking in NAME will benefit from the perquisites of multilingualism far beyond their schooling years. The linguistic diversity of these participants opens doors to employment opportunities, such as overseas positions, that would not be typically accessible to monolingual candidates. This would ultimately result in a significant improvement in the standards of living, giving disadvantaged children a second chance at a more fulfilling life.</p>
+
+<p>However, the NAME programme does not merely benefit the people of Timor-Leste. Countries all across the ASEAN region face the same problem, but lack sufficient resources to take measurable action. Studies carried out by UNICEF showed that 1 in 2 children in Southeast Asia do not meet the expected literacy standard at Grade 5. This highlights the urgency for stronger investment in basic literacy to ensure the disadvantaged children of ASEAN are not left behind.</p>
+
+<p>In essence, NAME is not simply a framework of empty promises; it is a crucial step that should be taken in order to combat the failing literacy levels in the region. Thus, the Minister of Timor-Leste urges the ministers of the ASEAN Education Ministers Meeting (ASED) to coordinate their resources and supplies to achieve the most promising outcomes possible.</p>
+
+<h2>The Mother Tongue-Based Multilingual Education (EMBLI) Pilot Program</h2>
+
+<p>The Minister of Timor-Leste is confident that NAME will be effective in addressing and alleviating the decreasing literacy levels following a similar programme that had garnered success. He noted that if incorporated on a larger scale with the support of fellow ASEAN members, NAME can flourish as well as its predecessor.</p>
+
+<p>Prior to NAME, Timor-Leste launched the Mother Tongue-Based Multilingual Education Pilot Programme, or EMBLI for short, aimed at improving the current education system to increase literacy rates. The pilot project set out to test the feasibility of incorporating indigenous mother tongues as instructional languages in the early years of child development in order to develop early literacy. Further on in their schooling journey, students are then taught new second and third languages, where they will apply their knowledge of letter, vocabulary, and cognitive concepts from their first language to their further language learning.</p>
+
+<p>The efficacy of EMBLI was measured by a test that assessed factors that include, but are not limited to, reading comprehension, mathematics, and word recognition. It is noteworthy that preschools involved in the EMBLI programme showed significant improvement and gain of up to 300 times.</p>
+
+<p>Seeing as EMBLI facilitated the further development of oral and literate competency in the co-official languages of Timor-Leste, the government of Timor-Leste strongly believes that NAME will produce the same, if not better, results.</p>
+
+<p>To improve the standards of living of children all across the ASEAN region, it is imperative to agree on a solution that will be mutually beneficial to all member states, such as NAME. By taking action to improve early education and literacy rates, it is undeniable that the ASED will be able to rectify the imbalance befittingly.</p>`},{id:`guardian-article4`,title:`Are The Fates Of Citizens in Laos and Thailand Sealed Forever?`,articleThumbnail:`/guardian_OpEd2_1.png`,agency:`The Guardian`,content:`<h2>Run. Hide. Don’t come back.</h2>
+    <p>
+    These are the thoughts running through the minds of civilians in Laos as the country enters its
+5th consecutive year of battling severe sovereign debt owed to China.</p><p>
+Currently, the total public and publicly guaranteed (PPG) debt is estimated to exceed 100% of
+GDP.
+    </p>
+    
+    <img src="/guardian_OpEd2_1.png"></img>
+    <p>As usual, the errors of those in hierarchically advantageous positions are unfairly shouldered by
+those at the short end of the stick.</p>
+
+<p>
+“Every person in this generation doesn’t believe in the government. They want to leave Laos,
+they don’t believe anything the government says,” says Jo, a young graduate from one of the top
+universities in Laos.</p><p>
+The desolate living conditions in Laos, such as issues of food insecurity, barren job markets, and
+skyrocketing prices, have pushed Jo to the brink, leaving him with no hope for his career. This
+can be attributed to the austerity measures implemented by the Laotian government, which
+resulted in the people’s livelihoods being traded as pawns in order to recover the nation from its
+sovereign debt crisis.</p>
+<p>The people of Thailand also share a similar fate.</p>
+<p>
+Once celebrated as the “Land of the Free” for never succumbing to colonial rule, Thailand now
+faces a different form of bondage. A household debt crisis that has left millions of Thais
+financially shackled.</p>
+<p>
+Thailand’s outstanding household debt was exacerbated by the COVID-19 pandemic in 2020,
+which led to a decline in economic activities and a sharp increase in the debt-to-GDP ratio,
+peaking at 95.5% as of end-Q1/2021 before gradually declining to 90.7% as of end-Q2/2023.3
+</p>
+<img src="guardian_OpEd2_2.png"></img>
+<p>Political instability in Thailand has not helped with the situation either. The dismissal of Thai
+Prime Minister Srettha Thavisin in 2024 caused another deathly blow to the struggling Thai
+economy, where countless civilians were waiting for long-promised cash handouts.
+</p><p>
+Such is the life of 23-year-old Thanwadee Kunasat, living in Thailand, who expressed how
+BNPL has become an essential part of her life ever since she began working, as it provided
+flexibility. However, it resulted in her credit increasing by more than double from 6000 baht to
+14000 baht.</p><p>
+As financial analyst Luxmon observed, while BNPL schemes are becoming increasingly
+embedded in the younger generation’s lives, financial literacy has failed to keep pace with the
+rising expansion of credit access.</p>
+<p>
+Amidst growing unrest, the ASEAN Committee on Consumer Protection rose to the challenge to
+render adequate protection of the public from private debt crises.
+</p>
+<p>
+The committee was largely divided on various solutions. Notably, one of the Draft Declarations
+(DD) included the proposals of Laos and Thailand, along with Indonesia as their 3rd signatory.
+</p><p>
+However, the DD did not pass.</p>
+<p>
+Contrastingly, Singapore and the Philippines played saviour as their Draft Declaration passed
+with a myriad of solutions that can potentially salvage the situation in Laos and Thailand.</p><p>
+Under the Regional Capacity Building and Enforcement mechanism, training regulators in digital
+lending and non-financial banking institutions can improve the ability of Thai regulators to
+monitor BNPL providers and identify predatory lending practices early on.</p><p>
+Strengthening the protection of consumers would help prevent them from falling scapegoat to
+regulatory arbitrage and ensure they navigate through digital lending platforms like BNPLs
+safely.</p>
+<p>
+One of the main concerns conveyed by multiple financial analysts was that access to credit was
+expanding faster than financial literacy in Thailand. The development of consumer financial
+literacy initiatives tailored to each AMS’s demographic and linguistic context 7 aims to resolve
+this issue in Thailand. Increased education regarding the management of digital lending
+platforms would help consumers understand repayment obligations, reduce impulsive borrowing,
+and encourage responsible credit usage.</p><p>
+Under the Crisis Response and Public Intervention Frameworks, mandatory lender-initiated loan
+restructuring obligations triggered by defined economic indicators have placed the primary
+obligation to offer relief on lenders rather than governments.</p>
+<p>
+While this does not directly solve Laos’ sovereign debt crisis, it can prevent further depreciation
+of the economy, where the extent of debt crises endured by the public can be reduced, such that
+the people can gain support from the lenders themselves without waiting on government officials
+who have thus far been proven to be rather useless.
+</p>
+
+<p>Perhaps there is still hope after all.</p>
+<h2>Don’t run. Don’t hide. Press on.</h2>
+    `},{id:`guardian-article3`,title:`An insider’s guide to the AHMM’s resolution on the question of safeguarding healthcare rights for migrant communities`,deck:`With minister exclusives from Laos, Vietnam, and Thailand!`,agency:`The Guardian`,articleThumbnail:`/guardian_EWInt1_1.png`,content:`
+    <img src="/guardian_EWInt1_1.png"></img>
+    <p>
+    On 23rd June 2026, the ASEAN Health Ministers’ Meeting (AHMM) came to an epic
+conclusion with a highly revered solution that has revolutionised safeguarding healthcare rights
+for migrant communities. This is only the beginning.</p>
+<p>
+Upon its establishment in 1980, the AHMM operates biennially under the ASEAN
+Socio-Cultural Community (ASCC) to discuss cross-border health-related issues as well as
+regional threats to public safety. In a post-pandemic age, their influence is pertinent and
+ever-growing with an increasing need to prepare against regional emergencies.
+</p>
+<p>
+In recent years, the high influx of intra-regional migration within ASEAN states has created the
+existential need for healthcare rights to be fulfilled for all. The complexities involved in
+navigating healthcare systems in a foreign land, coupled with socio-economic disadvantages,
+</p>
+<p>
+potential language barriers, cultural differences, and legal intricacies, contribute to distinctive
+immigrant populations.
+</p>
+<em>“Migrant populations are only here to stay temporarily. Why should we care?”</em>
+<p>
+
+This exact sentiment is one that subconsciously reverberates around many natives. However,
+contrary to popular belief, the total shock of international migrants across ASEAN is
+approximately 9.9 million, with nearly 6.9 million people migrating between countries within the
+region.</p>
+    <img src="guardian_EWInt1_2.png"></img>
+    <p>
+    If numbers don’t daunt you, picture this:</br>
+From getting your daily Starbucks to luxuriously riding air-conditioned Metros, your everyday
+experiences are shaped by the hands of countless migrants whom we often disregard as nameless
+and faceless.</p><p>
+ASEAN is built on the backs of migrants.</p>
+<p>
+As such, securing affordable and accessible pathways to quality healthcare for migrants becomes
+an issue that requires regional collaboration.
+</p>
+<p>
+“United by council, separated by solutions” would probably be the most fitting phrase to
+describe the fractured committee. Stand on the sidelines, and you could already feel the waves of
+pent-up frustration between the observer and ASEAN Member States (AMS) penetrate you.</p><p>
+Get your popcorn ready, as we dive into how the AHMM put aside their differences and tackled
+this complex issue.</p>
+<p>
+In an exclusive interview with the Guardian, the Minister of Vietnam highlighted that,
+“Observing states might have hidden agendas, to direct policies in their favour”.</p><p>
+She also emphasised that Ministers should have a united agency towards a shared purpose, subtly
+calling out the Minister of Indonesia, who had strayed into “enemy territories” by cosying up to
+observer states instead.</p>
+<p>
+This response came as no surprise to the Guardian, as it is a known fact that observer states have
+no voting powers and are merely a source of recommendation.</p><p>
+The sentiments shared by Vietnam could not be applied to all member states. This came to be
+true when the Guardian approached the Minister of Thailand. At the time of the interview, this
+Minister was not working with any AMS. When asked about this arrangement, she responded,
+“I simply see more opportunities elsewhere.”</p><p>
+Due to the vague nature of the response, the Guardian deems it possible that the Minister sought
+to work with the observer states instead due to the monetary benefits and robustness of
+technology and expertise provided by these states.</p><p>
+Having gained exclusive insider knowledge on the two ministers' stances, the initial dynamics of
+the council were revealed. Although ASEAN is consensus-based, many member states were
+dedicated to furthering their own national priorities.</p><p>
+Among these frustrations, the Minister of Laos offered the rationale behind the proposed
+ASEAN Migrant Card System (AMCS). He reflected, “In the perspective of Laos and many
+other AMS, sufficient importance has to be given to both the urban and the rural states. It is also
+significantly harder to collect data for the migrants in rural areas, especially the undocumented
+migrants.”</p><p>
+The points raised by the Minister of Laos raised two concerns. Firstly, due to the fact that AMS
+are of varying degrees of economic growth, some member states may have wider gaps between documentation of migrant workers in urban and rural areas. Secondly, existing schemes only
+apply mainly to documented migrants, and undocumented migrants are generally neglected.</p><p>
+Undocumented migrant workers, due to the fear of deportation, oftentimes neglect their health to
+preserve employment. In extreme cases, this has led to abuse and death.</p>
+<p>
+One such case is that of 42-year-old Indian worker, Chelladurai Lenin, who got injured at his
+work site. According to his employer, who left him on the pavement, he did not want to be sent
+to the hospital as he was afraid of being deported.</p><p>
+Lenin eventually died on the pavement.</p><p>
+Such cases are prevalent throughout Southeast Asia.</p><p>
+The solution proposed by the Minister of Laos aimed to tackle the issue of inaccessible
+healthcare with Myanmar and Timor-Leste. However, the bloc’s solution did not fail to receive
+opposition as well.</p><p>
+Despite these initial tensions, something unexpected happened.</p><p>
+Imagine our surprise as we found the Draft Declaration to be passed in a committee that was
+initially divided.</p><p>
+Dear reader, the Guardian pondered the question that may be on your mind right now: “How
+could this have been possibly achieved?”</p><p>
+To answer this question, let us analyse the different solutions proposed in the Declaration.</p><p>
+In the Declaration, the establishment of the ASEAN Migrant Basic Health Insurance Framework
+(AMBHIF) aims to provide minimum healthcare coverage for both documented and
+undocumented migrant workers across ASEAN.4 AMBHIF moves migrant health beyond
+fragmented policies by creating an ASEAN-wide mechanism.
+</p>
+<p>
+In addition to AMBHIF covering essential migrant healthcare costs, it also encourages
+undocumented migrants to be eligible for the AMCS. This system allows undocumented
+migrants who may not previously have possessed healthcare documents to construct a medical record. AMCS serves as a crucial tool as it allows migrant workers to build an identity without
+the need for formal migration documents.
+</p>
+<p>
+In Malaysia, according to the National Library of Medicine, healthcare services are often
+inaccessible to migrant workers. Major themes include affordability and financial constraints, as
+well as the need for legal documents like valid passports and work permits.</p>
+<p>
+Through the use of sponsored check-ups, migrant healthcare can move from emergency-only
+treatment to preventive care. Early screening enables health conditions to be identified before
+they develop into more costly treatments, thereby reducing expenses incurred by employers and
+migrant workers. This is particularly significant as seen in Singapore, where migrant workers
+earn an estimated S$432-600 per month, compared to the average Singaporean monthly salary of
+S$4,680, yet they are often charged substantially higher healthcare fees.</p><p>
+Beyond its healthcare benefits, the AMCS also represents a notable step towards deeper regional
+cooperation. By establishing a standard for recording migrant health information, the proposal
+reflects a broader shift away from fragmented national approaches that have historically
+prioritized individual state interest, towards a more coordinated ASEAN framework that places
+the long-term well-being of migrant populations as its focal point.</p><p>
+The Guardian was heartened to see the Ministers coming together to propose meaningful ideas
+for change despite their differences, which could serve as an inspiration for international
+communities.</p>
+
+
+    `},{id:`guardian-article2`,title:`The United Kingdom in ASEAN: friend or foe?`,agency:`The Guardian`,articleThumbnail:`/guardian_Int1_1.png`,content:`<img src="guardian_Int1_1.png"></img></img>
+    <p>
+    Across Southeast Asia, the promise of financial inclusion is colliding with a quieter reality of
+increased household debt, powered by the rapid expansion of Buy Now Pay Later schemes and
+digital lending platforms.
+<p/>
+<p>
+An economic boom since COVID-19 has coincided with a surge of private credit. More
+consumers have been leaning towards BNPL services and digital lending platforms, expanding
+access to credit for millions of consumers. However, while access to borrowing has widened,
+financial literacy and consumer protection have not kept pace. In many ASEAN economies,
+particularly Thailand, Malaysia, and Vietnam, household indebtedness is increasingly prominent,
+particularly among younger consumers and underbanked populations.
+<p/>
+<p>
+In Thailand alone, household debt has skyrocketed to nearly 90% of GDP, ranking Thailand as
+the 7th most indebted nation globally, according to the International Monetary Fund (IMF).
+This exemplifies how in many households, borrowing is no longer merely a tool for flexible
+spending but a means of managing everyday expenses, amid rising living costs and economic
+pressure.
+<p/>
+<p>
+Against this backdrop, the United Kingdom raised concerns about the drivers behind rising
+household debt. “The question we have to ask ourselves is why this increase is right,” said the
+Minister of the United Kingdom in an interview with the Guardian.
+The Minister pointed out the structural difference between traditional banks and newer digital
+lenders as the primary driver for the shift.
+<p/>
+<p>
+“Traditional banks are required to conduct Know Your Customer procedures and evaluate
+detailed risk assessments,” he said.<p/>
+
+<p>
+“However, many alternative lenders are not held to the same standards, which results in credit
+being extended to their consumers without sufficient consideration of repayment capabilities,”
+added the Minister of the United Kingdom when asked about the reasons that caused an increase
+in digital lending platforms.<p/>
+<p>
+As of now, in the UK, private-market-wide stress tests conducted by the Bank of England are
+working alongside the Financial Conduct Authority, which has forced more private credit firms
+to disclose granular, loan-level data regularly.<p/>
+<p>
+The FCA has moved to increase transparency across the sector by requiring all alternative fund
+managers, including private credit, private equity, and hedge funds, to “ report granular loan
+level data on an ongoing basis.”<p/>
+<p>
+This pushes for greater transparency alongside more direct interventions in consumer credit
+markets. The FCA has also introduced a price cap on payday lending to put an end to the
+spiralling payday debts of consumers. Within the first five months following the FCA’s consumer
+credit regulation, both the number of loans and the amount borrowed dropped by 35%.<p/>
+<p>
+When asked whether ASEAN should adopt a similar approach, the UK Minister cautioned
+against a one-size-fits-all solution and added that “Regulatory systems should be changed to reflect the economies of individual countries, such as differences in financial literacy, income
+levels, and debt exposure, rather than a uniform system.”<p/>
+<p>
+In ASEAN, regulators have established their own mitigants to manage Debt risk, with central
+banks using quantitative credit controls, such as the Total Debt Servicing Ratio (TDSR), to
+prevent over-borrowing, particularly for mortgages and unsecured credit facilities.<p/>
+<p>
+There are also Debt restructuring arrangements. For instance, in countries like Thailand, the
+central bank operates debt restructuring and "Debt Clinic" programs to help individuals
+consolidate non-performing loans with extended maturities and lower interest rates.<p/>
+<p>
+There are also robust consumer protection laws. The ASEAN Capital Markets Forum (ACMF)
+and the ASEAN Committee on Consumer Protection (ACCP) have enacted high-level principles
+to ensure lenders adhere to fair practices and transparent disclosure, preventing predatory lending
+and aggressive collection
+<p/>
+<p>
+Therefore, while the United Kingdom and ASEAN have adopted different approaches in
+addressing increased household debt, there remains significant scope for collaboration. Through
+the sharing of policy lessons and regulatory competency, the United Kingdom has positioned
+itself as a constructive partner in ASEAN's efforts to tackle rising household debts while
+preserving financial inclusivity.
+</p>
+    `},{id:`the-guardian-article1`,articleThumbnail:`/guardian_OpEd1_1.png`,title:`People are suffering. People are dying. All while Ministers contemplate between two choices in the ASEAN Maritime Forum (AMF).`,agency:`The Guardian`,content:`
+    <img src="guardian_OpEd1_1.png"></img></img>
+    <p>We have unfortunately come to a reality where real people have become mere headlines.</p>
+<p>Piracy and Armed Robberies are not tall tales of fiction but the lived realities of many coastal
+communities that suffer from unprecedented attacks along the Straits of Malacca and Singapore.
+These attacks affect the coastal communities to varying degrees in tandem with the economic
+prowess of the nation as a whole.</p>
+
+<p>From January to June 2025, 95 incidents of piracy and armed robbery against ships in Asia were
+reported, which is an astonishing 83 percent increase from the same period the year prior.</p>
+
+<img src="/guardian_OpEd1_2.png"></img></img>
+<p>However, real stories and struggles of the everyday fishermen who get brutally attacked in broad
+daylight cannot be reduced to statistics and half yearly reports.</p>
+<p>
+In the late 1990s and early 2000s, Southeast Asia witnessed a surge in piracy and sea robbery
+incidents. These unexpected attacks have endangered lucrative trade routes that pose threats of
+economic downturn to not just coastal communities (all ASEAN Member states except Laos) but
+also regional and international trade partners such as China, India, Australia, New Zealand,
+Japan, and Korea. Even landlocked Laos faces the toll of maritime attacks, as Lao exports and
+imports along ASEAN waters are susceptible to danger as well.
+</p>
+<p>
+While these economic disparities are pertinent to be addressed, the voices of struggling coastal
+communities have to be heard. Based on the debates of Ministers done so far in the ASEAN
+Maritime Forum (AMF), these voices seem to be lost in a storm of ministerial priorities.
+</>
+</p>
+In a feeble attempt to counteract these centuries-long issues, the Ministers have been tirelessly
+running the wheel of ‘circular debate’ in air-conditioned rooms while vulnerable communities
+are exposed to atrocious life-altering maritime conditions.
+</p>
+As of now, the AMF seems widely divided into two blocs that are tirelessly advocating for their
+own solutions. Notably, the two-pronged approach with the ASEAN Central Coastal
+Development Fund (ACCDF) and capacity building, and the framework introduced by Indonesia
+(the name of which is currently being amended and will not be spoken of due to its provocative
+nature).
+<p>
+The Minister of New Zealand boldly claimed that “If a house is burning down, you put out the
+fire...”, referring to the collapsing coastal communities as a “burning house”. While this
+sentiment invigorated ministers to pay attention to the “burning house”, inhabitants of said
+“house” are yet to be rescued.</p><p>
+For several hours, the ministers were divided on these two solutions that promoted dreams of a
+transparent future and effective fund distribution, all while anger and frustration built up among
+coastal communities. These solutions were not productively evaluated together, as Ministers
+were stuck milking the same arguments to further their own frameworks.
+Naturally, the youth did not remain silent.</p>
+<p>
+If you open X or Instagram right now, you can find hashtags such as #factions_without_actions
+and #actionactionaction going viral.</p>
+<p>
+They are rigorously shared by the enraged youths of Indonesia, Philippines, and Brunei as they
+took their fights to the streets in protest against the lethargy of regional leadership in taking swift
+action.
+</p>
+<img src="/guardian_OpEd1_3.png"></img></img>
+<p>
+In another part of the world, the youth are equally angered. Youths from China, Pakistan, and
+Singapore rushed to fill the petition for ‘Factions with no Actions’ that has hit a record high of 6
+million signatures.
+</p>
+<p>
+The rage of the youth cannot be underestimated.
+</p>
+<p>
+Youth comprise approximately a third of the combined population of ASEAN, constituting the
+largest ever cohort of ASEAN youth.4As such, the voices of the youth should not be calculated as
+frivolous background chatter but the pertinent path to a more stable future.
+</p>
+<p>
+Patience is running low. Lives are lost and stolen.
+</p><p>
+Ministers, what do you plan to do next?
+</p>
 `},{id:`lao-news-agency-article3`,agency:`Lao News Agency (KPL)`,title:`Laos Advocates for Centralised Funding and Regional Task Force at ASEAN Disaster Management Meeting`,content:`*Responses from Ministers have been edited for clarity and brevity*
 <br/>
 The delegation of Laos has attended the latest session of ASEAN Committee on Disaster
@@ -879,113 +1721,6 @@ sharing knowledge and best practices available. Planning for a digital first res
 reject blanket interest waivers in favour of individual debt restructuring, and propose a calibrated
 intervention framework for ASEAN. These ideas can help to resolve the issues of private banking
 crisis, however, will all countries be able to coordinate together without any disagreements?
-    `},{id:`tatoli-article2`,articleThumbnail:`/Tatoli_OpEd1_1.png`,title:`Declining Literacy Rates in ASEAN: The Imperative of Alleviating the Problem`,agency:`Tatoli`,content:`<img src="/Tatoli_OpEd1_1.png"></img>
-    <p><strong>Photo: UNICEF</strong></p>
-    Timor-Leste boasts 2 official languages (Portuguese and Tetun Dili), 2 working languages
-(English and Bahasa Indonesia), and over 30 other indigenous languages. Whilst the
-majority of the individuals living in or around our capital city, Dili, are largely proficient in
-the two official languages, those living in the rural areas of the country are unlikely to have
-anything beyond a rudimentary understanding of the languages.
-<br/>
-This becomes an extreme impediment when children from rural areas start attending school,
-where Portuguese and Tetun Dili are the two instructional languages. The question is: How
-impactful is an academic education when students enter school lacking proficiency in the
-language of instruction?
-<br/>
-As of 2022, the literacy rates of youths, categorised as people of age 15 to 24 years old, in
-Timor-Leste lie at 69%, 24% below the average literacy rate across the globe. The language
-barrier, coupled with other problems such as the underfunding of schools, reduced enrolment,
-and decreasing comprehension rates amongst children in their early developmental stages
-lead to an increase in student drop out rates, with students finding the school curriculum too
-difficult.
-<br/>
-The decline of literacy rates within the new generation elicits several disadvantages that will
-ultimately hinder them even as they step into adulthood. The importance of literacy can be
-seen through research that shows a 21.25% increase in wages and a 8.1% increase in the
-probability of being employed for individuals who are literate.
-<br/>
-Illiterate individuals often
-face unemployment or low wages when entering the workforce, thereby exacerbating the
-cycle of poverty in the nation.
-<br/>
-The Minister of Timor Leste emphasised the significance of addressing current literacy
-levels, stating that “Improving literacy rates amongst the younger generation is vital because
-they are the future of our country. Education is the driving force in maintaining the economic
-state of smaller nations like Timor-Leste.”
-<br/>
-<h2>Proposed Solutions and Frameworks</h2>
-As such, the Minister of Timor-Leste has proposed the National Additive Multilanguage
-Education, or NAME for short. This programme is aimed at enhancing language policy in its
-entirety through 2 distinct phases.
-<br/>
-Phase 1: Phase 1 will begin early stages of basic education by substituting various indigenous
-mother tongues as the instructional language. For instance, the children living in the Liquiçá
-Municipality of Timor-Leste, who primarily speak the dialect of Tukudede, would start their
-elementary education learning in Tukudede.
-<br/>
-This allows children to comprehend foundational concepts and understandings by building
-off on what they already know, narrowing the learning gap between spoken and written
-language. This then prevents cognitive shock that may lead to future burnout.
-<br/>
-Phase 2: In the implementation of phase 2, schools will gradually transition into using
-Portuguese and Tetun Dilli as the main instructional languages. Extra contrastive analysis
-lessons will teach students how to translate their respective dialects into the official
-languages. This promises a smooth integration into the new instructional languages, avoiding
-mass confusion due to the sudden language switch.
-<br/>
-The NAME programme ensures that in addition to fluency in English and Bahasa Indonesia,
-which are taught as classes in school, students have a comprehensive grasp on the two official
-languages of Timor-Leste. Equipping students with this multilingual framework will
-ultimately provide them with substantial advantages in the future.
-<br/>
-Students partaking in NAME will benefit from the perquisites of multilingualism far beyond
-their schooling years. The linguistic diversity of these participants opens doors to
-employment opportunities, such as overseas positions, that would not be typically accessible
-to monolingual candidates. This would ultimately result in a significant improvement in the
-standards of living, giving disadvantaged children a second chance at a more fulfilling life.
-<br/>
-However, the NAME programme does not merely benefit the people of Timor-Leste.
-Countries all across the ASEAN region face the same problem, but lack sufficient resources
-to take measurable action. Studies carried out by UNICEF showed that 1 in 2 children in
-Southeast Asia do not meet the expected literacy standard at Grade 5. This highlights the urgency for stronger investment in basic literacy to ensure the disadvantaged children of
-ASEAN are not left behind.
-<br/>
-In essence, NAME is not simply a framework of empty promises; it is a crucial step that
-should be taken in order to combat the failing literacy levels in the region. Thus, the Minister
-of Timor-Leste urges the ministers of the ASEAN Education Ministers Meeting (ASED) to
-coordinate their resources and supplies to achieve the most promising outcomes possible.
-<br/>
-The Mother Tongue-Based Multilingual Education (EMBLI) Pilot Program
-The Minister of Timor-Leste is confident that NAME will be effective in addressing and
-alleviating the decreasing literacy levels following a similar programme that had garnered
-success. He noted that if incorporated on a larger scale with the support of fellow ASEAN
-members, NAME can flourish as well as its predecessor.
-<br/>
-Prior to NAME, Timor-Leste launched the Mother Tongue-Based Multilingual Education
-Pilot Programme, or EMBLI for short, aimed at improving the current education system to
-increase literacy rates. The pilot project set out to test the feasibility of incorporating
-indigenous mother tongues as instructional languages in the early years of child development
-in order to develop early literacy.
-<br/>
-Further on in their schooling journey, students are then taught new second and third
-languages, where they will apply their knowledge of letter, vocabulary, and cognitive
-concepts from their first language to their further language learning.
-<br/>
-The efficacy of EMBLI was measured by a test that assessed factors that include, but are not
-limited to, reading comprehension, mathematics, and word recognition. It is noteworthy that
-preschools involved in the EMBLI programme showed significant improvement and gain of
-up to 300 times.
-<br/>
-Seeing as EMBLI facilitated the further development of oral and literate competency in the
-co-official languages of Timor-Leste, the government of Timor-Leste strongly believes that NAME will produce the same, if not better, results.
-<br/>
-To improve the standards of living of children all across the ASEAN region, it is imperative
-to agree on a solution that will be mutually beneficial to all member states, such as NAME.
-By taking action to improve early education and literacy rates, it is undeniable that the ASED
-will be able to rectify the imbalance befittingly.
-<p><strong>*This is an opinion article prepared for educational purposes only, and strictly reflects
-the author’s personal opinion and does not bind any institution with which the author
-may be affiliated.</strong></p>
     `},{id:`borneo-bulletin-article1`,articleThumbnail:`/BB_OpEd1_1.png`,agency:`Borneo Bulletin`,title:`Is Ensuring Healthcare Access for Migrants a Group Effort?`,content:`
     “Healthcare access for migrants is an essential need in the status quo.” This is a direct quote
 from Brunei’s Health minister, who believes deeply that migrants' access to healthcare is a
@@ -1181,68 +1916,7 @@ the host countries.
 They are the pillars of many ASEAN countries including Indonesia.
 <br/>
 As such, Indonesia seeks to change the status quo, bettering the lives of our migrant workers
-across the globe.`},{id:`guardian-article2`,title:`The United Kingdom in ASEAN: friend or foe?`,agency:`The Guardian`,articleThumbnail:`/guardian_Int1_1.png`,content:`<img src="guardian_Int1_1.png"></img></img>
-    Across Southeast Asia, the promise of financial inclusion is colliding with a quieter reality of
-increased household debt, powered by the rapid expansion of Buy Now Pay Later schemes and
-digital lending platforms.
-<br/>
-An economic boom since COVID-19 has coincided with a surge of private credit. More
-consumers have been leaning towards BNPL services and digital lending platforms, expanding
-access to credit for millions of consumers. However, while access to borrowing has widened,
-financial literacy and consumer protection have not kept pace. In many ASEAN economies,
-particularly Thailand, Malaysia, and Vietnam, household indebtedness is increasingly prominent,
-particularly among younger consumers and underbanked populations.
-<br/>
-In Thailand alone, household debt has skyrocketed to nearly 90% of GDP, ranking Thailand as
-the 7th most indebted nation globally, according to the International Monetary Fund (IMF).
-This exemplifies how in many households, borrowing is no longer merely a tool for flexible
-spending but a means of managing everyday expenses, amid rising living costs and economic
-pressure.
-<br/>
-Against this backdrop, the United Kingdom raised concerns about the drivers behind rising
-household debt. “The question we have to ask ourselves is why this increase is right,” said the
-Minister of the United Kingdom in an interview with the Guardian.
-The Minister pointed out the structural difference between traditional banks and newer digital
-lenders as the primary driver for the shift.
-<br/>
-“Traditional banks are required to conduct Know Your Customer procedures and evaluate
-detailed risk assessments,” he said.<br/>
-“However, many alternative lenders are not held to the same standards, which results in credit
-being extended to their consumers without sufficient consideration of repayment capabilities,”
-added the Minister of the United Kingdom when asked about the reasons that caused an increase
-in digital lending platforms.<br/>
-As of now, in the UK, private-market-wide stress tests conducted by the Bank of England are
-working alongside the Financial Conduct Authority, which has forced more private credit firms
-to disclose granular, loan-level data regularly.<br/>
-
-The FCA has moved to increase transparency across the sector by requiring all alternative fund
-managers, including private credit, private equity, and hedge funds, to “ report granular loan
-level data on an ongoing basis.”<br/>
-This pushes for greater transparency alongside more direct interventions in consumer credit
-markets. The FCA has also introduced a price cap on payday lending to put an end to the
-spiralling payday debts of consumers. Within the first five months following the FCA’s consumer
-credit regulation, both the number of loans and the amount borrowed dropped by 35%.<br/>
-
-When asked whether ASEAN should adopt a similar approach, the UK Minister cautioned
-against a one-size-fits-all solution and added that “Regulatory systems should be changed to reflect the economies of individual countries, such as differences in financial literacy, income
-levels, and debt exposure, rather than a uniform system.”<br/>
-In ASEAN, regulators have established their own mitigants to manage Debt risk, with central
-banks using quantitative credit controls, such as the Total Debt Servicing Ratio (TDSR), to
-prevent over-borrowing, particularly for mortgages and unsecured credit facilities.<br/>
-There are also Debt restructuring arrangements. For instance, in countries like Thailand, the
-central bank operates debt restructuring and "Debt Clinic" programs to help individuals
-consolidate non-performing loans with extended maturities and lower interest rates.<br/>
-There are also robust consumer protection laws. The ASEAN Capital Markets Forum (ACMF)
-and the ASEAN Committee on Consumer Protection (ACCP) have enacted high-level principles
-to ensure lenders adhere to fair practices and transparent disclosure, preventing predatory lending
-and aggressive collection
-<br/>
-Therefore, while the United Kingdom and ASEAN have adopted different approaches in
-addressing increased household debt, there remains significant scope for collaboration. Through
-the sharing of policy lessons and regulatory competency, the United Kingdom has positioned
-itself as a constructive partner in ASEAN's efforts to tackle rising household debts while
-preserving financial inclusivity.
-    `},{id:`xinhua-news-agency-article2`,agency:`Xinhua News Agency`,title:`The Lao People’s Democratic Republic’s View on ASEAN Strategies to Combat Piracy and Armed Robberies in Southeast Asian Waters`,content:`
+across the globe.`},{id:`xinhua-news-agency-article2`,agency:`Xinhua News Agency`,title:`The Lao People’s Democratic Republic’s View on ASEAN Strategies to Combat Piracy and Armed Robberies in Southeast Asian Waters`,content:`
     During the press interview, the delegate of Laos emphasised that although they had multiple
 frameworks with innovative ideas in combating piracy, Laos has firmly declined in
 prioritising any single framework that would be the most effective and rather, stressed that all
@@ -1504,48 +2178,7 @@ hydrogen plants and their diplomatic status allows them to easily form partnersh
 ASEAN member states and allies and Russia would benefit from this as its combined alliance
 with China makes them both form partnerships and allow ASEAN to reach their goal of
 producing and relying on green hydrogen instead of fossil fuels.
-    `},{id:`tatoli-article1`,title:`Declining Literacy Rates in ASEAN: The Imperative of Alleviating the Problem`,agency:`Tatoli`,articleThumbnail:`/Tatoli_EWOpEd_1.png`,content:`<img src=""></img></img>
-<p><strong>Photo: UNICEF</strong></p>
-
-<p>Timor-Leste boasts 2 official languages (Portuguese and Tetun Dili), 2 working languages (English and Bahasa Indonesia), and over 30 other indigenous languages. Whilst the majority of the individuals living in or around the capital city, Dili, are largely proficient in the two official languages, those living in the rural areas of the country are unlikely to have anything beyond a rudimentary understanding of the languages.</p>
-
-<p>This becomes an extreme impediment when children from rural areas start attending school, where Portuguese and Tetun Dili are the two instructional languages. The question is: How impactful is an academic education when students enter school lacking proficiency in the language of instruction?</p>
-
-<p>As of 2022, the literacy rates of youths, categorised as people of age 15 to 24 years old, in Timor-Leste lie at 69%, 24% below the average literacy rate across the globe. The language barrier, coupled with other problems such as the underfunding of schools, reduced enrolment, and decreasing comprehension rates amongst children in their early developmental stages lead to an increase in student drop out rates, with students finding the school curriculum too difficult.</p>
-
-<p>The decline of literacy rates within the new generation elicits several disadvantages that will ultimately hinder them even as they step into adulthood. The importance of literacy can be seen through research that shows a 21.25% increase in wages and a 8.1% increase in the probability of being employed for individuals who are literate. Illiterate individuals often face unemployment or low wages when entering the workforce, thereby exacerbating the cycle of poverty in the nation.</p>
-
-<p>The Minister of Timor Leste emphasised the significance of addressing current literacy levels, stating that "Improving literacy rates amongst the younger generation is vital because they are the future of our country. Education is the driving force in maintaining the economic state of smaller nations like Timor-Leste."</p>
-
-<h2>Proposed Solutions and Frameworks</h2>
-
-<p>As such, the Minister of Timor-Leste has proposed the National Additive Multilanguage Education, or NAME for short. This programme is aimed at enhancing language policy in its entirety through 2 distinct phases.</p>
-
-<p><strong>Phase 1:</strong> Phase 1 will begin early stages of basic education by substituting various indigenous mother tongues as the instructional language. For instance, the children living in the Liquiçá Municipality of Timor-Leste, who primarily speak the dialect of Tukudede, would start their elementary education learning in Tukudede.</p>
-
-<p>This allows children to comprehend foundational concepts and understandings by building off on what they already know, narrowing the learning gap between spoken and written language. This then prevents cognitive shock that may lead to future burnout.</p>
-
-<p><strong>Phase 2:</strong> In the implementation of phase 2, schools will gradually transition into using Portuguese and Tetun Dilli as the main instructional languages. Extra contrastive analysis lessons will teach students how to translate their respective dialects into the official languages. This promises a smooth integration into the new instructional languages, avoiding mass confusion due to the sudden language switch.</p>
-
-<p>The NAME programme ensures that in addition to fluency in English and Bahasa Indonesia, which are taught as classes in school, students have a comprehensive grasp on the two official languages of Timor-Leste. Equipping students with this multilingual framework will ultimately provide them with substantial advantages in the future.</p>
-
-<p>Students partaking in NAME will benefit from the perquisites of multilingualism far beyond their schooling years. The linguistic diversity of these participants opens doors to employment opportunities, such as overseas positions, that would not be typically accessible to monolingual candidates. This would ultimately result in a significant improvement in the standards of living, giving disadvantaged children a second chance at a more fulfilling life.</p>
-
-<p>However, the NAME programme does not merely benefit the people of Timor-Leste. Countries all across the ASEAN region face the same problem, but lack sufficient resources to take measurable action. Studies carried out by UNICEF showed that 1 in 2 children in Southeast Asia do not meet the expected literacy standard at Grade 5. This highlights the urgency for stronger investment in basic literacy to ensure the disadvantaged children of ASEAN are not left behind.</p>
-
-<p>In essence, NAME is not simply a framework of empty promises; it is a crucial step that should be taken in order to combat the failing literacy levels in the region. Thus, the Minister of Timor-Leste urges the ministers of the ASEAN Education Ministers Meeting (ASED) to coordinate their resources and supplies to achieve the most promising outcomes possible.</p>
-
-<h2>The Mother Tongue-Based Multilingual Education (EMBLI) Pilot Program</h2>
-
-<p>The Minister of Timor-Leste is confident that NAME will be effective in addressing and alleviating the decreasing literacy levels following a similar programme that had garnered success. He noted that if incorporated on a larger scale with the support of fellow ASEAN members, NAME can flourish as well as its predecessor.</p>
-
-<p>Prior to NAME, Timor-Leste launched the Mother Tongue-Based Multilingual Education Pilot Programme, or EMBLI for short, aimed at improving the current education system to increase literacy rates. The pilot project set out to test the feasibility of incorporating indigenous mother tongues as instructional languages in the early years of child development in order to develop early literacy. Further on in their schooling journey, students are then taught new second and third languages, where they will apply their knowledge of letter, vocabulary, and cognitive concepts from their first language to their further language learning.</p>
-
-<p>The efficacy of EMBLI was measured by a test that assessed factors that include, but are not limited to, reading comprehension, mathematics, and word recognition. It is noteworthy that preschools involved in the EMBLI programme showed significant improvement and gain of up to 300 times.</p>
-
-<p>Seeing as EMBLI facilitated the further development of oral and literate competency in the co-official languages of Timor-Leste, the government of Timor-Leste strongly believes that NAME will produce the same, if not better, results.</p>
-
-<p>To improve the standards of living of children all across the ASEAN region, it is imperative to agree on a solution that will be mutually beneficial to all member states, such as NAME. By taking action to improve early education and literacy rates, it is undeniable that the ASED will be able to rectify the imbalance befittingly.</p>`},{id:`nhan-dan-article1`,title:`ASEAN Committee on Consumer Protection Is Progressing Forward with Solutions at a Steady Pace`,agency:`Nhân Dân`,articleThumbnail:`/NhanDan_int1_1.png`,content:`<p>In the ASEAN Committee on Consumer Protection (ACCP) Conference, the council has been split into two blocs. While one bloc supports the Minister of Myanmar's unspecified document and the other supports the Minister of Thailand's unspecified document. The question still remains on how will the council come to a consensus.</p>
+    `},{id:`nhan-dan-article1`,title:`ASEAN Committee on Consumer Protection Is Progressing Forward with Solutions at a Steady Pace`,agency:`Nhân Dân`,articleThumbnail:`/NhanDan_int1_1.png`,content:`<p>In the ASEAN Committee on Consumer Protection (ACCP) Conference, the council has been split into two blocs. While one bloc supports the Minister of Myanmar's unspecified document and the other supports the Minister of Thailand's unspecified document. The question still remains on how will the council come to a consensus.</p>
 
 <img src=""></img></img>
 <p><strong>Nhân Dân reporter, Wang Sijia engaging with the Minister of Myanmar and the Minister of Cambodia in a four minute interview</strong></p>
@@ -1657,71 +2290,7 @@ producing and relying on green hydrogen instead of fossil fuels.
 
 <p>Ultimately, resolving this crisis first requires addressing such everyday challenges. True social justice means ensuring that those who contribute to our economy have safe housing, adequate food, and the time to take care of their health.</p>
 
-<p>Migrant workers are not merely labourers, they are sons and daughters, parents and grandparents, and friends to all of us.</p>`},{id:`the-guardian-article1`,articleThumbnail:`/guardian_OpEd1_1.png`,title:`People are suffering. People are dying. All while Ministers contemplate between two choices in the ASEAN Maritime Forum (AMF).`,agency:`The Guardian`,content:`
-    <img src=""></img></img>
-    <p>We have unfortunately come to a reality where real people have become mere headlines.</p>
-<p>Piracy and Armed Robberies are not tall tales of fiction but the lived realities of many coastal
-communities that suffer from unprecedented attacks along the Straits of Malacca and Singapore.
-These attacks affect the coastal communities to varying degrees in tandem with the economic
-prowess of the nation as a whole.</p>
-
-<p>From January to June 2025, 95 incidents of piracy and armed robbery against ships in Asia were
-reported, which is an astonishing 83 percent increase from the same period the year prior.</p>
-
-<img src=""></img></img>
-However, real stories and struggles of the everyday fishermen who get brutally attacked in broad
-daylight cannot be reduced to statistics and half yearly reports.
-</br>
-In the late 1990s and early 2000s, Southeast Asia witnessed a surge in piracy and sea robbery
-incidents. These unexpected attacks have endangered lucrative trade routes that pose threats of
-economic downturn to not just coastal communities (all ASEAN Member states except Laos) but
-also regional and international trade partners such as China, India, Australia, New Zealand,
-Japan, and Korea. Even landlocked Laos faces the toll of maritime attacks, as Lao exports and
-imports along ASEAN waters are susceptible to danger as well.
-<br/>
-While these economic disparities are pertinent to be addressed, the voices of struggling coastal
-communities have to be heard. Based on the debates of Ministers done so far in the ASEAN
-Maritime Forum (AMF), these voices seem to be lost in a storm of ministerial priorities.
-<br/>
-In a feeble attempt to counteract these centuries-long issues, the Ministers have been tirelessly
-running the wheel of ‘circular debate’ in air-conditioned rooms while vulnerable communities
-are exposed to atrocious life-altering maritime conditions.
-<br/>
-As of now, the AMF seems widely divided into two blocs that are tirelessly advocating for their
-own solutions. Notably, the two-pronged approach with the ASEAN Central Coastal
-Development Fund (ACCDF) and capacity building, and the framework introduced by Indonesia
-(the name of which is currently being amended and will not be spoken of due to its provocative
-nature).<br/>
-The Minister of New Zealand boldly claimed that “If a house is burning down, you put out the
-fire...”, referring to the collapsing coastal communities as a “burning house”. While this
-sentiment invigorated ministers to pay attention to the “burning house”, inhabitants of said
-“house” are yet to be rescued.<br/>
-For several hours, the ministers were divided on these two solutions that promoted dreams of a
-transparent future and effective fund distribution, all while anger and frustration built up among
-coastal communities. These solutions were not productively evaluated together, as Ministers
-were stuck milking the same arguments to further their own frameworks.
-Naturally, the youth did not remain silent.<br/>
-If you open X or Instagram right now, you can find hashtags such as #factions_without_actions
-and #actionactionaction going viral.<br/>
-They are rigorously shared by the enraged youths of Indonesia, Philippines, and Brunei as they
-took their fights to the streets in protest against the lethargy of regional leadership in taking swift
-action.
-<br/>
-<img src=""></img></img>
-In another part of the world, the youth are equally angered. Youths from China, Pakistan, and
-Singapore rushed to fill the petition for ‘Factions with no Actions’ that has hit a record high of 6
-million signatures.
-<br/>
-The rage of the youth cannot be underestimated.
-<br/>
-Youth comprise approximately a third of the combined population of ASEAN, constituting the
-largest ever cohort of ASEAN youth.4As such, the voices of the youth should not be calculated as
-frivolous background chatter but the pertinent path to a more stable future.
-<br/>
-Patience is running low. Lives are lost and stolen.
-<br/>
-Ministers, what do you plan to do next?
-`},{id:`dvb-article1`,title:`Stuck in the Crossfire of the Rohingya Crisis:Frameworks introduced during ASEAN Committee of Disaster Management`,agency:`DVB News`,content:`
+<p>Migrant workers are not merely labourers, they are sons and daughters, parents and grandparents, and friends to all of us.</p>`},{id:`dvb-article1`,title:`Stuck in the Crossfire of the Rohingya Crisis:Frameworks introduced during ASEAN Committee of Disaster Management`,agency:`DVB News`,content:`
     <p>As the civil war in Arakan(Rakhine) continues to intensify, the long-persecuted Rohingya
 population finds itself facing a wave of existential peril. Caught directly between a desperate
 military junta and advancing ethnic armed groups, the Rohingya are being systematically
@@ -1792,97 +2361,7 @@ As long as the military regime continues to rely on division and terror to susta
 grip on power, the Rohingya will continue to bear the heaviest toll of Myanmar’s ongoing
 polycrisis. Through meaningful frameworks like SAS, the burden of being a displaced
 individual in South-East Asia will be lighter, and one that is easier to carry.</p>
-    `},{id:`asahi-shimbun-article1`,articleThumbnail:`/asahi_OpEd1_1.png`,title:`EDITORIAL: EVERYONE AGREES MIGRANTS DESERVE CARE, BUT FEW AGREE ON WHO SHOULD PAY`,agency:`The Asahi Shimbun`,deck:`In the recent Youth Model ASEAN Experience conference, many countries mentioned about how migrant healthcare is a shared responsibility. However, many countries are at an impasse regarding what “shared” actually means.`,content:`
-    <img src=""></img></img>
-    <p>Migrant workers often encounter language, financial, and legal barriers when seeking
-medical treatment.</p>
-
-<h2>HEALTHCARE IS A RIGHT, NOT A PRIVILEGE</h2>
-
-The minister of South Korea called healthcare “a human right and a shared responsibility”.
-The minister of Myanmar also has a similar argument, saying that basic migrant healthcare
-should be accessible to everyone, highlighting the language barriers that frequently prevent
-accurate diagnosis and treatment due to the inability to understand each other.
-<br/>
-The minister of Vietnam dove deeper into the topic, insisting that healthcare access should
-“never be dependent on employment status”
-<br/>
-These concerns are not just hypothetical.
-<br/>
-Millions of migrant workers in Asia continue to encounter barriers to healthcare, such as cost,
-documentation requirements, language barriers, and fear of immigration enforcement, the
-International Labour Organization said. Migrants are also more likely to be employed in
-high-risk jobs but less likely to have health insurance than local workers.
-<br/>
-How can ASEAN still claim centrality in a people-centred community when access to
-healthcare is based on where you were born or the ongoing goodwill of an employer?<br/>
-<h2>DANGER OF OVERDEPENDENCY ON THE EMPLOYER</h2>
-Through the heated discussions between the countries, a major divide emerged over
-financing.
-<br/>
-The minister of the Philippines proposed “requiring the employers to bear the full cost of
-legal migrant healthcare.”
-<br/>
-Similarly, the Gulf Cooperation Council supported a framework where employers fund a
-minimum basic healthcare insurance that covers the most pressing and basic coverage,
-assuming broader responsibilities.
-<br/>
-However, this creates a dangerous overreliance. In an employer-based health system, you can
-only get treatment if you’re employed, not if you’re a human being. What would happen if a
-company refuses coverage? What happens when workers lose their jobs?
-<br/>
-<h2>Healthcare should not disappear the moment it becomes necessary.</h2>
-The minister of Timor-Leste correctly warned that “safeguarding healthcare rights should not
-come at the expense of national responsibility.” Migrant workers are important to ASEAN
-economies. Therefore, governments cannot leave welfare entirely to private actors.
-<br/>
-<h2>THE USE OF ARTIFICIAL INTELLIGENCE</h2>
-The minister of Brunei wanted to propose using artificial intelligence to identify healthcare
-“chokeholds,” reflecting ASEAN’s growing reliance on generative AI.
-<br/>
-However, this is not failproof, and some of these datasets are incomplete or biased, risking
-misidentifying vulnerable populations or entirely missing informal migrant communities,
-leaving unaddressed the very gaps they seek to fill.
-<br/>
-The Asahi Shimbun has raised concerns about this to the minister of Brunei, and they have
-clarified that “multiple alert systems must be present and consistently being revamped to
-ensure the sustained accuracy of this system.”
-<br/>
-<h2>ASEAN SHOULD BUILD CROSS-BORDER SOLUTIONS</h2>
-The minister of Laos has suggested a unified healthcare card allowing migrant records to
-follow workers across borders. Indonesia suggested an ASEAN Migrant Healthcare
-Coordination Network.
-<br/>
-These proposals have illustrated that migration is regional and health challenges are
-increasingly transnational.
-<br/>
-The United States proposed a digital health passport and early warning network, and Russia
-offered technical expertise through bilateral medical registry systems.
-<br/>
-Although these initiatives are helpful, ASEAN must be careful not to be over reliant on
-powers outside ASEAN for important healthcare systems.
-<br/>
-Such healthcare cooperation should strengthen ASEAN institutions through teamwork, not
-deepen competition between countries.
-<br/>
-The committee has agreed to start discussions on minimum standards of healthcare before
-addressing issues of access, financing, and monitoring.
-<br/>
-But minimum standards are not assured to be put into practice, risking being just another
-declaration. ASEAN's 2017 Consensus on the Protection and Promotion of the Rights of
-Migrant Workers recognised access to medical care, but there are still significant gaps across
-the region.
-<br/>
-Only promises can’t cure workers.
-<br/>
-ASEAN leaders should seize this opportunity to create portable healthcare protections,
-multilingual services, emergency coverage guarantees, and sustainable financing mechanisms
-that survive changes in employment status.
-<br/>
-A region that relies on migrant labour ought to be prepared to safeguard migrant lives.
-Otherwise, ASEAN's pledge to an inclusive community risks becoming just a slogan.
-
-`},{id:`newsroom-article1`,title:`Grey, blue, green...hydrogen?`,agency:`The Newsroom`,deck:`New Zealand’s commitment to ASEAN’s green transition is steadfast, through the leveraging of its natural advantages to strengthen strategic partnership with member states.`,articleThumbnail:`/newsroom_OpEd1_1.png`,content:`
+    `},{id:`newsroom-article1`,title:`Grey, blue, green...hydrogen?`,agency:`The Newsroom`,deck:`New Zealand’s commitment to ASEAN’s green transition is steadfast, through the leveraging of its natural advantages to strengthen strategic partnership with member states.`,articleThumbnail:`/newsroom_OpEd1_1.png`,content:`
     <img src=""></img></img>
     <p><strong>The Minister of New Zealand strategises engagement with ASEAN member states, China and Vietnam during the
 ASCOPE conference. Photo: Newsroom</strong></p>
@@ -2394,4 +2873,4 @@ countries. With ASEAN moving towards green hydrogen there are also some who oppo
 move. The delegate of Pakistan cites that green hydrogen is flawed and risks such as economic
 exploits and risks to its foundational assets. While they push for ASEAN to look into solutions,
 Russia still considers Pakistan an “important partner” in the region’s economic and energy
-development and called the two countries “natural allies”.`}],Xn=[{id:`tass-podcast1`,title:`An interview with SDD delegates`,agency:`Russian News Agency TASS`,content:`/TASS_Podcast1.m4a`},{id:`manila-bulletin-podcast1`,title:`Inside the committee venue: what ASCC delegates have to say about mental health services for youth`,agency:`Manila Bulletin`,content:`/manilaBulletin_podcast1.m4a`},{id:`DVB-News-podcast1`,title:`ASCC, ACSC-Migration, ACSC-Seas`,agency:`DVB News`,content:`/DVBNews-podcast1.m4a`},{id:`cna-podcast1`,title:`Piracy in our backyard`,agency:`Channel News Asia`,content:`/CNA_Podcast_1.m4a`},{id:`borneo-bulletin-podcast1`,title:`The Role of Economy When Dealing with Migrant Healthcare`,agency:`Borneo Bulletin`,content:`/BB-Podcast.mp3`}],Zn=()=>(0,j.jsx)(`div`,{className:`article-list`,children:Yn.map(e=>(0,j.jsx)(qn,{article:e},e.id))}),Qn=({children:e})=>(0,j.jsx)(`div`,{children:(0,j.jsx)(`main`,{children:e})}),$n=()=>(0,j.jsxs)(`div`,{style:{backgroundColor:`#333`,color:`white`,padding:`10px`,width:`100%`,top:0,position:`fixed`,left:0},children:[(0,j.jsx)(`h1`,{children:`YMAX Press 2026`}),(0,j.jsx)(`a`,{href:`/`,className:`barLinks`,children:`Latest News`}),(0,j.jsx)(`a`,{href:`#/article`,className:`barLinks`,children:`Articles`}),(0,j.jsx)(`a`,{href:`#/podcast`,className:`barLinks`,children:`Podcasts`}),(0,j.jsx)(`a`,{href:`#/suss`,className:`barLinks`,children:`SUSS Articles`}),(0,j.jsx)(`a`,{href:`https://tinyurl.com/ymax2026letterstojournalists`,className:`barLinks`,target:`_blank`,rel:`noopener noreferrer`,children:`Letters to Journalists`})]}),er=()=>(0,j.jsxs)(`div`,{style:{backgroundImage:`url("/background.png")`,minHeight:`100vh`,color:`white`,padding:`45px`},children:[(0,j.jsx)(`header`,{children:(0,j.jsx)($n,{})}),(0,j.jsx)(Qn,{children:(0,j.jsxs)(`div`,{style:{marginTop:`10vh`},children:[(0,j.jsx)(`h1`,{className:`latest`,children:`Latest News`}),(0,j.jsx)(Zn,{})]})}),(0,j.jsx)(`footer`,{children:(0,j.jsxs)(`p`,{children:[` YMAX Press & Co.`,new Date().getFullYear(),` `]})})]}),tr=()=>(0,j.jsxs)(`div`,{style:{backgroundImage:`url(/background.png)`,minHeight:`100vh`,color:`white`,padding:`20px`},children:[(0,j.jsx)(`header`,{className:`topBar`,children:(0,j.jsx)($n,{})}),(0,j.jsxs)(`div`,{style:{backgroundColor:`black`,padding:`20px`,borderRadius:`5px`,marginTop:`100px`},children:[(0,j.jsx)(`p`,{children:`Hello! We are the Editorial Team for YMAX 2026, consisting of Olivia, Lin Yi, Charlotte, Leslie and Tian Huai.`}),(0,j.jsx)(`p`,{children:`Led by our director Cheng Jie, we hope that YMAX Press this year will be able to engage every delegate's critical thinking skills, and ubnderstand the increasing relevance of the press corps in the world.`})]})]}),nr=`/background.png`,rr=()=>{let{id:e}=dt(),t=Yn.find(t=>t.id===e);return t?(0,j.jsxs)(`div`,{style:{backgroundImage:`url(${nr})`,minHeight:`100vh`,color:`white`,padding:`20px`},children:[(0,j.jsx)(`header`,{className:`topBar`,children:(0,j.jsx)($n,{})}),(0,j.jsxs)(`div`,{style:{backgroundColor:`black`,padding:`20px`,borderRadius:`5px`},children:[(0,j.jsx)(`h1`,{children:t.title}),(0,j.jsx)(`p`,{style:{textAlign:`justify`,lineHeight:`2`},dangerouslySetInnerHTML:{__html:t.content}})]})]}):(0,j.jsx)(`div`,{children:`Article not found`})},ir=()=>(0,j.jsxs)(`div`,{style:{backgroundImage:`url("/background.png")`,minHeight:`100vh`,color:`white`,padding:`45px`},children:[(0,j.jsx)(`header`,{children:(0,j.jsx)($n,{})}),(0,j.jsx)(Qn,{children:(0,j.jsxs)(`div`,{style:{marginTop:`10vh`},children:[(0,j.jsx)(`h1`,{className:`latest`,children:`Latest News`}),(0,j.jsx)(Zn,{})]})}),(0,j.jsx)(`footer`,{children:(0,j.jsxs)(`p`,{children:[` YMAX Press & Co.`,new Date().getFullYear(),` `]})})]}),ar=({podcast:e})=>(0,j.jsxs)(`div`,{className:`article-card`,children:[(0,j.jsx)(`h2`,{children:e.title}),(0,j.jsx)(`p`,{children:e.agency}),(0,j.jsx)(`audio`,{src:e.content,autoPlay:!1,controls:!0})]}),or=()=>(0,j.jsx)(`div`,{className:`article-list`,children:Xn.map(e=>(0,j.jsx)(ar,{podcast:e},e.id))}),sr=()=>(0,j.jsxs)(`div`,{style:{backgroundImage:`url("/background.png")`,minHeight:`100vh`,color:`white`},className:`topBar`,children:[(0,j.jsx)(`header`,{children:(0,j.jsx)($n,{})}),(0,j.jsx)(Qn,{children:(0,j.jsxs)(`div`,{style:{marginTop:`10vh`},children:[(0,j.jsx)(`h1`,{className:`latest`,children:`Podcasts`}),(0,j.jsx)(or,{})]})}),(0,j.jsx)(`footer`,{children:(0,j.jsxs)(`p`,{children:[` YMAX Press & Co.`,new Date().getFullYear(),` `]})})]}),cr=({article:e})=>(0,j.jsxs)(`div`,{className:`article-card`,children:[(0,j.jsx)(`h2`,{children:e.title}),(0,j.jsx)(`h3`,{children:e.deck}),e.articleThumbnail&&(0,j.jsx)(`img`,{src:e.articleThumbnail,alt:e.title,style:{width:`100%`,height:`auto`,padding:`0`}}),(0,j.jsx)(`a`,{className:`article-card-button`,href:`#/suss/${e.id}`,children:`Read`})]}),lr=()=>(0,j.jsx)(`div`,{className:`article-list`,children:Jn.map(e=>(0,j.jsx)(cr,{article:e},e.id))}),ur=()=>(0,j.jsxs)(`div`,{style:{backgroundImage:`url("/background.png")`,minHeight:`100vh`,color:`white`,padding:`45px`},children:[(0,j.jsx)(`header`,{children:(0,j.jsx)($n,{})}),(0,j.jsx)(Qn,{children:(0,j.jsxs)(`div`,{style:{marginTop:`10vh`},children:[(0,j.jsx)(`h1`,{className:`latest`,children:`SUSS Articles!`}),(0,j.jsx)(lr,{})]})}),(0,j.jsx)(`footer`,{children:(0,j.jsxs)(`p`,{children:[` YMAX Press & Co.`,new Date().getFullYear(),` `]})})]}),dr=()=>{let{id:e}=dt(),t=Jn.find(t=>t.id===e);return t?(0,j.jsxs)(`div`,{style:{backgroundImage:`url(${nr})`,minHeight:`100vh`,color:`white`,padding:`0`},children:[(0,j.jsx)(`header`,{className:`topBar`,children:(0,j.jsx)($n,{})}),(0,j.jsxs)(`div`,{style:{backgroundColor:`black`,padding:`20px`,borderRadius:`5px`},children:[t.articleThumbnail&&(0,j.jsx)(`img`,{src:t.articleThumbnail,alt:t.title,style:{width:`100%`,height:`auto`}}),(0,j.jsx)(`h1`,{children:t.title}),(0,j.jsx)(`p`,{style:{textAlign:`justify`,lineHeight:`2`},dangerouslySetInnerHTML:{__html:t.content}})]})]}):(0,j.jsx)(`div`,{children:`SUSS Article not found`})};function fr(){return(0,j.jsx)(Tn,{children:(0,j.jsx)(Qn,{children:(0,j.jsxs)(Lt,{children:[(0,j.jsx)(Ft,{path:`/`,Component:er}),(0,j.jsx)(Ft,{path:`/article`,Component:ir}),(0,j.jsx)(Ft,{path:`/podcast`,Component:sr}),(0,j.jsx)(Ft,{path:`/suss`,Component:ur}),(0,j.jsx)(Ft,{path:`/suss/:id`,Component:dr}),(0,j.jsx)(Ft,{path:`/article/:id`,Component:rr}),(0,j.jsx)(Ft,{path:`/about`,Component:tr})]})})})}(0,v.createRoot)(document.getElementById(`root`)).render((0,j.jsx)(_.StrictMode,{children:(0,j.jsx)(fr,{})}));
+development and called the two countries “natural allies”.`}],Zn=()=>(0,j.jsx)(`div`,{className:`article-list`,children:Xn.map(e=>(0,j.jsx)(qn,{article:e},e.id))}),Qn=({children:e})=>(0,j.jsx)(`div`,{children:(0,j.jsx)(`main`,{children:e})}),$n=()=>(0,j.jsxs)(`div`,{style:{backgroundColor:`#333`,color:`white`,padding:`10px`,width:`100%`,top:0,position:`fixed`,left:0},children:[(0,j.jsx)(`h1`,{children:`YMAX Press 2026`}),(0,j.jsx)(`a`,{href:`/`,className:`barLinks`,children:`Latest News`}),(0,j.jsx)(`a`,{href:`#/article`,className:`barLinks`,children:`Articles`}),(0,j.jsx)(`a`,{href:`#/podcast`,className:`barLinks`,children:`Podcasts`}),(0,j.jsx)(`a`,{href:`#/suss`,className:`barLinks`,children:`SUSS Articles`}),(0,j.jsx)(`a`,{href:`https://tinyurl.com/ymax2026letterstojournalists`,className:`barLinks`,target:`_blank`,rel:`noopener noreferrer`,children:`Letters to Journalists`})]}),er=()=>(0,j.jsxs)(`div`,{style:{backgroundImage:`url("/background.png")`,minHeight:`100vh`,color:`white`,padding:`45px`},children:[(0,j.jsx)(`header`,{children:(0,j.jsx)($n,{})}),(0,j.jsx)(Qn,{children:(0,j.jsxs)(`div`,{style:{marginTop:`10vh`},children:[(0,j.jsx)(`h1`,{className:`latest`,children:`Latest News`}),(0,j.jsx)(Zn,{})]})}),(0,j.jsx)(`footer`,{children:(0,j.jsxs)(`p`,{children:[` YMAX Press & Co.`,new Date().getFullYear(),` `]})})]}),tr=()=>(0,j.jsxs)(`div`,{style:{backgroundImage:`url(/background.png)`,minHeight:`100vh`,color:`white`,padding:`20px`},children:[(0,j.jsx)(`header`,{className:`topBar`,children:(0,j.jsx)($n,{})}),(0,j.jsxs)(`div`,{style:{backgroundColor:`black`,padding:`20px`,borderRadius:`5px`,marginTop:`100px`},children:[(0,j.jsx)(`p`,{children:`Hello! We are the Editorial Team for YMAX 2026, consisting of Olivia, Lin Yi, Charlotte, Leslie and Tian Huai.`}),(0,j.jsx)(`p`,{children:`Led by our director Cheng Jie, we hope that YMAX Press this year will be able to engage every delegate's critical thinking skills, and ubnderstand the increasing relevance of the press corps in the world.`})]})]}),nr=`/background.png`,rr=()=>{let{id:e}=dt(),t=Xn.find(t=>t.id===e);return t?(0,j.jsxs)(`div`,{style:{backgroundImage:`url(${nr})`,minHeight:`100vh`,color:`white`,padding:`20px`},children:[(0,j.jsx)(`header`,{className:`topBar`,children:(0,j.jsx)($n,{})}),(0,j.jsxs)(`div`,{style:{backgroundColor:`black`,padding:`20px`,borderRadius:`5px`},children:[(0,j.jsx)(`h1`,{children:t.title}),(0,j.jsx)(`p`,{style:{textAlign:`justify`,lineHeight:`2`},dangerouslySetInnerHTML:{__html:t.content}})]})]}):(0,j.jsx)(`div`,{children:`Article not found`})},ir=()=>(0,j.jsxs)(`div`,{style:{backgroundImage:`url("/background.png")`,minHeight:`100vh`,color:`white`,padding:`45px`},children:[(0,j.jsx)(`header`,{children:(0,j.jsx)($n,{})}),(0,j.jsx)(Qn,{children:(0,j.jsxs)(`div`,{style:{marginTop:`10vh`},children:[(0,j.jsx)(`h1`,{className:`latest`,children:`Latest News`}),(0,j.jsx)(Zn,{})]})}),(0,j.jsx)(`footer`,{children:(0,j.jsxs)(`p`,{children:[` YMAX Press & Co.`,new Date().getFullYear(),` `]})})]}),ar=({podcast:e})=>(0,j.jsxs)(`div`,{className:`article-card`,children:[(0,j.jsx)(`h2`,{children:e.title}),(0,j.jsx)(`p`,{children:e.agency}),(0,j.jsx)(`audio`,{src:e.content,autoPlay:!1,controls:!0})]}),or=()=>(0,j.jsx)(`div`,{className:`article-list`,children:Yn.map(e=>(0,j.jsx)(ar,{podcast:e},e.id))}),sr=()=>(0,j.jsxs)(`div`,{style:{backgroundImage:`url("/background.png")`,minHeight:`100vh`,color:`white`},className:`topBar`,children:[(0,j.jsx)(`header`,{children:(0,j.jsx)($n,{})}),(0,j.jsx)(Qn,{children:(0,j.jsxs)(`div`,{style:{marginTop:`10vh`},children:[(0,j.jsx)(`h1`,{className:`latest`,children:`Podcasts`}),(0,j.jsx)(or,{})]})}),(0,j.jsx)(`footer`,{children:(0,j.jsxs)(`p`,{children:[` YMAX Press & Co.`,new Date().getFullYear(),` `]})})]}),cr=({article:e})=>(0,j.jsxs)(`div`,{className:`article-card`,children:[(0,j.jsx)(`h2`,{children:e.title}),(0,j.jsx)(`h3`,{children:e.deck}),e.articleThumbnail&&(0,j.jsx)(`img`,{src:e.articleThumbnail,alt:e.title,style:{width:`100%`,height:`auto`,padding:`0`}}),(0,j.jsx)(`a`,{className:`article-card-button`,href:`#/suss/${e.id}`,children:`Read`})]}),lr=()=>(0,j.jsx)(`div`,{className:`article-list`,children:Jn.map(e=>(0,j.jsx)(cr,{article:e},e.id))}),ur=()=>(0,j.jsxs)(`div`,{style:{backgroundImage:`url("/background.png")`,minHeight:`100vh`,color:`white`,padding:`45px`},children:[(0,j.jsx)(`header`,{children:(0,j.jsx)($n,{})}),(0,j.jsx)(Qn,{children:(0,j.jsxs)(`div`,{style:{marginTop:`10vh`},children:[(0,j.jsx)(`h1`,{className:`latest`,children:`SUSS Articles!`}),(0,j.jsx)(lr,{})]})}),(0,j.jsx)(`footer`,{children:(0,j.jsxs)(`p`,{children:[` YMAX Press & Co.`,new Date().getFullYear(),` `]})})]}),dr=()=>{let{id:e}=dt(),t=Jn.find(t=>t.id===e);return t?(0,j.jsxs)(`div`,{style:{backgroundImage:`url(${nr})`,minHeight:`100vh`,color:`white`,padding:`0`},children:[(0,j.jsx)(`header`,{className:`topBar`,children:(0,j.jsx)($n,{})}),(0,j.jsxs)(`div`,{style:{backgroundColor:`black`,padding:`20px`,borderRadius:`5px`},children:[t.articleThumbnail&&(0,j.jsx)(`img`,{src:t.articleThumbnail,alt:t.title,style:{width:`100%`,height:`auto`}}),(0,j.jsx)(`h1`,{children:t.title}),(0,j.jsx)(`p`,{style:{textAlign:`justify`,lineHeight:`2`},dangerouslySetInnerHTML:{__html:t.content}})]})]}):(0,j.jsx)(`div`,{children:`SUSS Article not found`})};function fr(){return(0,j.jsx)(Tn,{children:(0,j.jsx)(Qn,{children:(0,j.jsxs)(Lt,{children:[(0,j.jsx)(Ft,{path:`/`,Component:er}),(0,j.jsx)(Ft,{path:`/article`,Component:ir}),(0,j.jsx)(Ft,{path:`/podcast`,Component:sr}),(0,j.jsx)(Ft,{path:`/suss`,Component:ur}),(0,j.jsx)(Ft,{path:`/suss/:id`,Component:dr}),(0,j.jsx)(Ft,{path:`/article/:id`,Component:rr}),(0,j.jsx)(Ft,{path:`/about`,Component:tr})]})})})}(0,v.createRoot)(document.getElementById(`root`)).render((0,j.jsx)(_.StrictMode,{children:(0,j.jsx)(fr,{})}));
